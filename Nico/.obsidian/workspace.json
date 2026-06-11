@@ -8,29 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6351522918f939d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Schule/Lernplan.canvas",
-                "viewState": {
-                  "x": -24.49447842474858,
-                  "y": 4740.195914739042,
-                  "zoom": -0.6000000000000001
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Lernplan"
-            }
-          },
-          {
-            "id": "f719ed25f60f659d",
+            "id": "8bd7baea6a4354dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/Programmieren/Java/Basics/Fehlerbehandlung.md",
+                "file": "Schule/BA/Git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fehlerbehandlung"
-            }
-          },
-          {
-            "id": "af8f288c241cfa1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schule/Programmieren/Java/Objektorientierung/Eigene Exceptions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Eigene Exceptions"
+              "title": "Git"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Runtime",
+                "query": "\"git\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
@@ -220,13 +179,16 @@
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "f719ed25f60f659d",
+  "active": "8bd7baea6a4354dd",
   "lastOpenFiles": [
-    "Schule/Programmieren/Java/Objektorientierung/Eigene Exceptions.md",
+    "Schule/BA/REGEX.md",
+    "Schule/BA/Git.md",
     "Schule/Lernplan.canvas",
+    "Schule/Programmieren/Java/Objektorientierung/Eigene Exceptions.md",
     "Schule/Programmieren/Java/Basics/Fehlerbehandlung.md",
     "Schule/Programmieren/Java/Basics/Textdateien.md",
     "Schule/Programmieren/UML Zustandsdiagramm.md",
@@ -252,7 +214,6 @@
     "Knowledge Base/Logische Schaltungen/FlipFlops/Zählerschaltungen/BCD-Synchronzähler (4-Bit) mit JK-FF.md",
     "Schule/Databases/DB Entwicklung/Assoziationen.md",
     "Schule/Programmieren/Programmieren.md",
-    "Schule/Programmieren/UML Sequenzdiagramm.md",
     "Base.base",
     "Knowledge Base/Linux/Pakete unter Kubuntu.md.tmp.90902.9c2c37c7f5fd",
     "CLAUDE.md.tmp.75897.048d064010a8",

@@ -3,5 +3,6 @@
   "better-export-pdf",
   "symbols-prettifier",
   "obsidian-linter",
-  "github-sync"
+  "github-sync",
+  "obsidian-git"
 ]

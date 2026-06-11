@@ -28,3 +28,19 @@ git config --global init.defaultBranch main
 | `git pull`                                      | Änderungen herunterladen & mergen / rebase                  |
 | `git fetch`                                     | Holt die Änderungen von remote, Merged / Rebased aber nicht |
 | `git stash`                                     | Änderungen beiseitelegen · `git stash pop` zurückholen      |
+# Beispiele
+---
+## Repo remote erstellt, Daten die rein sollen sind lokal schon da
+```shell
+cd /local/directory
+git init
+git branch -m main
+git add .
+git commit -m "Initial Commit"
+git remote add origin <https://link.to/remote/repository.git>
+Remote überschreiben:
+git push -u origin main --force
+Lokales zu bestehenden Remote Daten hinzufügen:
+git pull origin main --allow-unrelated-histories
+git push -u origin main
+```
