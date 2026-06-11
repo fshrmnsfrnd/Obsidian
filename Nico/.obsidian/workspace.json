@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e6b3b78fec3c4d72",
+        "id": "daf9fad8e6a0ea55",
         "type": "tabs",
         "children": [
           {
-            "id": "8bd7baea6a4354dd",
+            "id": "56694d7284c52d85",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Nico/.obsidian/plugins/github-copilot/copilot-1.474.5/tree-sitter-powershell.wasm",
-                "bFile": "Nico/.obsidian/plugins/github-copilot/copilot-1.474.5/tree-sitter-powershell.wasm",
-                "aRef": ""
+                "file": "Markdown Beispiel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: tree-sitter-powershell.wasm  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Markdown Beispiel"
             }
           }
         ]
@@ -53,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"git\"",
+                "query": "tag:#tag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Schule/Lernplan.canvas",
+                "file": "Markdown Beispiel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lernplan"
+              "title": "Outgoing links from Markdown Beispiel"
             }
           },
           {
@@ -142,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge Base/Tools/Restic.md",
+                "file": "Markdown Beispiel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Restic"
+              "title": "Outline of Markdown Beispiel"
             }
           },
           {
@@ -162,7 +172,7 @@
             }
           },
           {
-            "id": "26721c7a62a67016",
+            "id": "04676c185d7858db",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -172,11 +182,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 436.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,8 +203,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8bd7baea6a4354dd",
+  "active": "56694d7284c52d85",
   "lastOpenFiles": [
+    "Knowledge Base/Tools/Restic.md",
     "Schule/Lernplan.canvas",
     "Schule/BA/Git.md",
     "Schule/BA/Untitled.base",
