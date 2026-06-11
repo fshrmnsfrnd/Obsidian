@@ -4,5 +4,6 @@
   "symbols-prettifier",
   "obsidian-linter",
   "github-sync",
-  "obsidian-git"
+  "obsidian-git",
+  "github-copilot"
 ]

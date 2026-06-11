@@ -1,0 +1,32 @@
+{
+  "conversations": [
+    {
+      "id": "1781193318093",
+      "title": "hi",
+      "messages": [
+        {
+          "id": "1781193318093",
+          "content": "hi",
+          "role": "user",
+          "timestamp": 1781193318093
+        },
+        {
+          "id": "chatcmpl-Dpc2RqAkEPq5qOnImZtDNQXg3e6rG",
+          "content": "Hi — how can I help with Obsidian today? (notes, plugins, templates, linking, searches, CSS, publish, etc.)",
+          "role": "assistant",
+          "timestamp": 1781193320171
+        }
+      ],
+      "createdAt": 1781193318093,
+      "updatedAt": 1781193320171,
+      "model": {
+        "label": "GPT-5 mini",
+        "value": "gpt-5-mini",
+        "multiplier": "0x",
+        "tier": "Medium",
+        "supportsReasoningEffort": true
+      }
+    }
+  ],
+  "activeConversationId": "1781193318093"
+}

@@ -11,24 +11,14 @@
             "id": "8bd7baea6a4354dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Schule/BA/Git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "Nico/.obsidian/plugins/github-copilot/copilot-1.474.5/tree-sitter-powershell.wasm",
+                "bFile": "Nico/.obsidian/plugins/github-copilot/copilot-1.474.5/tree-sitter-powershell.wasm",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Git"
+              "icon": "diff",
+              "title": "Diff: tree-sitter-powershell.wasm  (Working Tree)"
             }
           }
         ]
@@ -160,34 +150,54 @@
               "icon": "lucide-list",
               "title": "Outline of Restic"
             }
+          },
+          {
+            "id": "cfde60f4540f350c",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
+          },
+          {
+            "id": "26721c7a62a67016",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
+      "bases:Create new base": true,
+      "obsidian-excalidraw-plugin:New drawing": true,
       "github-sync:Sync with Remote": false
     }
   },
   "active": "8bd7baea6a4354dd",
   "lastOpenFiles": [
-    "Schule/BA/REGEX.md",
-    "Schule/BA/Git.md",
     "Schule/Lernplan.canvas",
+    "Schule/BA/Git.md",
+    "Schule/BA/Untitled.base",
+    "Schule/BA/REGEX.md",
     "Schule/Programmieren/Java/Objektorientierung/Eigene Exceptions.md",
     "Schule/Programmieren/Java/Basics/Fehlerbehandlung.md",
     "Schule/Programmieren/Java/Basics/Textdateien.md",
@@ -213,7 +223,6 @@
     "Knowledge Base/Logische Schaltungen/FlipFlops/Zählerschaltungen/3-Bit Synchronzähler.md",
     "Knowledge Base/Logische Schaltungen/FlipFlops/Zählerschaltungen/BCD-Synchronzähler (4-Bit) mit JK-FF.md",
     "Schule/Databases/DB Entwicklung/Assoziationen.md",
-    "Schule/Programmieren/Programmieren.md",
     "Base.base",
     "Knowledge Base/Linux/Pakete unter Kubuntu.md.tmp.90902.9c2c37c7f5fd",
     "CLAUDE.md.tmp.75897.048d064010a8",
@@ -226,7 +235,6 @@
     "src/Pasted image 20260523135534.png",
     "Knowledge Base/Mathe/Merkhilfe_Mathematik_Technik_FOSBOS_2017.pdf",
     "Schule/KNT/Netzwerktechnik/Routing",
-    "Schule/KNT/Netzwerktechnik",
     "Knowledge Base/KI/Theorie KI/Aufbau LLM.canvas",
     "Test/canvas.canvas",
     "src/Indonesien-Regionen2-1536x630.webp",
