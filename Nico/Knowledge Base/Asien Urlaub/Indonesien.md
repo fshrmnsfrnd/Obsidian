@@ -1,0 +1,52 @@
+![[Indonesien-Regionen2-1536x630.webp]]
+
+- https://betterbeyond.de/indonesien/
+- Internationaler Führerschein
+	- Beim Landratsamt mit Termin. 20€
+- Gelbfieberimpfung
+- Malaria
+- Indonesische Rupiah (IDR) 1 € = 16.600 IDR
+- Roller mieten pro Tag ~4-8€
+- Asien Netzteil
+- Visum (Online oder bei Einreise)
+- Reisekreditkarte
+- Handytarif
+- Muslimisch (Nicht zu kurz anziehen)
+- Neuguinea Reisewarnung
+- Klamotten
+	- Rucksack
+	- Gute Schuhe
+- Sichere Taxis: Bluebird, Silverbird oder Express
+- Anschlaggefährdet: 
+	- Jakarta
+	- Bandung
+	- Medan
+	- Makassar
+	- Surabaya
+	- Bali
+	- Ambon (Molukken)
+- Java
+	- Yogyakarta (Viel Kultur)
+	- Vulkan Ijen (Blaue Lava)
+	- Bromo Vulkan hochlaufen (aktiv)
+	- Gutes Zugnetz
+	- Borobodur Tempel (Aber teuer)
+- Bali
+	- Spirituelle Orte suchen
+- Lombok
+	- Südküste Strände
+	- Selong Belanak Beach Surfen
+	- Rinjani Vulkan
+	- Tetebatu (Roller Tour)
+		- Wasserfälle
+- Flores
+	- Mit Roller quer über die Insel
+	- Einsame Strände
+	- Komodo Tour (Mit Schuff durch Nationalpark)
+- Raja Ampat Regency
+	- Schnorcheln und Tauchen
+- Molukken
+	- Halmahera
+		- Wenig Touristen
+		- Roller Touren
+		- Einsame Strände

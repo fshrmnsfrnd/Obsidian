@@ -1,0 +1,27 @@
+---
+Fach: "[[AWM]]"
+---
+- **Proportionen**: 
+	- Fenster erscheinen angenehmer, wenn sie eher breit als hoch sind. Diese Forderung lässt sich meistens durch eine Verteilung der Informationen auf zwei Spalten verwirklichen.
+- **Balance**: 
+	- Wenn ein Fenster durch eine vertikale Linie (also von oben nach unten) geteilt wird, dann soll die Informationen auf beiden Seiten gleich groß sein.
+- **Symmetrie**: 
+	- Die Symmetrie ist eine Verstärkung der Balance. Hier wird zusätzlich gefordert, dass horizontal gegenüberliegende Steuerelemente gleichartig sind. Diese Gleichartigkeit kann durch identische oder gleich große Steuerelemente erreicht werden. 
+	- **Hinweis**: In der Praxis ist das jedoch nicht immer möglich.
+- **Sequenz**: Das Auge des Benutzers soll... 
+	- sequenziell durch das Fenster geführt werden
+	- keine unnötigen Sprünge machen müssen. 
+	- Die wichtigsten Informationen sollten oben links zu finden sein, denn auf diesen Bereich schaut der Benutzer zuerst (zumindest im westlichen Teil der Welt).
+- **Einfachheit** 
+	- möglichst einfache Gestaltung 
+	- zurückhaltende Verwendung von verschiedenen Schriftarten oder Farben
+	- Verwenden Sie Interaktions-Elemente, um die Usability zu verbessern - nicht, weil sie existieren.
+- **Virtuelle Linien minimieren**: 
+	- Außer den gezeichneten Linien gibt es in einem Fenster auch virtuelle (gedachte) Linien. Diese Linien bildet der Benutzer intuitiv. Sie sollten möglichst minimiert werden. 
+	- **Aber**: Die Felder sollen aber trotzdem dem fachlichen Verwendungszweck angepasst werden – also Felder nicht beliebig verlängern.
+- **Buchstaben und Wörter**: 
+	- Bei einem Augenabstand zwischen 45 und 60 cm vom Bildschirm sollte die Schriftgröße 9 oder 10 Punkte betragen (1 Punkt = 0,352 mm). 
+	- Wenn Sie Groß- und Kleinschreibung verwenden, verbessern Sie die Leseleistung um 13%
+	- Heben Sie Wörter in fortlaufendem Text durch Fettschrift hervorheben - nicht durch Großbuchstaben.
+- **Farbe** 
+	- Farben bieten viele Möglichkeiten, die visuelle Informationsverarbeitung zusätzlich wirksam unterstützen. Unterschiedliche Farben werden schneller erkannt, als verschiedene Größen oder Helligkeiten. Die wichtigsten Bildschirmfarben besitzen folgende Helligkeitsrangfolge: Weiß, Gelb, Cyan, Grün, Magenta, Rot, Blau, Schwarz.

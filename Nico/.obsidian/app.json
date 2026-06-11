@@ -1,0 +1,23 @@
+{
+  "attachmentFolderPath": "src",
+  "alwaysUpdateLinks": true,
+  "mobileToolbarCommands": [],
+  "newFileLocation": "current",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showLineNumber": false,
+  "userIgnoreFilters": [
+    "src/"
+  ],
+  "mobilePullAction": "",
+  "promptDelete": true,
+  "autoConvertHtml": true,
+  "trashOption": "local",
+  "spellcheck": true,
+  "foldIndent": true
+}

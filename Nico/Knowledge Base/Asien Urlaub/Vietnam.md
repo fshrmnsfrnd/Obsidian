@@ -1,0 +1,5 @@
+- E-Zigaretten verboten (Haftstrafe)
+- In keinster Weise negativ über Regierung äußern
+- Kreditkartenbetrug
+- In den großen Städten viele Betrüger
+- 

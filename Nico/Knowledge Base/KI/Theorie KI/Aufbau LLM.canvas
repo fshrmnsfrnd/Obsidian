@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"325347f5927da99f","type":"text","text":"# [[Large Language Models|LLM]] ","x":-1,"y":22,"width":501,"height":778},
+		{"id":"02b7f8ea91206130","type":"text","text":"# [[Transformer]]","x":20,"y":80,"width":460,"height":700},
+		{"id":"4099847f2d2faaea","type":"text","text":"[[Tokens#Tokenizer|Tokenizer]] ","x":40,"y":140,"width":420,"height":50},
+		{"id":"cf48e8b3581fd1f0","type":"text","text":"## [[Transformer#Transformer Block|Transformer Blocks]]\n","x":40,"y":220,"width":420,"height":540},
+		{"id":"602385b4f0faa24e","type":"text","text":"### Transformer Block 1\n\n","x":60,"y":281,"width":380,"height":179},
+		{"id":"8ad598a810719705","type":"text","text":"[[Transformer#Self-Attention Layer|Self-Attention Layer]]","x":80,"y":341,"width":340,"height":50},
+		{"id":"adedd44885bde1f2","type":"text","text":"[[Transformer#Feedforward Layer|Feedforward Layer]] ","x":80,"y":400,"width":340,"height":50},
+		{"id":"1df3498a5e82e1f3","type":"text","text":"### Transformer Block n\n\n","x":60,"y":491,"width":380,"height":189},
+		{"id":"76432f5ead7dccf9","type":"text","text":"[[Transformer#Self-Attention Layer|Self-Attention Layer]]","x":80,"y":555,"width":340,"height":50},
+		{"id":"1a5be66079a45773","type":"text","text":"[[Transformer#Feedforward Layer|Feedforward Layer]] ","x":80,"y":620,"width":340,"height":50},
+		{"id":"c6cd9199a135c618","type":"text","text":"## [[LM Head]]","x":60,"y":700,"width":380,"height":50},
+		{"id":"30d4acec8c88a885","x":-1,"y":-120,"width":501,"height":50,"type":"text","text":"# Prompt"},
+		{"id":"eefc7da4a6389141","x":560,"y":906,"width":250,"height":50,"type":"text","text":"# Ausgabe"},
+		{"id":"f36b9bf7a10a9d20","x":-3,"y":906,"width":252,"height":84,"type":"text","text":"max. Token \noder\nEnde der Antwort erreicht?"},
+		{"id":"45a41e45234d0eb9","x":125,"y":1080,"width":250,"height":60,"type":"text","text":"Ende"}
+	],
+	"edges":[
+		{"id":"97ddea0aa629937f","fromNode":"30d4acec8c88a885","fromSide":"bottom","toNode":"325347f5927da99f","toSide":"top"},
+		{"id":"c4a34f4a490d7ace","fromNode":"4099847f2d2faaea","fromSide":"bottom","toNode":"602385b4f0faa24e","toSide":"top"},
+		{"id":"bf4fb40079184505","fromNode":"4099847f2d2faaea","fromSide":"bottom","toNode":"cf48e8b3581fd1f0","toSide":"top"},
+		{"id":"abab39e3a6a12f4e","fromNode":"4099847f2d2faaea","fromSide":"bottom","toNode":"8ad598a810719705","toSide":"top"},
+		{"id":"f5314769585eeb73","fromNode":"8ad598a810719705","fromSide":"top","toNode":"4099847f2d2faaea","toSide":"bottom"},
+		{"id":"24029bc774e60c69","fromNode":"1df3498a5e82e1f3","fromSide":"bottom","toNode":"c6cd9199a135c618","toSide":"top"},
+		{"id":"de785465222c94d8","fromNode":"4099847f2d2faaea","fromSide":"bottom","toNode":"602385b4f0faa24e","toSide":"top"},
+		{"id":"cadce020c76581e9","fromNode":"4099847f2d2faaea","fromSide":"bottom","toNode":"602385b4f0faa24e","toSide":"top"},
+		{"id":"63b2b36cad7b8773","fromNode":"325347f5927da99f","fromSide":"bottom","toNode":"eefc7da4a6389141","toSide":"top","label":"Ausgabe des Token als Wort"},
+		{"id":"6f69da407feb39f4","fromNode":"325347f5927da99f","fromSide":"bottom","toNode":"f36b9bf7a10a9d20","toSide":"top"},
+		{"id":"85d2c5955ff7905e","fromNode":"f36b9bf7a10a9d20","fromSide":"bottom","toNode":"45a41e45234d0eb9","toSide":"top","label":"Ja"},
+		{"id":"63495f2854b4b4d1","fromNode":"f36b9bf7a10a9d20","fromSide":"left","toNode":"30d4acec8c88a885","toSide":"left","label":"Token als \nWort an \nden Prompt\nanhängen"}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"0714501f526ed143","type":"text","text":"# Finanzierung","x":-40,"y":-220,"width":250,"height":60},
+		{"id":"41506ea6199226e2","type":"text","text":"# Investition","x":-420,"y":-220,"width":250,"height":60},
+		{"id":"a29d679083df0628","type":"text","text":"# Eigenkapital","x":-200,"y":-30,"width":250,"height":60},
+		{"id":"95236f15d8675ec6","type":"text","text":"# Fremdkapital","x":140,"y":-30,"width":250,"height":60},
+		{"id":"f47e599f14ccaedb","type":"text","text":"# Eigenfinanzierung","x":-340,"y":90,"width":265,"height":60},
+		{"id":"9eea16fd9d822804","type":"text","text":"# Fremdfinanzierung","x":248,"y":90,"width":285,"height":60},
+		{"id":"9125b501f9fe1b68","type":"text","text":"# Stille Beteiligung\n(nur Gewinnbeteiligung)\noder offene Beteiligung, Kapitalerhöhung","x":-200,"y":220,"width":250,"height":141},
+		{"id":"927a397fdd742bce","type":"text","text":"# Selbstfinanzierung","x":-500,"y":220,"width":266,"height":60},
+		{"id":"a0235c8d0419094e","type":"text","text":"# Kreditfinanzierung\noder\n- Staatliche Finanzierung\n- [[Factoring]]\n- Leasing","x":248,"y":220,"width":285,"height":200},
+		{"id":"9e7b7e60b29ecd80","type":"text","text":"zusätzliche Einlagen oder Aufnahme eines neuen Gesellschafters oder  Aktienausgabe","x":-200,"y":460,"width":250,"height":111},
+		{"id":"a0bf6b3cf8144870","type":"text","text":"Bereitstellung von Fremdkapital durch Kreditinstitute, Lieferanten, Kunden\nKauf auf Zahlungsziele","x":248,"y":460,"width":285,"height":140},
+		{"id":"6188efba26011d71","type":"text","text":"<center><h1>Außenfinanzierung</h1></center>\nKreditsubstitute, [[Factoring]], Leasing, [[Avalkredit]]","x":-200,"y":660,"width":733,"height":120},
+		{"id":"2805847e2344a881","type":"text","text":"zurückbehaltene Gewinne\n= Thesaurierung des Gewinns\n$-$ Finanzierung der Abschreibung","x":-492,"y":460,"width":250,"height":111},
+		{"id":"753fc6e69c4db851","type":"text","text":"# [[Innenfinanzierung]]\nBildung [[Innenfinanzierung#Stille Reserven|stiller Reserven]]","x":-509,"y":660,"width":285,"height":100}
+	],
+	"edges":[
+		{"id":"839ab009a04cddf0","fromNode":"41506ea6199226e2","fromSide":"right","toNode":"0714501f526ed143","toSide":"left","label":"verlangt"},
+		{"id":"7e8f9d53e04af04b","fromNode":"0714501f526ed143","fromSide":"bottom","toNode":"a29d679083df0628","toSide":"top","label":"Unternehmen"},
+		{"id":"e60b7c9c492c5d61","fromNode":"0714501f526ed143","fromSide":"bottom","toNode":"95236f15d8675ec6","toSide":"top","label":"erhöht"},
+		{"id":"ef905c9cf894fb32","fromNode":"a29d679083df0628","fromSide":"bottom","toNode":"f47e599f14ccaedb","toSide":"top"},
+		{"id":"eecd17f2a48a63c2","fromNode":"95236f15d8675ec6","fromSide":"bottom","toNode":"9eea16fd9d822804","toSide":"top"},
+		{"id":"bc74fa54e2999c4e","fromNode":"f47e599f14ccaedb","fromSide":"bottom","toNode":"9125b501f9fe1b68","toSide":"top"},
+		{"id":"9e68a99c28ce5606","fromNode":"f47e599f14ccaedb","fromSide":"bottom","toNode":"927a397fdd742bce","toSide":"top"},
+		{"id":"3ebee627f49a75b5","fromNode":"9eea16fd9d822804","fromSide":"bottom","toNode":"a0235c8d0419094e","toSide":"top"},
+		{"id":"16a60d025de338ce","fromNode":"9125b501f9fe1b68","fromSide":"bottom","toNode":"9e7b7e60b29ecd80","toSide":"top"},
+		{"id":"4385a8f512e9d7f2","fromNode":"927a397fdd742bce","fromSide":"bottom","toNode":"2805847e2344a881","toSide":"top"},
+		{"id":"51573978f6d114d3","fromNode":"a0235c8d0419094e","fromSide":"bottom","toNode":"a0bf6b3cf8144870","toSide":"top"},
+		{"id":"b7dc855d0cb90dcf","fromNode":"a0bf6b3cf8144870","fromSide":"bottom","toNode":"6188efba26011d71","toSide":"top"},
+		{"id":"ac777075c0e3fefa","fromNode":"9e7b7e60b29ecd80","fromSide":"bottom","toNode":"6188efba26011d71","toSide":"top"},
+		{"id":"af91279d92b18b21","fromNode":"2805847e2344a881","fromSide":"bottom","toNode":"753fc6e69c4db851","toSide":"top"}
+	]
+}

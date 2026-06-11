@@ -1,0 +1,4 @@
+- Praxissemester anrechen?
+- Wieviel ETCS anrechnen? (Vergleich Augsburg)
+- Bis wann Technikerzeugnis einreichen?
+- Bis wann FHR Zeugnis einreichen?

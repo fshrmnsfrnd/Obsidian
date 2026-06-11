@@ -1,0 +1,9 @@
+{
+  "pinned": [
+    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab",
+    "markdown:add-metadata-property",
+    "editor:insert-callout",
+    "editor:insert-table",
+    "editor:toggle-blockquote"
+  ]
+}

@@ -1,0 +1,32 @@
+---
+tags:
+Fach: "[[Programmieren]]"
+Thema:
+  - "[[Java]]"
+---
+# Einfache Datentypen
+
+| **Von V \ Nach >** | `byte`              | `short`               | `int`                 | `long`              | `float`               | `double`                | `char`        | `String`            |
+| ------------------ | ------------------- | --------------------- | --------------------- | ------------------- | --------------------- | ----------------------- | ------------- | ------------------- |
+| **`byte`**         | –                   | `(short) b`           | `(int) b`             | `(long) b`          | `(float) b`           | `(double) b`            | `(char) b`    | `String.valueOf(b)` |
+| **`short`**        | `(byte) s`          | –                     | `(int) s`             | `(long) s`          | `(float) s`           | `(double) s`            | `(char) s`    | `String.valueOf(s)` |
+| **`int`**          | `(byte) i`          | `(short) i`           | –                     | `(long) i`          | `(float) i`           | `(double) i`            | `(char) i`    | `String.valueOf(i)` |
+| **`long`**         | `(byte) l`          | `(short) l`           | `(int) l`             | –                   | `(float) l`           | `(double) l`            | `(char) l`    | `String.valueOf(l)` |
+| **`float`**        | `(byte) f`          | `(short) f`           | `(int) f`             | `(long) f`          | –                     | `(double) f`            | `(char) f`    | `String.valueOf(f)` |
+| **`double`**       | `(byte) d`          | `(short) d`           | `(int) d`             | `(long) d`          | `(float) d`           | –                       | `(char) d`    | `String.valueOf(d)` |
+| **`char`**         | `(byte) c`          | `(short) c`           | `(int) c`             | `(long) c`          | `(float) c`           | `(double) c`            | –             | `String.valueOf(c)` |
+| **`String`**       | `Byte.parseByte(s)` | `Short.parseShort(s)` | `Integer.parseInt(s)` | `Long.parseLong(s)` | `Float.parseFloat(s)` | `Double.parseDouble(s)` | `s.charAt(0)` | –                   |
+
+# Mit Wrapperklassen
+
+| **Von V \ Nach >** | `Byte`                               | `Short`                                | `Integer`                              | `Long`                               | `Float`                                | `Double`                                 | `Character`                                 | `Boolean`            | `String`            |
+| ------------------ | ------------------------------------ | -------------------------------------- | -------------------------------------- | ------------------------------------ | -------------------------------------- | ---------------------------------------- | ------------------------------------------- | -------------------- | ------------------- |
+| **`Byte`**         | –                                    | `Short.valueOf(b.byteValue())`         | `Integer.valueOf(b.intValue())`        | `Long.valueOf(b.longValue())`        | `Float.valueOf(b.floatValue())`        | `Double.valueOf(b.doubleValue())`        | `Character.valueOf((char) b.byteValue())`   | ❌                    | `String.valueOf(b)` |
+| **`Short`**        | `Byte.valueOf(s.byteValue())`        | –                                      | `Integer.valueOf(s.intValue())`        | `Long.valueOf(s.longValue())`        | `Float.valueOf(s.floatValue())`        | `Double.valueOf(s.doubleValue())`        | `Character.valueOf((char) s.shortValue())`  | ❌                    | `String.valueOf(s)` |
+| **`Integer`**      | `Byte.valueOf(i.byteValue())`        | `Short.valueOf(i.shortValue())`        | –                                      | `Long.valueOf(i.longValue())`        | `Float.valueOf(i.floatValue())`        | `Double.valueOf(i.doubleValue())`        | `Character.valueOf((char) i.intValue())`    | ❌                    | `String.valueOf(i)` |
+| **`Long`**         | `Byte.valueOf(l.byteValue())`        | `Short.valueOf(l.shortValue())`        | `Integer.valueOf(l.intValue())`        | –                                    | `Float.valueOf(l.floatValue())`        | `Double.valueOf(l.doubleValue())`        | `Character.valueOf((char) l.longValue())`   | ❌                    | `String.valueOf(l)` |
+| **`Float`**        | `Byte.valueOf(f.byteValue())`        | `Short.valueOf(f.shortValue())`        | `Integer.valueOf(f.intValue())`        | `Long.valueOf(f.longValue())`        | –                                      | `Double.valueOf(f.doubleValue())`        | `Character.valueOf((char) f.floatValue())`  | ❌                    | `String.valueOf(f)` |
+| **`Double`**       | `Byte.valueOf(d.byteValue())`        | `Short.valueOf(d.shortValue())`        | `Integer.valueOf(d.intValue())`        | `Long.valueOf(d.longValue())`        | `Float.valueOf(d.floatValue())`        | –                                        | `Character.valueOf((char) d.doubleValue())` | ❌                    | `String.valueOf(d)` |
+| **`Character`**    | `Byte.valueOf((byte) c.charValue())` | `Short.valueOf((short) c.charValue())` | `Integer.valueOf((int) c.charValue())` | `Long.valueOf((long) c.charValue())` | `Float.valueOf((float) c.charValue())` | `Double.valueOf((double) c.charValue())` | –                                           | ❌                    | `String.valueOf(c)` |
+| **`Boolean`**      | ❌                                    | ❌                                      | ❌                                      | ❌                                    | ❌                                      | ❌                                        | ❌                                           | –                    | `String.valueOf(b)` |
+| **`String`**       | `Byte.valueOf(s)`                    | `Short.valueOf(s)`                     | `Integer.valueOf(s)`                   | `Long.valueOf(s)`                    | `Float.valueOf(s)`                     | `Double.valueOf(s)`                      | `Character.valueOf(s.charAt(0))`            | `Boolean.valueOf(s)` | –                   |

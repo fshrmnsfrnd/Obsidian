@@ -1,0 +1,604 @@
+/*
+ * ══════════════════════════════════════════════════
+ *  Nicos Theme – Obsidian Dark Theme
+ *  Palette: "Pastelldämmerung"
+ *
+ *    Schiefer  ─ Oberflächen / UI          (#A8B5C2 → #0F1820)
+ *    Goldstaub ─ Textinhalte               (Text = #EDE8DC, Secondary = #C8B48A)
+ *    Koralle   ─ Betonung / Interaktiv     (3 = Kursiv, 4 = Fett)
+ *    Lavendel  ─ Überschriften H1 – H6
+ *    Salbei    ─ Code / Tags / Erfolg / Links
+ * ══════════════════════════════════════════════════
+ */
+
+.theme-dark {
+
+  /* ════════════════════════════════════
+     FARBPALETTE
+  ════════════════════════════════════ */
+
+  /* Schiefer – Oberflächen */
+  --schiefer-1-hex: #A8B5C2;
+  --schiefer-2-hex: #738898;
+  --schiefer-3-hex: #475869;
+  --schiefer-4-hex: #2C3A48;
+  --schiefer-5-hex: #1A2535;
+  --schiefer-6-hex: #0F1820;
+
+  /* Goldstaub – Textinhalte */
+  --goldstaub-1-hex: #EDE8DC;   /* Text (Haupttext) */
+  --goldstaub-2-hex: #C8B48A;   /* Secondary (Gedämpfter Text) */
+  --goldstaub-3-hex: #B09A6A;
+  --goldstaub-4-hex: #957F50;
+  --goldstaub-5-hex: #574A2E;
+  --goldstaub-6-hex: #332C1A;
+
+  /* Koralle – Betonung / Interaktiv */
+  --koralle-1-hex: #F2A898;
+  --koralle-2-hex: #E8856E;
+  --koralle-3-hex: #D9604A;   /* Kursiv */
+  --koralle-4-hex: #C24333;   /* Fett / Bold / Strong */
+  --koralle-5-hex: #8A2E22;
+  --koralle-6-hex: #561E16;
+
+  /* Lavendel – Überschriften */
+  --lavendel-1-hex: #C8B8D8;     /* H1 */
+  --lavendel-2-hex: #AA94C4;     /* H2 */
+  --lavendel-3-hex: #8C72A8;     /* H3 */
+  --lavendel-4-hex: #705490;     /* H4 */
+  --lavendel-5-hex: #564078;     /* H5 */
+  --lavendel-6-hex: #3C2C54;     /* H6 */
+
+  /* Salbei – Code / Tags */
+  --salbei-1-hex: #B4D0C2;
+  --salbei-2-hex: #88BAA4;
+  --salbei-3-hex: #64A086;
+  --salbei-4-hex: #448068;
+  --salbei-5-hex: #2A5A46;
+  --salbei-6-hex: #163828;
+
+  /* ════════════════════════════════════
+     FARBPALETTE – RGB (für Callouts etc.)
+  ════════════════════════════════════ */
+
+  /* Koralle – RGB */
+  --koralle-1-rgb: 242, 168, 152;
+  --koralle-2-rgb: 232, 133, 110;
+  --koralle-3-rgb: 217,  96,  74;
+  --koralle-4-rgb: 194,  67,  51;
+  --koralle-5-rgb: 138,  46,  34;
+  --koralle-6-rgb:  86,  30,  22;
+
+  /* Lavendel – RGB */
+  --lavendel-1-rgb: 200, 184, 216;
+  --lavendel-2-rgb: 170, 148, 196;
+  --lavendel-3-rgb: 140, 114, 168;
+  --lavendel-4-rgb: 112,  84, 144;
+  --lavendel-5-rgb:  86,  64, 120;
+  --lavendel-6-rgb:  60,  44,  84;
+
+  /* Goldstaub – RGB */
+  --goldstaub-1-rgb: 237, 232, 220;
+  --goldstaub-2-rgb: 200, 180, 138;
+  --goldstaub-3-rgb: 176, 154, 106;
+  --goldstaub-4-rgb: 149, 127,  80;
+  --goldstaub-5-rgb:  87,  74,  46;
+  --goldstaub-6-rgb:  51,  44,  26;
+
+  /* Salbei – RGB */
+  --salbei-1-rgb: 180, 208, 194;
+  --salbei-2-rgb: 136, 186, 164;
+  --salbei-3-rgb: 100, 160, 134;
+  --salbei-4-rgb:  68, 128, 104;
+  --salbei-5-rgb:  42,  90,  70;
+  --salbei-6-rgb:  22,  56,  40;
+
+  /* Schiefer – RGB */
+  --schiefer-1-rgb: 168, 181, 194;
+  --schiefer-2-rgb: 115, 136, 152;
+  --schiefer-3-rgb:  71,  88, 105;
+  --schiefer-4-rgb:  44,  58,  72;
+  --schiefer-5-rgb:  26,  37,  53;
+  --schiefer-6-rgb:  15,  24,  32;
+
+  /* ════════════════════════════════════
+     HINTERGRUND & OBERFLÄCHEN
+  ════════════════════════════════════ */
+
+  --background-primary:                    var(--schiefer-6-hex);    /* Haupteditor */
+  --background-secondary:                  var(--schiefer-5-hex);    /* Seitenleiste */
+  --background-modifier-border:            var(--schiefer-4-hex);
+  --background-modifier-border-hover:      var(--schiefer-4-hex);
+  --background-modifier-border-focus:      var(--koralle-3-hex);
+  --background-modifier-form-field:        var(--schiefer-6-hex);
+  --background-modifier-form-field-highlighted: var(--schiefer-6-hex);
+  --background-modifier-box-shadow:        rgba(9, 14, 20, 0.55);
+  --background-modifier-success:           rgba(22, 56, 40, 0.35);
+  --background-modifier-success-rgb:       22, 56, 40;
+  --background-modifier-error:             rgba(60, 44, 84, 0.35);
+  --background-modifier-error-rgb:         60, 44, 84;
+  --background-modifier-cover:             rgba(9, 14, 20, 0.82);
+
+  /* ════════════════════════════════════
+     TEXT
+  ════════════════════════════════════ */
+
+  --text-normal:              var(--goldstaub-1-hex);
+  --text-muted:               var(--goldstaub-2-hex);
+  --text-faint:               var(--goldstaub-4-hex);
+  --text-on-accent:           var(--schiefer-5-hex);
+  --text-error:               var(--lavendel-3-hex);
+  --text-error-hover:         var(--lavendel-2-hex);
+  --text-success:             var(--salbei-4-hex);
+  --text-warning:             var(--koralle-2-hex);
+  --text-accent:              var(--salbei-4-hex);  /* Links */
+  --text-accent-hover:        var(--salbei-1-hex);
+  --text-selection:           rgba(217, 96, 74, 0.20);
+  --text-highlight-bg:        rgba(var(--koralle-3-rgb), 0.6);
+  --text-highlight-bg-active: rgba(232, 133, 110, 0.32);
+  --nav-item-color:            var(--goldstaub-1-hex);
+  --nav-item-color-hover:      var(--goldstaub-1-hex);
+  --nav-item-color-active:     var(--goldstaub-2-hex);
+
+  /* ════════════════════════════════════
+     INTERAKTIV / AKZENT
+  ════════════════════════════════════ */
+
+  --interactive-normal:       var(--schiefer-4-hex);
+  --interactive-hover:        var(--schiefer-3-hex);
+  --interactive-accent:       var(--koralle-3-hex);
+  --interactive-accent-rgb:   217, 96, 74;
+  --interactive-accent-hover: var(--koralle-4-hex);
+  --interactive-success:      var(--salbei-3-hex);
+
+  /* ════════════════════════════════════
+     ÜBERSCHRIFTEN
+  ════════════════════════════════════ */
+
+  --h1-color:  var(--lavendel-1-hex);
+  --h2-color:  var(--lavendel-2-hex);
+  --h3-color:  var(--lavendel-3-hex);
+  --h4-color:  var(--lavendel-4-hex);
+  --h5-color:  var(--lavendel-5-hex);
+  --h6-color:  var(--lavendel-6-hex);
+
+  --h1-size:   1.8em;
+  --h2-size:   1.5em;
+  --h3-size:   1.3em;
+  --h4-size:   1.15em;
+  --h5-size:   1.05em;
+  --h6-size:   1em;
+
+  --h1-weight: 700;
+  --h2-weight: 600;
+  --h3-weight: 600;
+  --h4-weight: 500;
+  --h5-weight: 500;
+  --h6-weight: 400;
+
+  /* ════════════════════════════════════
+     FETT & KURSIV
+  ════════════════════════════════════ */
+
+  /* Standard-Obsidian-Variablen */
+  --bold-color:    var(--koralle-4-hex);
+  --italic-color:  var(--koralle-3-hex);
+
+  /* ════════════════════════════════════
+     CODE (Syntax-Highlighting)
+  ════════════════════════════════════ */
+/*
+  --code-normal:      var(--salbei-2-hex);
+  --code-background:  var(--schiefer-4-hex);
+  --code-comment:     var(--schiefer-3-hex);
+  --code-function:    var(--goldstaub-2-hex);
+  --code-important:   var(--koralle-3-hex);
+  --code-keyword:     var(--lavendel-3-hex);
+  --code-operator:    var(--koralle-2-hex);
+  --code-property:    var(--goldstaub-3-hex);
+  --code-punctuation: var(--schiefer-2-hex);
+  --code-string:      var(--salbei-1-hex);
+  --code-tag:         var(--lavendel-2-hex);
+  --code-value:       var(--goldstaub-3-hex);
+*/
+  /* ════════════════════════════════════
+   CODE – VS Code Dark Modern Theme
+════════════════════════════════════ */
+
+/* Dark Modern Tokens */
+--vscode-bg:          #1E1E1E;
+--vscode-text:        #D4D4D4;
+--vscode-comment:     #6A9955;
+--vscode-keyword:     #569CD6;
+--vscode-control:     #C586C0;
+--vscode-function:    #DCDCAA;
+--vscode-string:      #CE9178;
+--vscode-number:      #B5CEA8;
+--vscode-type:        #4EC9B0;
+--vscode-property:    #9CDCFE;
+--vscode-operator:    #D4D4D4;
+--vscode-punctuation: #D4D4D4;
+
+/* Obsidian Code-Variablen → Dark Modern */
+--code-background:  var(--vscode-bg);
+--code-normal:      var(--vscode-text);
+--code-comment:     var(--vscode-comment);
+--code-keyword:     var(--vscode-keyword);
+--code-function:    var(--vscode-function);
+--code-string:      var(--vscode-string);
+--code-value:       var(--vscode-number);
+--code-tag:         var(--vscode-keyword);
+--code-property:    var(--vscode-property);
+--code-operator:    var(--vscode-operator);
+--code-punctuation: var(--vscode-punctuation);
+--code-important:   var(--vscode-control);
+
+  /* ════════════════════════════════════
+     TAGS
+  ════════════════════════════════════ */
+
+  --tag-color:              var(--salbei-3-hex);
+  --tag-background:         rgba(100, 160, 134, 0.12);
+  --tag-background-hover:   rgba(100, 160, 134, 0.22);
+  --tag-color-hover:        var(--salbei-2-hex);
+  --tag-border-color:       var(--salbei-5-hex);
+  --tag-border-color-hover: var(--salbei-4-hex);
+  --tag-border-width:       1px;
+  --tag-padding-x:          0.45em;
+  --tag-padding-y:          0.1em;
+  --tag-radius:             3px;
+
+  /* ════════════════════════════════════
+     BLOCKQUOTE / HR / TABLE
+  ════════════════════════════════════ */
+
+  --blockquote-border-color:      var(--salbei-4-hex);
+  --blockquote-background-color:  rgba(var(--salbei-4-rgb), 0.08);
+  --blockquote-color:             var(--text-normal);
+
+  --hr-color:   var(--schiefer-4-hex);
+
+  --table-header-background:              var(--schiefer-5-hex);
+  --table-header-background-hover:        var(--schiefer-5-hex);
+  --table-border-color:                   var(--schiefer-4-hex);
+  --table-border-width:                   1px;
+
+  /* ════════════════════════════════════
+     CALLOUTS
+  ════════════════════════════════════ */
+
+  --callout-border-width: 0.25px;
+  --callout-border-opacity: 0.2;
+  --callout-padding:
+    var(--size-4-3) var(--size-4-3)
+    var(--size-4-3) var(--size-4-6);
+  --callout-radius: var(--radius-s);
+  --callout-blend-mode: var(--highlight-mix-blend-mode);
+  --callout-title-padding: 0;
+  --callout-title-size: inherit;
+  --callout-content-padding: 0;
+  --callout-content-background: transparent;
+  --callout-error:     var(--koralle-3-rgb);
+  --callout-fail:      var(--koralle-4-rgb);
+  --callout-bug:       var(--koralle-2-rgb);
+  --callout-warning:   var(--goldstaub-3-rgb);
+  --callout-important: var(--goldstaub-4-rgb);
+  --callout-example:   var(--goldstaub-2-rgb);
+  --callout-default:   var(--schiefer-2-rgb);
+  --callout-info:      var(--schiefer-1-rgb);
+  --callout-quote:     var(--schiefer-3-rgb);
+  --callout-question:  var(--lavendel-2-rgb);
+  --callout-todo:      var(--lavendel-3-rgb);
+  --callout-success:   var(--salbei-3-rgb);
+  --callout-summary:   var(--salbei-2-rgb);
+  --callout-tip:       var(--salbei-1-rgb);
+
+  /* ════════════════════════════════════
+     CHECKBOXEN
+  ════════════════════════════════════ */
+
+  --checkbox-color:         var(--koralle-3-hex);
+  --checkbox-color-hover:   var(--koralle-2-hex);
+  --checkbox-border-color:  var(--schiefer-3-hex);
+  --checkbox-marker-color:  var(--schiefer-5-hex);
+  --checklist-done-color:   var(--schiefer-2-hex);
+
+  /* ════════════════════════════════════
+     SCROLLBAR
+  ════════════════════════════════════ */
+
+  --scrollbar-bg:                transparent;
+  --scrollbar-thumb-bg:          var(--schiefer-4-hex);
+  --scrollbar-active-thumb-bg:   var(--schiefer-3-hex);
+
+  /* ════════════════════════════════════
+     Titlebar
+  ════════════════════════════════════ */
+
+  --titlebar-text-color:            var(--schiefer-3-hex);
+  --titlebar-text-color-focused:    var(--schiefer-1-hex);
+
+  /* ════════════════════════════════════
+     Tabs
+  ════════════════════════════════════ */
+
+  --tab-text-color:                 var(--schiefer-2-hex);
+  --tab-text-color-hover:           var(--goldstaub-2-hex);
+  --tab-text-color-active:          var(--goldstaub-1-hex);
+  --tab-text-color-focused:         var(--goldstaub-1-hex);
+  --tab-background:                 var(--schiefer-5-hex);
+  --tab-background-active:          var(--schiefer-4-hex);
+
+  /* ════════════════════════════════════
+     Icons
+  ════════════════════════════════════ */
+
+  --icon-color:                     var(--schiefer-2-hex);
+  --icon-color-hover:               var(--schiefer-1-hex);
+  --icon-color-active:              var(--schiefer-1-hex);
+  --icon-color-focused:             var(--goldstaub-1-hex);
+
+  /* ════════════════════════════════════
+     SONSTIGES
+  ════════════════════════════════════ */
+
+  --indentation-guide-color:        rgba(255, 255, 255, 0.04);
+  --indentation-guide-color-active: rgba(217, 96, 74, 0.25);
+  --flashing-background:            rgba(217, 96, 74, 0.15);
+  --ribbon-background:              var(--schiefer-5-hex);
+  --ribbon-background-collapsed:    var(--schiefer-5-hex);
+  --status-bar-text-color:          var(--schiefer-2-hex);
+  --current-line-bg:                rgba(var(--schiefer-6-rgb), 0.0) !important;
+}
+
+
+/* ════════════════════════════════════════════
+   EDITOR – CODEMIRROR
+════════════════════════════════════════════ */
+
+/* Fett */
+.cm-s-obsidian .cm-strong,
+.markdown-source-view.mod-cm6 .cm-strong {
+  color: var(--bold-color);
+}
+
+/* Kursiv */
+.cm-s-obsidian .cm-em,
+.markdown-source-view.mod-cm6 .cm-em {
+  color: var(--italic-color);
+  font-style: italic;
+}
+
+/* Durchgestrichen */
+.cm-s-obsidian .cm-strikethrough,
+.markdown-source-view.mod-cm6 .cm-strikethrough {
+  color: var(--schiefer-2-hex);
+}
+
+/* Aktive Zeile */
+.cm-s-obsidian .CodeMirror-activeline .CodeMirror-line,
+.markdown-source-view.mod-cm6 .cm-active {
+  background-color: var(--current-line-bg) !important;
+}
+
+/* Cursor */
+.cm-s-obsidian .CodeMirror-cursor {
+  border-left-color: var(--koralle-3-hex) !important;
+}
+.cm-cursor-primary {
+  border-left-color: var(--koralle-3-hex) !important;
+}
+
+/* Suchtreffer */
+.cm-s-obsidian .cm-searchMatch,
+.markdown-source-view.mod-cm6 .cm-searchMatch {
+  background-color: rgba(217, 96, 74, 0.22);
+  border-radius: 2px;
+}
+
+.cm-s-obsidian .cm-searchMatch-selected,
+.markdown-source-view.mod-cm6 .cm-searchMatch.cm-searchMatch-selected {
+  background-color: rgba(217, 96, 74, 0.42);
+}
+
+
+/* ════════════════════════════════════════════
+   MARKDOWN – GERENDERTE ANSICHT
+════════════════════════════════════════════ */
+
+/* Fett */
+.markdown-rendered strong {
+  color: var(--bold-color);
+}
+
+/* Kursiv */
+.markdown-rendered em {
+  color: var(--italic-color);
+}
+
+/* H1 mit Trennlinie */
+.markdown-rendered h1 {
+  border-bottom: 1px solid var(--lavendel-5-hex);
+  padding-bottom: 0.25em;
+  margin-bottom: 0.6em;
+}
+
+/* Inline-Code */
+.markdown-rendered code {
+  color: var(--code-normal);
+  background-color: var(--code-background);
+  border-radius: 3px;
+  padding: 0.1em 0.4em;
+  font-size: 0.875em;
+}
+
+/* Code-Block */
+.markdown-rendered pre {
+  background-color: var(--code-background);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 4px;
+}
+
+.markdown-rendered pre code {
+  background-color: transparent;
+  padding: 0;
+  font-size: 0.9em;
+}
+
+/* Blockquote */
+.markdown-rendered blockquote {
+  border-left: 3px solid var(--blockquote-border-color);
+  background-color: var(--blockquote-background-color);
+  padding: 0.5em 1.1em;
+  border-radius: 0 4px 4px 0;
+  color: var(--blockquote-color);
+  margin: 0.8em 0;
+}
+
+/* Horizontale Linie */
+.markdown-rendered hr {
+  border-color: var(--hr-color);
+  border-top-width: 1px;
+  margin: 1.5em 0;
+}
+
+/* Tabelle – Header */
+.markdown-rendered table th {
+  background-color: var(--table-header-background);
+  color: var(--text-muted);
+  border-color: var(--table-border-color);
+}
+
+/* Tabelle – Zellen */
+.markdown-rendered table td {
+  border-color: var(--table-border-color);
+}
+
+/* Tabelle – Alternating rows */
+.markdown-rendered table tr:nth-child(even) td {
+  background-color: var(--table-column-alt-background);
+}
+
+/* Durchgestrichener Text (erledigte Checkboxes) */
+.markdown-rendered .task-list-item.is-checked .task-list-item-text {
+  color: var(--checklist-done-color);
+  text-decoration: line-through;
+}
+
+
+/* ════════════════════════════════════════════
+   LINKS
+════════════════════════════════════════════ */
+
+a,
+.internal-link,
+.external-link {
+  color: var(--text-accent);
+  text-decoration: none;
+}
+
+a:hover,
+.internal-link:hover,
+.external-link:hover {
+  color: var(--text-accent-hover);
+  text-decoration: underline;
+}
+
+/* Nicht aufgelöste interne Links */
+.internal-link.is-unresolved {
+  color: var(--text-faint);
+  opacity: 0.75;
+}
+
+
+/* ════════════════════════════════════════════
+   SCROLLBAR
+════════════════════════════════════════════ */
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--scrollbar-thumb-bg);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--scrollbar-active-thumb-bg);
+}
+
+
+/* ════════════════════════════════════════════
+   DATEI-EXPLORER
+════════════════════════════════════════════ */
+
+.nav-file-title.is-active,
+.nav-folder-title.is-active {
+  color: var(--text-accent);
+  background-color: rgba(217, 96, 74, 0.10);
+}
+
+.nav-file-title:hover,
+.nav-folder-title:hover {
+  color: var(--text-accent-hover);
+}
+
+/* Markierung – neue / ungelesene Dateien */
+.nav-file-title .nav-file-tag {
+  color: var(--salbei-3-hex);
+}
+
+
+/* ════════════════════════════════════════════
+   SELEKTION
+════════════════════════════════════════════ */
+
+::selection {
+  background-color: var(--text-selection);
+}
+
+
+/* ════════════════════════════════════════════
+   RIBBON & WORKSPACE-ICONS
+════════════════════════════════════════════ */
+
+.side-dock-ribbon-action:hover .svg-icon,
+.view-action:hover .svg-icon {
+  color: var(--koralle-2-hex);
+}
+
+
+/* ════════════════════════════════════════════
+   MODAL / DIALOG
+════════════════════════════════════════════ */
+
+.modal {
+  background-color: var(--background-secondary-alt);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+}
+
+.modal-title {
+  color: var(--lavendel-1-hex);
+}
+
+
+/* ════════════════════════════════════════════
+   QUICK SWITCHER / COMMAND PALETTE
+════════════════════════════════════════════ */
+
+.suggestion-item.is-selected {
+  background-color: rgba(217, 96, 74, 0.12);
+  color: var(--text-normal);
+}
+
+.suggestion-highlight {
+  color: var(--koralle-3-hex);
+  font-weight: 600;
+}

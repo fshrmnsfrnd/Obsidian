@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!file.path.startsWith("Themen")'
+    order:
+      - file.name
+      - tags
+      - Fach
+      - Thema
+    sort:
+      - property: Fach
+        direction: ASC
+      - property: file.path
+        direction: ASC
+    columnSize:
+      file.name: 233
+      note.Fach: 142
+  - type: cards
+    name: View

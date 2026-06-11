@@ -1,0 +1,14 @@
+properties:
+  file.name:
+    displayName: file n
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.folder == "Kochbuch/Kochen"
+        - file.folder == "Kochbuch/Cocktails"
+    order:
+      - file.name
+      - Kategorie
+      - Thema

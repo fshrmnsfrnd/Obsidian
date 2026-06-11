@@ -1,0 +1,42 @@
+---
+tags:
+  - feuerwehr
+---
+- Logische Netzwerkübersicht
+	- Netzwerke
+		- Netze
+		- Access Points
+		- Router
+		- Switche
+		- Endpoints
+	- Virtuelle Server
+		- Mail
+		- Microsoft
+		- FF-Agent
+		- MP Feuer
+		- DHCP/DNS
+		- sonstige?
+	- Microsoft
+		- Aktuelle Pläne
+- Physische Netzwerkübersicht
+	- Server
+	- Was ist on Premise?
+	- Ausgelegert?
+	- Strato
+	- Netzwerkanbindung
+	- Router
+	- Switche
+- Hardware
+	- Welche?
+	- Erneuerungspläne?
+- Meine Vorschläge
+	- Internes Wiki alternativ Sharepoint
+	- Umstellung auf Open Source statt Teams usw.
+		- Zu große politische Diskussion
+	- FW PCs bleiben auf Windows und gemanagt
+	- Billig (Open Source/Community) oder Enterprise Grade?
+- Trennung vom Verein
+	- Was gehört wem
+	- Darf der Verein FW Kapazitäten nutzen (Räume, Blech Server, Strato, usw.)
+	- Darf der Verein auf die Einsatzfotos zugreifen?
+- Aktuelle Kosten?

@@ -1,0 +1,3 @@
+- [ ] Typescript
+- [ ] Powershell module
+- [ ] Webapp manifest usw.
