@@ -34,6 +34,18 @@ rfkill list
 rfkill block wifi # auch: bluetooth, all
 rfkill unblock all
 ```  
+
+**`tar`** — Entpacken eines tar-Archivs · 
+`-x` entpacken
+`-z` gzip 
+`-f` Datei 
+-C` Zielverzeichnis
+```bash
+tar -xzf datei.tar.gz # Entpacken im aktuellen Verzeichnis
+tar -xzf datei.tar.gz -C /pfad/ziel # Entpacken in ein bestimmtes Verzeichnis
+tar -tzf datei.tar.gz # Inhalt des Archivs anzeigen (ohne zu entpacken)
+tar -czf archiv.tar.gz verzeichnis/ # Archiv erstellen (komprimiert)
+``` 
 # Speicher & Ressourcen
 ---
 **`free -h`** — RAM-Nutzung

@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "70b1b6363a2607ac",
+        "id": "9bfe1bf958f56f11",
         "type": "tabs",
         "children": [
           {
-            "id": "206a2b4ffa580545",
+            "id": "f0ae9290ea382a48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge Base/Logische Schaltungen/Schaltalgebra.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Schaltalgebra"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tar",
+                "query": "Linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,10 +201,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "eb38f7587f90fa19",
+  "active": "f0ae9290ea382a48",
   "lastOpenFiles": [
-    "Schule/Programmieren/Java/FXML/Eventhandler.md",
     "Schule/Lernplan.canvas",
+    "Schule/Programmieren/Java/JUnit/Tests.md",
+    "Schule/Programmieren/Java/JUnit/Überdeckungstest.md",
+    "Schule/Programmieren/Java/JUnit/JUnit.md",
+    "Schule/Programmieren/Java/JUnit/Assert Methoden.md",
+    "Schule/BA/Linux/Console.md",
+    "Schule/Programmieren/Java/Sieb des Eratosthenes.md",
+    "Schule/Programmieren/Java/Java.md",
+    "Knowledge Base/Linux/Pakete.md",
+    "Schule/Programmieren/Java/Untitled",
+    "Schule/Programmieren/Java/FXML/Eventhandler.md",
     "Schule/Programmieren/Java/JUnit",
     "Schule/Webentwicklung/Apache Webserver.md",
     "Base.base",
@@ -209,17 +232,8 @@
     "Knowledge Base/IT Security/BSI Grundschutz/BSI Grundschutz.md",
     "Knowledge Base/IT Security/Security.md",
     "Schule/Programmieren/Java/Design Patterns/Design Patterns.md",
-    "Schule/Programmieren/Java/Objektorientierung/Klassen in Java.md",
-    "Schule/Programmieren/Python/Klassen in Python.md",
-    "Schule/Programmieren/Java/Java.md",
-    "Kochbuch/Cocktails.md",
-    "Kochbuch/Kochen.md",
-    "Kochbuch/Kochen/Asia Bowl.md",
     "Feuerwehr/Jugend/BF Tag/Ablauf.canvas",
-    "Feuerwehr/Jugend/BF Tag/Ressourcen BF Tag.md",
-    "Feuerwehr/Feuerwehr.md",
     "Feuerwehr/Verein",
-    "Feuerwehr/Verein/Maibaum.md",
     "src/Anwendungen von Schaltnetzen bzw wichtige Schaltnetze 03-04-25 12.43.50.excalidraw.svg",
     "src/4qRPjA4jxp-700.webp",
     "src/3zryM7i_5y-638.webp",
@@ -234,7 +248,6 @@
     "Schule/INTL/CSS/css_flexbox_demo 1.html",
     "Schule/INTL/CSS/css_flexbox_demo.html",
     "src/ER Modell 2024-11-09 14.00.59.excalidraw.png",
-    "Schule/Programmieren/Java/Design Patterns/Design-Patterns-Explained-With-Java-and-Uml2-2008.pdf",
     "src/Pasted image 20260523135534.png",
     "Knowledge Base/KI/Theorie KI/Aufbau LLM.canvas",
     "Test/canvas.canvas",
