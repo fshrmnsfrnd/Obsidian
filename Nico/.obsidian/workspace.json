@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,7 +187,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a30d12ddfe301ed9",
+  "active": "eb38f7587f90fa19",
   "lastOpenFiles": [
     "Schule/Programmieren/Java/FXML/Eventhandler.md",
     "Schule/Lernplan.canvas",
