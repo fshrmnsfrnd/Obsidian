@@ -1,7 +1,7 @@
 ---
 Thema:
   - "[[BSI Grundschutz]]"
-Fach: "[[ITS]]"
+Fach:
 ---
 >Ein **Information Security Management System** ist ein systematisches Rahmenwerk mit Regeln, Prozessen und Maßnahmen, um die Informationssicherheit in einer Organisation zu gewährleisten, zu steuern und kontinuierlich zu verbessern, basierend auf den Zielen der **Vertraulichkeit**, **Integrität** und **Verfügbarkeit** von Informationen
 

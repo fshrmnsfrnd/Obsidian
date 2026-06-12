@@ -1,7 +1,6 @@
 ---
-tags:
-Fach:
 Thema:
+  - "[[Cocktails]]"
 ---
 |                 | Was    | Verhältnis |
 | --------------- | ------ | ---------- |

@@ -1,6 +1,6 @@
 ---
-tags:
-  - "#feuerwehr"
+Thema:
+  - "[[Feuerwehr]]"
 ---
 # FZG Gruppen
 HLF + Versorger

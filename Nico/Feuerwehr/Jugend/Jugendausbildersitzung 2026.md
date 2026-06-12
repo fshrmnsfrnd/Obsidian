@@ -1,6 +1,6 @@
 ---
-tags:
-  - feuerwehr
+Thema:
+  - "[[Feuerwehr]]"
 ---
 Beginn 13.01.2026 19:15
 Anwesend: Tom, Oscar, Lilly, Sascha, Nico, Benni

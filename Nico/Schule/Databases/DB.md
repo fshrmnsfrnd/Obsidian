@@ -1,4 +1,5 @@
 ---
-tags:
+Thema:
+  - "[[Databases]]"
 Fach: "[[DB]]"
 ---

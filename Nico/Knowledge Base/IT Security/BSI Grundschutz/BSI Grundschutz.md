@@ -1,5 +1,5 @@
 ---
-Fach: "[[ITS]]"
+Fach:
 Thema:
   - "[[Security]]"
 ---

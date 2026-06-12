@@ -1,7 +1,7 @@
 ---
 Thema:
   - "[[BSI Grundschutz]]"
-Fach: "[[ITS]]"
+Fach:
 ---
 **Ziel** der Schutzbedarfsfeststellung ist es, diese Fragen zu klären und damit die Festlegung der Sicherheitsanforderungen und die Auswahl angemessener Sicherheitsmaßnahmen für die einzelnen Zielobjekte des betrachteten Informationsverbundes zu steuern.
 # [4.1 Grundlegende Definitionen](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_4_Schutzbedarfsfeststellung/Lektion_4_01/Lektion_4_01_node.html)

@@ -1,8 +1,7 @@
 ---
-tags:
-  - feuerwehr
+Thema:
+  - "[[Feuerwehr]]"
 ---
-
 **Aufbauteam A und B**
 
 **Wo?**

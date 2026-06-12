@@ -73,7 +73,7 @@
 		{"id":"75adab20be7cac3d","type":"text","text":"[[Aufbauteam B|Team B]]","x":383,"y":690,"width":120,"height":50},
 		{"id":"d5d1ada644a18d26","type":"text","text":"[[Aufbauteam B|Team B]]","x":336,"y":910,"width":120,"height":50},
 		{"id":"b067ab9567889c97","type":"text","text":"[[Aufbauteam B|Team B]]","x":314,"y":1055,"width":120,"height":50},
-		{"id":"9f04b23ea22a4ced","x":191,"y":-200,"width":136,"height":50,"type":"text","text":"#feuerwehr "}
+		{"id":"b809056291557dfe","x":116,"y":-238,"width":250,"height":60,"type":"text","text":"[[Feuerwehr]]"}
 	],
 	"edges":[]
 }

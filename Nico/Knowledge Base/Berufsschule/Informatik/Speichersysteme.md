@@ -45,7 +45,6 @@ Hier werden die Daten ebenfalls auf einen Remoten-Speicher abgelegt. Im gegensat
 | **Frame**     | ![[QMT8cf9NNE-700.webp]]                                                        |
 | **Vorteile**  | - kleiner Frame -> schnell                                                      |
 | **Nachteile** | - teuer  <br>- benötigt spezielle Hardware  <br>- maximale Reichweite von 1,2km |
-
 ## Fibre Channel over Ethernet
 
 |               |                                                                                 |
@@ -53,7 +52,6 @@ Hier werden die Daten ebenfalls auf einen Remoten-Speicher abgelegt. Im gegensat
 | **Frame**     | ![[7y9QGxQtk6-700.webp]]                                                        |
 | **Vorteile**  | - es können normale (Ethernet-)Switche verwendet werden  <br>- günstiger als FC |
 | **Nachteile** | - recht teuer  <br>- maximale Reichweite von 1,2km                              |
-
 ## Internet SCSI
 
 |               |                                                                                       |
@@ -61,7 +59,6 @@ Hier werden die Daten ebenfalls auf einen Remoten-Speicher abgelegt. Im gegensat
 | **Frame**     | ![[xTdtWOI7hs-700.webp]]                                                              |
 | **Vorteile**  | - hohe Reichweite  <br>- normale Netzwerktechnik kann verwendet werden  <br>- günstig |
 | **Nachteile** | - je anch Aufbau belastet restliches Netzwerk  <br>- langsam                          |
-
 # Wichtige Begriffe
 ---
 

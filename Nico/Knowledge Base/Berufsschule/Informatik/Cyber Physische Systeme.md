@@ -10,7 +10,6 @@ Der Sensor überprüft einen Zustand, z. B. die Temperatur eines Raumes. Der SBC
 Klassische Anwendungsfälle für ein CPS sind z. B. Industrielle-Fertigungs-Hallen oder Smart-Home (IoT).  
 
 Die Sicherheit, dieser Systeme nimmt durch schnelle Zunahme an Angriffen und IoT-Maleware immer mehr ab.
-
 # SBC
 ---
 Ein SBC ist ein **S**ingle **B**ord **C**omputer, sie werden auch **Embedded System** genannt z. B. eine Raspberry Pi, Arduino. 

@@ -1,5 +1,4 @@
 ---
-tags:
-Fach:
 Thema:
+  - "[[Logische Schaltungen]]"
 ---

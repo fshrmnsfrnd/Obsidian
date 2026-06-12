@@ -1,7 +1,7 @@
 ---
 Thema:
   - "[[BSI Grundschutz]]"
-Fach: "[[ITS]]"
+Fach:
 ---
 https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_3_Strukturanalyse/Lektion_3_node.html
 

@@ -8,7 +8,6 @@ Fach: "[[AWM]]"
 - Gute Performance
 - Datenschutz
 - Laufend weiterentwickeln
-
 # Entwicklungsprozess
 ---
 ## 1. Analyse
@@ -25,8 +24,7 @@ Fach: "[[AWM]]"
 - Optimale Gestaltung und Interaktion
 - Ziel: Leicht zu bedienen und intuitiv Nutzen
 ## 4. Softwareentwicklung
-Da die Produktzyklen in der App-Entwicklung sehr kurz sind, werden oft agile Vorgehensmodelle (z.B. [[SCRUM]]) verwendet. Als erste Version wird ein Minimum Viable Product (MVP) entwickelt. Das ist ein Produkt, das einen brauchbaren Funktionsumfang bietet und auf dem Mark existenzfähig ist. Diese Vorgehen ermöglicht sehr schnell, aus dem Nutzerfeedback zu lernen. In weiteren Iterationen wird dann das Produkt weiterentwickelt. Das Risiko von Fehlentwicklungen wird so minimiert. Die Ergebnisse jeder Iteration werden getestet.
-
+Da die Produktzyklen in der App-Entwicklung sehr kurz sind, werden oft agile Vorgehensmodelle (z.B. SCRUM) verwendet. Als erste Version wird ein Minimum Viable Product (MVP) entwickelt. Das ist ein Produkt, das einen brauchbaren Funktionsumfang bietet und auf dem Mark existenzfähig ist. Diese Vorgehen ermöglicht sehr schnell, aus dem Nutzerfeedback zu lernen. In weiteren Iterationen wird dann das Produkt weiterentwickelt. Das Risiko von Fehlentwicklungen wird so minimiert. Die Ergebnisse jeder Iteration werden getestet.
 # Wichtige Aspekte
 ---
 - Energieverbrauch optimieren
@@ -46,11 +44,9 @@ Da die Produktzyklen in der App-Entwicklung sehr kurz sind, werden oft agile Vor
 - Datensicherheit
 - Apps kommen über einen App Store
 - Unterschiedliche Bildschirmgrößen müssen berücksichtigt werden
-
 # Native Apps
 ---
 >Eine **native App** ist eine Anwendung, die speziell **für ein bestimmtes Betriebssystem** entwickelt wurde – also **iOS**, **Android** oder eine andere Plattform.
-
 - **Plattformspezifisch**
     - iOS-Apps werden z. B. in **Swift** oder **Objective-C** programmiert.
     - Android-Apps in **Kotlin** oder **Java**.
@@ -97,7 +93,6 @@ Da die Produktzyklen in der App-Entwicklung sehr kurz sind, werden oft agile Vor
 # In-App Käufe
 ---
 >**In-App-Käufe** (englisch: _In-App Purchases_, kurz IAP) sind **optionale Käufe innerhalb einer App**, die Nutzer zusätzlich zum Download oder zur Nutzung tätigen können.
-
 ## Merkmale:
 - Innerhalb der App verfügbar
     - Nutzer müssen die App nicht verlassen, um etwas zu kaufen.

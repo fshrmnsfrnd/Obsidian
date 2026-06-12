@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "daf9fad8e6a0ea55",
+        "id": "70b1b6363a2607ac",
         "type": "tabs",
         "children": [
           {
-            "id": "56694d7284c52d85",
+            "id": "206a2b4ffa580545",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown Beispiel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Markdown Beispiel"
+              "title": "New tab"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tag",
+                "query": "tar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,11 +70,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 305.5
   },
   "right": {
     "id": "23f39ac3882bc0af",
@@ -104,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge Base/Tools/Restic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Restic"
+              "title": "Backlinks"
             }
           },
           {
@@ -123,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Beispiel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Markdown Beispiel"
+              "title": "Outgoing links"
             }
           },
           {
@@ -203,39 +188,46 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "56694d7284c52d85",
+  "active": "a30d12ddfe301ed9",
   "lastOpenFiles": [
-    "Knowledge Base/Tools/Restic.md",
+    "Schule/Programmieren/Java/FXML/Eventhandler.md",
     "Schule/Lernplan.canvas",
-    "Schule/BA/Git.md",
+    "Schule/Programmieren/Java/JUnit",
+    "Schule/Webentwicklung/Apache Webserver.md",
+    "Base.base",
+    "Knowledge Base/Berufsschule/Informatik/Virtualisierung.md",
+    "Knowledge Base/Berufsschule/Informatik/Speichersysteme.md",
+    "Knowledge Base/Berufsschule/Informatik/Cyber Physische Systeme.md",
+    "Knowledge Base/Berufsschule/Informatik/Cloud Computing.md",
+    "Knowledge Base/Berufsschule/Informatik/Betriebssystemfamilien.md",
+    "Knowledge Base/Berufsschule/Informatik/Betriebssystemarchitekturen.md",
+    "Knowledge Base/Berufsschule/Informatik/Betriebssystem.md",
+    "Knowledge Base/Netzwerktechnik/Routing/Routing.md",
+    "Knowledge Base/Logische Schaltungen/Logische Schaltungen.md",
+    "Knowledge Base/IT Security/BSI Grundschutz/Standardabsicherung.md",
+    "Knowledge Base/IT Security/Angreifer.md",
+    "Knowledge Base/IT Security/ITS.md",
+    "Knowledge Base/IT Security/BSI Grundschutz/BSI Grundschutz.md",
+    "Knowledge Base/IT Security/Security.md",
+    "Schule/Programmieren/Java/Design Patterns/Design Patterns.md",
+    "Schule/Programmieren/Java/Objektorientierung/Klassen in Java.md",
+    "Schule/Programmieren/Python/Klassen in Python.md",
+    "Schule/Programmieren/Java/Java.md",
+    "Kochbuch/Cocktails.md",
+    "Kochbuch/Kochen.md",
+    "Kochbuch/Kochen/Asia Bowl.md",
+    "Feuerwehr/Jugend/BF Tag/Ablauf.canvas",
+    "Feuerwehr/Jugend/BF Tag/Ressourcen BF Tag.md",
+    "Feuerwehr/Feuerwehr.md",
+    "Feuerwehr/Verein",
+    "Feuerwehr/Verein/Maibaum.md",
+    "src/Anwendungen von Schaltnetzen bzw wichtige Schaltnetze 03-04-25 12.43.50.excalidraw.svg",
+    "src/4qRPjA4jxp-700.webp",
+    "src/3zryM7i_5y-638.webp",
+    "src/index 2026-06-11 21.23.10.excalidraw.png",
     "Schule/BA/Untitled.base",
-    "Schule/BA/REGEX.md",
-    "Schule/Programmieren/Java/Objektorientierung/Eigene Exceptions.md",
-    "Schule/Programmieren/Java/Basics/Fehlerbehandlung.md",
-    "Schule/Programmieren/Java/Basics/Textdateien.md",
-    "Schule/Programmieren/UML Zustandsdiagramm.md",
-    "Schule/Programmieren/Java/Basics/Datentypen.md",
-    "Schule/Programmieren/Java/Basics/String Builder.md",
-    "Schule/Programmieren/UML Klassendiagramm.md",
-    "Schule/Programmieren/Java/Objektorientierung/Assoziationen in Java.md",
-    "src/UML Klassendiagramm 2026-06-11 16.03.21.excalidraw.md",
     "src/UML Klassendiagramm 2026-06-11 16.03.21.excalidraw.png",
     "src/Pasted image 20260611160010.png",
-    "Schule/Programmieren/Java/Objektorientierung/Interfaces.md",
-    "Schule/Programmieren/Java/Objektorientierung/Abstrakte Klassen.md",
-    "Schule/Programmieren/Java/Objektorientierung/Collections in Java.md",
-    "Schule/Programmieren/Java/Objektorientierung/Klassen in Java.md",
-    "Schule/Programmieren/Java/Objektorientierung/Vererbung.md",
-    "ToDo.md",
-    "Schule/Programmieren/Python/mathplotlib.md",
-    "Knowledge Base/Logische Schaltungen/KV - Diagramme.md",
-    "Knowledge Base/Berufsschule/Management/Klassisches Projektmanagement.md",
-    "Knowledge Base/Logische Schaltungen/FlipFlops/FlipFlops.md",
-    "Knowledge Base/KI/Sklearn/Clustering/Elbow Chart Funktion.md",
-    "Knowledge Base/Logische Schaltungen/FlipFlops/Zählerschaltungen/3-Bit Synchronzähler.md",
-    "Knowledge Base/Logische Schaltungen/FlipFlops/Zählerschaltungen/BCD-Synchronzähler (4-Bit) mit JK-FF.md",
-    "Schule/Databases/DB Entwicklung/Assoziationen.md",
-    "Base.base",
     "Knowledge Base/Linux/Pakete unter Kubuntu.md.tmp.90902.9c2c37c7f5fd",
     "CLAUDE.md.tmp.75897.048d064010a8",
     "src/Pasted image 20260606181835.png",
@@ -245,16 +237,9 @@
     "src/ER Modell 2024-11-09 14.00.59.excalidraw.png",
     "Schule/Programmieren/Java/Design Patterns/Design-Patterns-Explained-With-Java-and-Uml2-2008.pdf",
     "src/Pasted image 20260523135534.png",
-    "Knowledge Base/Mathe/Merkhilfe_Mathematik_Technik_FOSBOS_2017.pdf",
-    "Schule/KNT/Netzwerktechnik/Routing",
     "Knowledge Base/KI/Theorie KI/Aufbau LLM.canvas",
     "Test/canvas.canvas",
     "src/Indonesien-Regionen2-1536x630.webp",
-    "src/Pasted image 20260425165635.png",
-    "src/Pasted image 20260425165600.png",
-    "src/TCP 2026-04-23 15.03.46.excalidraw.png",
-    "src/TCP 2026-04-23 14.49.58.excalidraw.png",
-    "Knowledge Base/Wirtschaft und Recht/BWP/Finanzierungsarten.canvas",
-    "Feuerwehr/Jugend/BF Tag/Ablauf.canvas"
+    "Knowledge Base/Wirtschaft und Recht/BWP/Finanzierungsarten.canvas"
   ]
 }

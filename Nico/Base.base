@@ -6,9 +6,10 @@ views:
     name: Table
     filters:
       or:
-        - file.folder == "Kochbuch/Kochen"
-        - file.folder == "Kochbuch/Cocktails"
+        - Fach == link("ITS")
     order:
       - file.name
-      - Kategorie
       - Thema
+      - Fach
+    columnSize:
+      note.Thema: 188

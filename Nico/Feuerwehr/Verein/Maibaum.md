@@ -1,8 +1,7 @@
 ---
-tags:
-  - feuerwehr
+Thema:
+  - "[[Feuerwehr]]"
 ---
-
 - Aufstellen am 3. Mai mit Fest am Maibaum
 - Wolfrum frägt Maibaumfreunde Pentenried für Manpower und Schwaiberl
 

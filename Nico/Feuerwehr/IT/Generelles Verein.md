@@ -1,6 +1,6 @@
 ---
-tags:
-  - feuerwehr
+Thema:
+  - "[[Feuerwehr]]"
 ---
 # Trennung FW/Verein
 - Accounts

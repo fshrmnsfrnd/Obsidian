@@ -1,6 +1,6 @@
 ---
-tags:
-  - feuerwehr
+Thema:
+  - "[[Feuerwehr]]"
 ---
 ![[Personeneinteilung#Aufbauteam B]]
 
