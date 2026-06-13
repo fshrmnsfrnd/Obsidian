@@ -4,31 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9bfe1bf958f56f11",
+        "id": "8dc0ba637c63ace9",
         "type": "tabs",
         "children": [
           {
-            "id": "f0ae9290ea382a48",
+            "id": "ab193715f97ab0a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Knowledge Base/Logische Schaltungen/Schaltalgebra.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Schule/Lernplan.canvas",
+                "viewState": {
+                  "x": -280,
+                  "y": 5160,
+                  "zoom": -2.8497573644193874
                 }
               },
-              "icon": "lucide-file",
-              "title": "Schaltalgebra"
+              "icon": "lucide-layout-dashboard",
+              "title": "Lernplan"
             }
           }
         ]
@@ -201,8 +194,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f0ae9290ea382a48",
+  "active": "ab193715f97ab0a2",
   "lastOpenFiles": [
+    "Knowledge Base/Logische Schaltungen/Schaltalgebra.md",
     "Schule/Lernplan.canvas",
     "Schule/Programmieren/Java/JUnit/Tests.md",
     "Schule/Programmieren/Java/JUnit/Überdeckungstest.md",
