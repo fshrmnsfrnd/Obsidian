@@ -4,52 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8dc0ba637c63ace9",
+        "id": "a571375a4e71975a",
         "type": "tabs",
         "children": [
           {
-            "id": "ab193715f97ab0a2",
+            "id": "a8dcfd1630a6c4fa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Schule/Lernplan.canvas",
-                "viewState": {
-                  "x": -627.3852165862625,
-                  "y": 3524.3718365157506,
-                  "zoom": -0.44975736441938774
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Lernplan"
-            }
-          },
-          {
-            "id": "d7c6dbc6fe9cbfe0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schule/Databases/SQL/Zugriffsrechte.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Zugriffsrechte"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,12 +166,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 436.5,
-    "collapsed": true
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,9 +186,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d7c6dbc6fe9cbfe0",
+  "active": "a8dcfd1630a6c4fa",
   "lastOpenFiles": [
     "Schule/Lernplan.canvas",
+    "Schule/Databases/SQL/Zugriffsrechte.md",
     "Knowledge Base/Logische Schaltungen/Schaltalgebra.md",
     "Schule/Programmieren/Java/JUnit/Tests.md",
     "Schule/Programmieren/Java/JUnit/Überdeckungstest.md",
@@ -249,7 +217,6 @@
     "Knowledge Base/IT Security/Angreifer.md",
     "Knowledge Base/IT Security/ITS.md",
     "Knowledge Base/IT Security/BSI Grundschutz/BSI Grundschutz.md",
-    "Knowledge Base/IT Security/Security.md",
     "Feuerwehr/Jugend/BF Tag/Ablauf.canvas",
     "Feuerwehr/Verein",
     "src/Anwendungen von Schaltnetzen bzw wichtige Schaltnetze 03-04-25 12.43.50.excalidraw.svg",

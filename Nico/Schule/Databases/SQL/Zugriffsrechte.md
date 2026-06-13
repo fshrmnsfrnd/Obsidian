@@ -72,4 +72,3 @@ SHOW Columns FROM mysql.user;
 | `mysql.tables_priv` | Haben auf eine Tabelle nicht alle User Zugriff werden die Berechtigungen hier gespeichert  |
 | `mysql.colums_priv` | Haben auf eine Spalte nicht alle User Zugriff werden die Berechtigungen hier gespeichert   |
 |                     |                                                                                            |
-/git
