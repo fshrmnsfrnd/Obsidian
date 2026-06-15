@@ -33,7 +33,6 @@ BEGIN
 	DECLARE CONTINUE HANDLER FOR <MYSQL_ERROR_NR> SET err=1;
 	
 	# Statements
-	
 	IF(err=1)THEN
 		SELECT "Ein Fehler ist aufgetreten!" as "Result";
 	ELSE
@@ -44,7 +43,6 @@ DELIMITER ;
 
 CALL myProcedure;
 ```
-
 ## EXIT
 >Wenn ein **EXIT HANDLER** ausgelöst wird, wird der aktuell ausgeführte Block beendet. Wenn dieser Block der Hauptblock für das gespeicherte Programm ist, wird die Prozedur beendet, und die Steuerung an den Aufrufenden Codeblock zurückgegeben
 ### Beispiel

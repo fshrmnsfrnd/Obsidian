@@ -19,9 +19,10 @@ SHOW GRANTS [FOR user@host]
 ```sql
 GRANT Zugriffsrechte 
 ON [Datenbank.]Tabelle[.Spalte] 
-TO user@host [WITH GRANT OPTION]
+TO user@host 
+[WITH GRANT OPTION]
 ```
-WITH GRANT OPTION beschreibt ob der User seine Rechte weitergeben darf, oder nicht.
+`WITH GRANT OPTION` beschreibt ob der User seine Rechte weitergeben darf, oder nicht.
 ## Privilegien / Zugriffsrechte
 | PRIVILEG                 | Beschreibung                                                                                                                                                           |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -49,7 +50,7 @@ WITH GRANT OPTION beschreibt ob der User seine Rechte weitergeben darf, oder nic
 # Rechte entziehen
 ---
 ```sql
-REVOKE Zugriffsrechte 
+REVOKE <Zugriffsrechte>
 ON [Datenbank.]Tabelle[.Spalte] 
 FROM user@host;
 ```
@@ -58,7 +59,7 @@ FROM user@host;
 >Die Verwaltung der Zugriffsrechte erfolgt in der Datenbank mysql. 
 ## User
 ```sql
-SHOW Columns FROM mysql.user;
+SELECT * FROM mysql.user;
 ```
 
 | Host      | User  | authentication_string | SELECT_priv | DELETE_priv | ..._priv |
@@ -71,4 +72,4 @@ SHOW Columns FROM mysql.user;
 | `mysql.db`          | Welcher User hat welche Rechte in welcher Datenbank (Globale Rechte werden nicht beachtet) |
 | `mysql.tables_priv` | Haben auf eine Tabelle nicht alle User Zugriff werden die Berechtigungen hier gespeichert  |
 | `mysql.colums_priv` | Haben auf eine Spalte nicht alle User Zugriff werden die Berechtigungen hier gespeichert   |
-|                     |                                                                                            |
+

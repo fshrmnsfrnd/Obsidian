@@ -44,7 +44,7 @@ Thema:
 - *Nachteil*: komplexe [[Joins]] bei Vererbung. 
 ### Single Table
 - Alle Klassen einer Hierarchie in einer Tabelle. 
-- *Vorteil*: schnelle [[Abfragen]]. 
+- *Vorteil*: schnelle Abfragen. 
 - *Nachteil*: viele NULL-Werte. 
 ### Joined Table
 - Jede Klasse hat eigene Tabelle, Vererbung via [[Joins]]. 
@@ -55,10 +55,10 @@ Thema:
 - *Vorteil*: sauberes Domain-Modell. 
 - *Nachteil*: mehr Mapping-Aufwand.
 
-# [[Transaktionen|Transaktionen]]
+# [[Transact Control Language TCL|Transaktionen]]
 ---
 ### ACID
-Ausführlich: [[Transaktionen#ACID]]
+Ausführlich: [[Transact Control Language TCL#ACID]]
 - Atomicity
 - Consistency
 - Isolation
@@ -81,17 +81,17 @@ Ausführlich: [[Transaktionen#ACID]]
 - Objektbasierte Abfragesprachen, arbeiten auf Entitäten und deren Attributen, nicht auf Tabellen und Spalten. 
 - Unterstützen [[Joins]], Aggregationen, Subqueries und Gruppierungen. 
 - *Vorteil*: Plattformunabhängig, objektorientiert, leicht in Java-ORM-Projekte integrierbar. 
-- *Nachteil*: Weniger performant bei extrem komplexen [[Abfragen]] im Vergleich zu nativen SQLQueries.
+- *Nachteil*: Weniger performant bei extrem komplexen Abfragen im Vergleich zu nativen SQLQueries.
 ### Criteria API: 
 - Typsichere programmatische Erstellung von Queries. 
 - Unterstützt komplexe Bedingungen, [[Joins]], Gruppierungen und Aggregationen. 
-- Besonders nützlich bei dynamischen Suchfunktionen, bei denen [[Abfragen]] zur Laufzeit zusammengesetzt werden. 
+- Besonders nützlich bei dynamischen Suchfunktionen, bei denen Abfragen zur Laufzeit zusammengesetzt werden. 
 - *Vorteil*: Fehler durch falsche Strings werden vermieden, dynamische Queries leicht zu erstellen. 
 - *Nachteil*: Etwas umfangreicher im Code als einfache HQL/JPQL-Queries. 
 ### Native SQL Queries: 
-- Direkte SQL-[[Abfragen]] bei komplexen Anforderungen. 
-- Direkte SQL-[[Abfragen]] auf die Datenbank, bypassing ORM-Abstraktion. 
-- *Vorteil*: Volle Kontrolle über die SQL-Syntax und Datenbank-spezifische Features. Geeignet für sehr komplexe oder performancekritische [[Abfragen]], die mit HQL/JPQL schwierig zu realisieren sind. 
+- Direkte SQL-Abfragen bei komplexen Anforderungen. 
+- Direkte SQL-Abfragen auf die Datenbank, bypassing ORM-Abstraktion. 
+- *Vorteil*: Volle Kontrolle über die SQL-Syntax und Datenbank-spezifische Features. Geeignet für sehr komplexe oder performancekritische Abfragen, die mit HQL/JPQL schwierig zu realisieren sind. 
 - *Nachteil*: Weniger portabel, da SQL-Dialekte der jeweiligen Datenbank berücksichtigt werden müssen. 
 - Einsatzbeispiel: komplexe [[Joins]], Bulk-Updates, [[Stored Procedures]] oder Datenbank-Funktionen.
 
@@ -110,5 +110,5 @@ Ausführlich: [[Transaktionen#ACID]]
 ### Query Cache
 - Speichert Ergebnisse wiederholter Queries. 
 - Speichert Ergebnisse von Queries, nicht die Entitäten selbst. 
-- *Vorteil*: Besonders nützlich bei wiederholten, identischen [[Abfragen]]. 
+- *Vorteil*: Besonders nützlich bei wiederholten, identischen Abfragen. 
 - *Nachteil*: Änderungen an den Entitäten erfordern invalidierte oder aktualisierte Cache-Einträge.

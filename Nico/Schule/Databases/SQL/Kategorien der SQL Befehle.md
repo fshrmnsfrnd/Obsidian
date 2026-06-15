@@ -4,28 +4,33 @@ Fach: "[[DB]]"
 Thema:
   - "[[MySQL]]"
 ---
-# DDL (Data Definition Language)
+# [[Data Definition Language DDL]]
+---
 >Erstellt, Ändert und Löscht Datenbanken, Tabellen, Spalten, Indexes und Views
 
 `CREATE`
 `ALTER`
 `DROP`
-# DML (Data Manipulation Language)
+# [[Data Manipulation Language DML]]
+---
 >Verändert Datensätze
 
 `INSERT INTO`
 `UPDATE`
 `DELETE FROM`
-# DQL (Data Query Language)
+# [[Data Query Language DQL]]
+---
 >Fragt Daten ab
 
 `SELECT`
-# DCL (Data Control Language)
+# [[Data Control Language DCL]]
+---
 >Macht die Rechtevergabe
 
 ``GRANT`
 `REVOKE`
-# TCL (Transact Control Language)
+# [[Transact Control Language TCL]]
+---
 >Wird manchmal auch zu DML zugeordnet
 
 `BEGIN`

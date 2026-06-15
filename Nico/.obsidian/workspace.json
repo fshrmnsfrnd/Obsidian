@@ -11,13 +11,45 @@
             "id": "a8dcfd1630a6c4fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "canvas",
+              "state": {
+                "file": "Schule/Lernplan.canvas",
+                "viewState": {
+                  "x": -576.0398804319451,
+                  "y": 3179.983749230437,
+                  "zoom": -0.9286057201861475
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Lernplan"
+            }
+          },
+          {
+            "id": "b612e5e6b1c9107a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schule/Databases/SQL/Named Conditions (Eigene Fehler).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Named Conditions (Eigene Fehler)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Linux",
+                "query": "ACID",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 362.51103591918945
   },
   "right": {
     "id": "23f39ac3882bc0af",
@@ -166,11 +198,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 436.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,10 +219,26 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a8dcfd1630a6c4fa",
+  "active": "b612e5e6b1c9107a",
   "lastOpenFiles": [
+    "Schule/Databases/SQL/Fehlerbehandlung (Handler).md",
+    "Schule/Databases/SQL/Joins.md",
     "Schule/Lernplan.canvas",
-    "Schule/Databases/SQL/Zugriffsrechte.md",
+    "Schule/Databases/SQL/Transact Control Language TCL.md",
+    "Schule/Databases/SQL/Views in SQL.md",
+    "Schule/Databases/NoSQL/NoSQL.md",
+    "Schule/Databases/SQL/Subquerys.md",
+    "Schule/Databases/SQL/Kategorien der SQL Befehle.md",
+    "Schule/Databases/SQL/Named Conditions (Eigene Fehler).md",
+    "Schule/Databases/SQL/MySQL.md",
+    "Schule/Databases/SQL/Gruppierung.md",
+    "Schule/Databases/SQL/Indizes.md",
+    "Schule/Databases/SQL/Funktionen in SQL.md",
+    "Schule/Databases/SQL/Cursor.md",
+    "Schule/Databases/SQL/Data Control Language DCL.md",
+    "Schule/Databases/SQL/Data Query Language DQL.md",
+    "Schule/Databases/JDBC/ORM.md",
+    "Schule/Databases/SQL/Data Definition Language DDL.md",
     "Knowledge Base/Logische Schaltungen/Schaltalgebra.md",
     "Schule/Programmieren/Java/JUnit/Tests.md",
     "Schule/Programmieren/Java/JUnit/Überdeckungstest.md",
@@ -200,23 +249,8 @@
     "Schule/Programmieren/Java/Java.md",
     "Knowledge Base/Linux/Pakete.md",
     "Schule/Programmieren/Java/Untitled",
-    "Schule/Programmieren/Java/FXML/Eventhandler.md",
     "Schule/Programmieren/Java/JUnit",
-    "Schule/Webentwicklung/Apache Webserver.md",
     "Base.base",
-    "Knowledge Base/Berufsschule/Informatik/Virtualisierung.md",
-    "Knowledge Base/Berufsschule/Informatik/Speichersysteme.md",
-    "Knowledge Base/Berufsschule/Informatik/Cyber Physische Systeme.md",
-    "Knowledge Base/Berufsschule/Informatik/Cloud Computing.md",
-    "Knowledge Base/Berufsschule/Informatik/Betriebssystemfamilien.md",
-    "Knowledge Base/Berufsschule/Informatik/Betriebssystemarchitekturen.md",
-    "Knowledge Base/Berufsschule/Informatik/Betriebssystem.md",
-    "Knowledge Base/Netzwerktechnik/Routing/Routing.md",
-    "Knowledge Base/Logische Schaltungen/Logische Schaltungen.md",
-    "Knowledge Base/IT Security/BSI Grundschutz/Standardabsicherung.md",
-    "Knowledge Base/IT Security/Angreifer.md",
-    "Knowledge Base/IT Security/ITS.md",
-    "Knowledge Base/IT Security/BSI Grundschutz/BSI Grundschutz.md",
     "Feuerwehr/Jugend/BF Tag/Ablauf.canvas",
     "Feuerwehr/Verein",
     "src/Anwendungen von Schaltnetzen bzw wichtige Schaltnetze 03-04-25 12.43.50.excalidraw.svg",

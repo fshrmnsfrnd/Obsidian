@@ -8,7 +8,7 @@ Thema:
 ---
 - Ist immer ein **SELECT**-Statement
 - Immer in **runden** Klammern
-- Kein eigenes **Ende**, nur ein Semikolon am Ende der gesamten Abfrage
+- Kein eigenes **Ende**, nur **ein** Semikolon am Ende der gesamten Abfrage
 - Können mit INSERT-, DELETE-, UPDATE- und SELECT-Statements verwendet werden
 - Können an **vier** Stellen in einer SELECT-Anweisung verwendet werden:
 	- SELECT
@@ -19,8 +19,10 @@ Thema:
 ---
 >Korrelation beschreibt, ob die Unterabfrage abhängig von der äußeren Abfrage ist.
 ## Nicht korrelierte Unterabfrage
-Eine Unterabfrage ist eine **nicht-korrelierte** Unterabfrage, wenn sie eigenständig ist und nichts aus der äußeren Abfrage verwendet oder referenziert. Bei einer nicht-korrelierten Unterabfrage wertet das DBMS zuerst die innere Abfrage bzw. die Unterabfrage aus, bevor die äußere Abfrage ausgeführt wird.
-### Beispiel
+- Unabhängig von der äußeren Abfrage
+- Innere Abfrage wird vom DBMS zuerst ausgeführt
+- Wird ein einziges Mal ausgeführt
+**Beispiel**
 ```sql
 SELECT name, gehalt
 FROM mitarbeiter
@@ -29,11 +31,10 @@ WHERE gehalt > (
     FROM mitarbeiter
 );
 ```
-- Die **Unterabfrage** `(SELECT AVG(gehalt) FROM mitarbeiter)` wird **einmal** ausgeführt.
-- Das Ergebnis (der Durchschnitt) wird dann mit jedem einzelnen Gehalt verglichen.
-- Die Unterabfrage ist **nicht abhängig** von der äußeren Abfrage.
 ## Korrelierte Unterabfrage
-Eine Unterabfrage kann auch **korreliert** sein. In diesem Fall ist die Unterabfrage abhängig von Werten, die die äußere Abfrage liefert. In diesem Fall ist die Ausführung der inneren Abfrage von den Daten der äußeren Abfrage abhängig. Ist eine Unterabfrage korreliert, wertet das DBMS zunächst die äußere Abfrage aus. Für jeden Datensatz der äußeren Abfrage wird die Unterabfrage ausgeführt und die Daten ermittelt. Man spricht in diesem Fall von einer **nested-loop-Semantik**. Zwar ist eine beliebige Schachtelung möglich, jedoch besteht die Gefahr, das die Ausführung von solchen Abfragen sehr lange dauert.
+- Unterabfrage hängt vom aktuellen Datensatz der äußeren Abfrage ab
+- Innere Abfrage wird für jede Zeile der äußeren Abfrage neu ausgeführt
+- Dauert möglicherweise sehr lange
 ### Beispiel
 ```sql
 SELECT name, gehalt, abteilung
@@ -44,6 +45,32 @@ WHERE gehalt > (
     WHERE m2.abteilung = m1.abteilung
 );
 ```
-- Die **Unterabfrage** hängt von der **aktuellen Zeile** der äußeren Abfrage ab (`m2.abteilung = m1.abteilung`).
-- Sie wird für **jede Zeile** der äußeren Abfrage **neu ausgeführt**.
-- Das macht die Abfrage korreliert: Die Unterabfrage **korreliert** mit der äußeren Abfrage.
+# Snippets
+---
+Eklige Aufgabe Einnahmen pro Sportart und Gesamteinnahmen
+```sql
+SELECT
+    so.Sportart,
+    (
+        SELECT COUNT(lmsi.Sport_ID) * so.Beitrag
+        FROM link_mitglied_sportart lmsi
+        WHERE lmsi.Sport_ID = so.Sport_Id
+    ) AS Einnahmen,
+    (
+        (
+        SELECT COUNT(lmsi.Sport_ID) * so.Beitrag
+        FROM link_mitglied_sportart lmsi
+        WHERE lmsi.Sport_ID = so.Sport_Id
+    ) * 100 / (
+        SELECT Sum(sub2_s.Beitrag)
+		FROM sportart sub2_s
+        INNER JOIN link_mitglied_sportart sub2_l ON sub2_s.Sport_ID = sub2_l.Sport_ID
+    )
+    )AS AnteilAnGesamt,
+    (
+        SELECT Sum(sub2_s.Beitrag)
+		FROM sportart sub2_s
+        INNER JOIN link_mitglied_sportart sub2_l ON sub2_s.Sport_ID = sub2_l.Sport_ID
+    ) as Gesamt
+FROM sportart so;
+```

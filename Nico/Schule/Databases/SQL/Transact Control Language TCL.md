@@ -14,17 +14,20 @@ Hiermit werden Transaktionen der einzelnen Befehle ausgeschalten, und sie könne
 
 # Eigene Transaktionen
 ---
-### Beginn der Transaktion:
-`START TRANSACTION;`
-
-### Schreiben der Transaktion in die Datenbank:
-`COMMIT;`
-oder ein beliebiger Befehl aus der [[Kategorien der SQL Befehle#DDL (Data Definition Language)|DLL]] .
-
-### Verwerfen der Änderungen
-`ROLLBACK;`
+## Beginn der Transaktion:
+```sql
+START TRANSACTION;
+```
+## Schreiben der Transaktion in die Datenbank:
+```sql
+COMMIT;
+```
+oder ein beliebiger Befehl aus der [[Data Definition Language DDL]] .
+## Verwerfen der Änderungen
+```sql
+ROLLBACK;
+```
 Verwirft alles was seit Beginn der Transaktion gemacht wurde.
-
 # ACID
 ---
 ## Atomicity
@@ -39,7 +42,7 @@ Die Transaktion muss auch bei einem Hardware Serverabsturz noch korrekt ausgefü
 # Mögliche Fehler bei parallelen Transaktionen
 ---
 ## Lost Update
-Die Transaktionen greifen hier leicht versetzt auf die selben Daten zu.
+>Die Transaktionen greifen hier leicht versetzt auf die selben Daten zu.
 
 | Transaktion 1     | Transaktion 2     |
 | ----------------- | ----------------- |
@@ -50,7 +53,8 @@ Die Transaktionen greifen hier leicht versetzt auf die selben Daten zu.
 Hier wird das Schreiben der Daten 1 aus Transaktion 1 durch Transaktion 2 wieder überschrieben. Somit wurde Transaktion 1 zwar Fehlerfrei ausgeführt, aber die Änderungen sind trotzdem nicht in der Datenbank.
 
 ## Dirty Read
-Eine Transaktion liest die Daten, die von einer anderen Transaktion danach wieder zurückgerollt werden.
+>Eine Transaktion liest die Daten, die von einer anderen Transaktion danach wieder zurückgerollt
+>werden.
 
 | Transaktion 1     | Transaktion 2     |
 | ----------------- | ----------------- |

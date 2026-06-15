@@ -45,7 +45,6 @@ condition_information_item_name:
 	| CURSOR_NAME }
 ```
 
-
 > [!NOTE] 
 > Eigene Fehlernummer sind frei wählbar im Bereich zwischen: 50000-51999
 ## Beispiel
