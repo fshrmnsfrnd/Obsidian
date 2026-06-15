@@ -11,7 +11,7 @@ Thema:
 - **V**eracity: Genauigkeit, Zuverlässigkeit der Daten
 # Horizontale Skalierung
 ---
->Bei **Big Data** (sehr großen und vielen Daten) ist die horizontale Skalierung der Speicherumgebung sehr wichtig.  
+>Basicly einfach mehr einzelne Server
 
 **Horizontal** bedeutet das **mehrere Server** zu einem **Cluster** zusammen geschlossen werden. Eine solche verteilte Datenbank nennt man auch **verteiltes System**. 
 Bei der **horizontalen Skalierung** im **Big Data** Umfeld werden (mehrere Gigabyte) große Dateien in kleine **Chunks** (z. B. 64MB) aufgeteilt und über mehrere Server verteilt.

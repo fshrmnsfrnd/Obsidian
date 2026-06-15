@@ -15,9 +15,9 @@
               "state": {
                 "file": "Schule/Lernplan.canvas",
                 "viewState": {
-                  "x": -576.0398804319451,
-                  "y": 3179.983749230437,
-                  "zoom": -0.9286057201861475
+                  "x": -227.2097205048206,
+                  "y": 3651.8305237353097,
+                  "zoom": -1.3723209214706449
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/Databases/SQL/Named Conditions (Eigene Fehler).md",
+                "file": "Schule/Databases/Big Data.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,11 +45,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Named Conditions (Eigene Fehler)"
+              "title": "Big Data"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ACID",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,17 +218,19 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b612e5e6b1c9107a",
+  "active": "a8dcfd1630a6c4fa",
   "lastOpenFiles": [
-    "Schule/Databases/SQL/Fehlerbehandlung (Handler).md",
-    "Schule/Databases/SQL/Joins.md",
+    "Schule/Databases/Big Data.md",
     "Schule/Lernplan.canvas",
+    "Schule/Databases/NoSQL/NoSQL.md",
+    "Schule/Databases/SQL/Named Conditions (Eigene Fehler).md",
+    "Schule/Databases/SQL/Kategorien der SQL Befehle.md",
+    "Schule/Databases/SQL/Fehlerbehandlung (Handler).md",
+    "Schule/Databases/SQL/Datentypen in SQL.md",
+    "Schule/Databases/SQL/Joins.md",
     "Schule/Databases/SQL/Transact Control Language TCL.md",
     "Schule/Databases/SQL/Views in SQL.md",
-    "Schule/Databases/NoSQL/NoSQL.md",
     "Schule/Databases/SQL/Subquerys.md",
-    "Schule/Databases/SQL/Kategorien der SQL Befehle.md",
-    "Schule/Databases/SQL/Named Conditions (Eigene Fehler).md",
     "Schule/Databases/SQL/MySQL.md",
     "Schule/Databases/SQL/Gruppierung.md",
     "Schule/Databases/SQL/Indizes.md",
@@ -245,9 +246,6 @@
     "Schule/Programmieren/Java/JUnit/JUnit.md",
     "Schule/Programmieren/Java/JUnit/Assert Methoden.md",
     "Schule/BA/Linux/Console.md",
-    "Schule/Programmieren/Java/Sieb des Eratosthenes.md",
-    "Schule/Programmieren/Java/Java.md",
-    "Knowledge Base/Linux/Pakete.md",
     "Schule/Programmieren/Java/Untitled",
     "Schule/Programmieren/Java/JUnit",
     "Base.base",

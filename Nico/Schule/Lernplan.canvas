@@ -348,7 +348,6 @@
 			"width":460,
 			"height":280
 		},
-		{"id":"8f8de0fc6656ace0","type":"text","text":"# Woche 0\n15.6 - 19.6\n- 16.6 **DB**\n- 17.6 **Prog**\n- 18.6 **BA**","x":720,"y":1880,"width":460,"height":217,"color":"3"},
 		{
 			"id":"3d00952e9b7ae01f",
 			"type":"text",
@@ -495,12 +494,13 @@
 		{
 			"id":"31dc2e633af9845a",
 			"type":"text",
-			"text":"# Restliche Theorie\n- [x] Motivation DBS\n- [x] Ansi Sparc\n- [x] DBMS\n- [x] Datenbankmodelle\n- [x] DB Entwicklung\n- [ ] Big Data",
+			"text":"# Restliche Theorie\n- [x] Motivation DBS\n- [x] Ansi Sparc\n- [x] DBMS\n- [x] Datenbankmodelle\n- [x] DB Entwicklung\n- [x] Big Data",
 			"styleAttributes":{},
 			"x":-300,
 			"y":3140,
 			"width":460,
-			"height":280
+			"height":280,
+			"color":"4"
 		},
 		{
 			"id":"85a3d207a9ca2b99",
@@ -513,7 +513,7 @@
 			"height":280,
 			"color":"4"
 		},
-		{"id":"61c3900cabbcd8df","type":"text","text":"# Redis\n\n- [ ] Zusammenfassung checken\n- [ ] Üben\n- [ ] Snippets","x":200,"y":2820,"width":460,"height":280},
+		{"id":"61c3900cabbcd8df","type":"text","text":"# Redis\n\n- [x] Zusammenfassung checken\n- [x] Üben\n- [x] Snippets","x":200,"y":2820,"width":460,"height":280,"color":"4"},
 		{
 			"id":"6a0dec501af78a4c",
 			"type":"text",
@@ -525,7 +525,7 @@
 			"height":280,
 			"color":"4"
 		},
-		{"id":"bde7dec0b6a44857","type":"text","text":"# Mongo DB\n\n- [ ] Zusammenfassung checken\n- [ ] Üben\n- [ ] Snippets","x":200,"y":2500,"width":460,"height":280},
+		{"id":"bde7dec0b6a44857","type":"text","text":"# Mongo DB\n\n- [x] Zusammenfassung checken\n- [x] Üben\n- [x] Snippets","x":200,"y":2500,"width":460,"height":280,"color":"4"},
 		{
 			"id":"b1b604bc04d4e282",
 			"type":"text",
@@ -551,12 +551,13 @@
 		{
 			"id":"3f1cc946488ce120",
 			"type":"text",
-			"text":"# No-SQL\n- [ ] Motiation\n- [ ] Konzepte\n- [ ] Typen",
+			"text":"# No-SQL\n- [x] Motiation\n- [x] Konzepte\n- [x] Typen",
 			"styleAttributes":{},
 			"x":200,
 			"y":2180,
 			"width":460,
-			"height":280
+			"height":280,
+			"color":"4"
 		},
 		{
 			"id":"f41ddd742f83465b",
@@ -584,7 +585,8 @@
 		{"id":"649636c176336513","type":"text","text":"# Woche -4\n18.5. - 24.5.\n- 20.5. **Mathe**","x":-1300,"y":1880,"width":460,"height":217,"color":"1"},
 		{"id":"a2f31a208243f129","type":"text","text":"# Woche -1\n8.6 - 14.6\n- 10.6. **INTL**","x":200,"y":1880,"width":460,"height":217,"color":"1"},
 		{"id":"e625c2db6f6c92fa","type":"text","text":"# Woche -3\n25.5 - 31.5\nPfingstferien","x":-800,"y":1880,"width":460,"height":217,"color":"1"},
-		{"id":"2f7d189554ac87ea","type":"text","text":"# Woche -5\n11.5. - 17.5.","x":-1800,"y":1880,"width":460,"height":217,"color":"1"}
+		{"id":"2f7d189554ac87ea","type":"text","text":"# Woche -5\n11.5. - 17.5.","x":-1800,"y":1880,"width":460,"height":217,"color":"1"},
+		{"id":"8f8de0fc6656ace0","type":"text","text":"# Woche 0\n15.6 - 19.6\n- 16.6 **DB**\n- 17.6 **Prog**\n- 18.6 **BA**","x":720,"y":1880,"width":460,"height":217,"color":"3"}
 	],
 	"edges":[],
 	"metadata":{
