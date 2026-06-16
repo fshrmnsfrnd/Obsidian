@@ -4,7 +4,6 @@ Fach: "[[Programmieren]]"
 Thema:
   - "[[Java]]"
 ---
-
 > [!NOTE] Exceptions
 > Bei Dateizugriffen sollten immer `Try-Catch` Blöcke verwenden werden. Sonst kann es zu Programmabstürzen oder Fehlern in den Dateien führen. 
 > [[Schule/Programmieren/Java/Basics/Fehlerbehandlung#Exceptions bei Dateizugriffen]]  
@@ -65,8 +64,7 @@ Path pfad = Paths.get("D:/Ausgabedatei.txt");
 try(
 	BufferedWriter bw = Files.newBufferedWriter(pfad, StandardOpenOption.APPEND);
 	PrintWriter out = new PrintWriter(bw); 
-) 
-{ 
+){
 	out.println("Test4"); 
 }catch(FileNotFoundException ex){
 	System.out.println("Datei nicht gefunden");

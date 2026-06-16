@@ -3,7 +3,7 @@ Fach: "[[Programmieren]]"
 Thema:
   - "[[FXML]]"
 ---
-Die Methode initialize() in der Controller Klasse wird beim erstellen der Oberfläche ausgeführt. 
+scDie Methode initialize() in der Controller Klasse wird beim erstellen der Oberfläche ausgeführt. 
 ```java
 public class TemplateController{
 	@FXML

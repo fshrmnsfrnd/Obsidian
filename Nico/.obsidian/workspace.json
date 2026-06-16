@@ -11,26 +11,9 @@
             "id": "a8dcfd1630a6c4fa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Schule/Lernplan.canvas",
-                "viewState": {
-                  "x": -227.2097205048206,
-                  "y": 3651.8305237353097,
-                  "zoom": -1.3723209214706449
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Lernplan"
-            }
-          },
-          {
-            "id": "b612e5e6b1c9107a",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/Databases/Big Data.md",
+                "file": "Schule/BA/Linux/Console.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,10 +28,28 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Big Data"
+              "title": "Console"
+            }
+          },
+          {
+            "id": "410f85eb98a5fa0f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Schule/Lernplan.canvas",
+                "viewState": {
+                  "x": -1801.282754424237,
+                  "y": 2300.5140761910193,
+                  "zoom": -0.7128638248759037
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Lernplan"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "History",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.51103591918945
+    "width": 305.50152587890625
   },
   "right": {
     "id": "23f39ac3882bc0af",
@@ -218,10 +219,24 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a8dcfd1630a6c4fa",
+  "active": "410f85eb98a5fa0f",
   "lastOpenFiles": [
-    "Schule/Databases/Big Data.md",
+    "Schule/BA/Linux/Console.md",
+    "Schule/Programmieren/Java/JavaFX/Elemente.md",
+    "Schule/Programmieren/Java/FXML/Snippets.md",
+    "Schule/Programmieren/Java/FXML/Eventhandler.md",
+    "Schule/Programmieren/Java/FXML/Dynamisches Erstellen der Oberfläche.md",
+    "Schule/Programmieren/Java/FXML/FXML.md",
+    "Schule/Programmieren/Java/Design Patterns/State Pattern.md",
     "Schule/Lernplan.canvas",
+    "Schule/Programmieren/Java/Design Patterns/Design-Patterns-Explained-With-Java-and-Uml2-2008.pdf",
+    "Schule/Databases/Big Data.md",
+    "Schule/Programmieren/Java/Basics/Textdateien.md",
+    "Schule/Programmieren/Java/Design Patterns/Prototype Pattern.md",
+    "Schule/Programmieren/Java/Design Patterns/Observer Pattern.md",
+    "Schule/Programmieren/Java/Design Patterns/Factory Pattern.md",
+    "Schule/Programmieren/Java/Design Patterns/Design Patterns.md",
+    "Schule/Programmieren/Java/Basics/Fehlerbehandlung.md",
     "Schule/Databases/NoSQL/NoSQL.md",
     "Schule/Databases/SQL/Named Conditions (Eigene Fehler).md",
     "Schule/Databases/SQL/Kategorien der SQL Befehle.md",
@@ -234,18 +249,6 @@
     "Schule/Databases/SQL/MySQL.md",
     "Schule/Databases/SQL/Gruppierung.md",
     "Schule/Databases/SQL/Indizes.md",
-    "Schule/Databases/SQL/Funktionen in SQL.md",
-    "Schule/Databases/SQL/Cursor.md",
-    "Schule/Databases/SQL/Data Control Language DCL.md",
-    "Schule/Databases/SQL/Data Query Language DQL.md",
-    "Schule/Databases/JDBC/ORM.md",
-    "Schule/Databases/SQL/Data Definition Language DDL.md",
-    "Knowledge Base/Logische Schaltungen/Schaltalgebra.md",
-    "Schule/Programmieren/Java/JUnit/Tests.md",
-    "Schule/Programmieren/Java/JUnit/Überdeckungstest.md",
-    "Schule/Programmieren/Java/JUnit/JUnit.md",
-    "Schule/Programmieren/Java/JUnit/Assert Methoden.md",
-    "Schule/BA/Linux/Console.md",
     "Schule/Programmieren/Java/Untitled",
     "Schule/Programmieren/Java/JUnit",
     "Base.base",
@@ -263,7 +266,6 @@
     "src/Pasted image 20260606181835.png",
     "Schule/INTL/Untitled",
     "Schule/INTL/CSS/css_flexbox_demo 1.html",
-    "Schule/INTL/CSS/css_flexbox_demo.html",
     "src/ER Modell 2024-11-09 14.00.59.excalidraw.png",
     "src/Pasted image 20260523135534.png",
     "Knowledge Base/KI/Theorie KI/Aufbau LLM.canvas",
