@@ -30,26 +30,8 @@
               "icon": "lucide-file",
               "title": "Console"
             }
-          },
-          {
-            "id": "410f85eb98a5fa0f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Schule/Lernplan.canvas",
-                "viewState": {
-                  "x": -1801.282754424237,
-                  "y": 2300.5140761910193,
-                  "zoom": -0.7128638248759037
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Lernplan"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,8 +201,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "410f85eb98a5fa0f",
+  "active": "a8dcfd1630a6c4fa",
   "lastOpenFiles": [
+    "Schule/Lernplan.canvas",
     "Schule/BA/Linux/Console.md",
     "Schule/Programmieren/Java/JavaFX/Elemente.md",
     "Schule/Programmieren/Java/FXML/Snippets.md",
@@ -228,7 +211,6 @@
     "Schule/Programmieren/Java/FXML/Dynamisches Erstellen der Oberfläche.md",
     "Schule/Programmieren/Java/FXML/FXML.md",
     "Schule/Programmieren/Java/Design Patterns/State Pattern.md",
-    "Schule/Lernplan.canvas",
     "Schule/Programmieren/Java/Design Patterns/Design-Patterns-Explained-With-Java-and-Uml2-2008.pdf",
     "Schule/Databases/Big Data.md",
     "Schule/Programmieren/Java/Basics/Textdateien.md",
@@ -248,7 +230,6 @@
     "Schule/Databases/SQL/Subquerys.md",
     "Schule/Databases/SQL/MySQL.md",
     "Schule/Databases/SQL/Gruppierung.md",
-    "Schule/Databases/SQL/Indizes.md",
     "Schule/Programmieren/Java/Untitled",
     "Schule/Programmieren/Java/JUnit",
     "Base.base",
