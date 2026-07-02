@@ -5,7 +5,6 @@ Thema:
   - "[[Windows Client]]"
   - "[[Schule/BA/Windows Server/Windows Server|Windows Server]]"
 ---
-
 Sysprep bereitet ein Windows-System für das Klonen vor und erzeugt beim ersten Start nach einem Sysprep-Lauf eine neue System-SID; daraus folgen neue SIDs für lokale Benutzer und Gruppen; Administratorpasswort und benutzerspezifische Daten werden gelöscht, während Benutzerkonten, Treiber und installierte Programme erhalten bleiben; beim ersten Neustart muss jedoch ein neuer Benutzer angelegt werden.  
 # GUI und Standardoptionen
 ---  

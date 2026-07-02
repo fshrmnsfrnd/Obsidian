@@ -1,5 +1,4 @@
 ---
-Fach:
 Thema:
   - "[[JavaScript]]"
   - "[[Webentwicklung]]"

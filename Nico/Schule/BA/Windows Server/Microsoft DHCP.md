@@ -4,7 +4,7 @@ Thema:
   - "[[Microsoft]]"
   - "[[Schule/BA/Windows Server/Windows Server|Windows Server]]"
 ---
-Der DHCP-Server Konfiguriert beim Client:  
+Der DHCP-Server gibt dem Client die Konfiguration für:
 - **IP-Adresse**  
 - **Subnetzmaske**  
 - **[[DNS]]-Server**  

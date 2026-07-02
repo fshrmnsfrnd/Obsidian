@@ -1,7 +1,6 @@
 ---
 Thema:
   - "[[BSI Grundschutz]]"
-Fach:
 ---
 ## 1. Gliederung des Bausteins NET.1.1
 1. **Beschreibung**  

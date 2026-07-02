@@ -1,8 +1,7 @@
 ---
-Fach: "[[Programmieren]]"
-tags:
 Thema:
   - "[[Java]]"
+  - "[[FXML]]"
 ---
 FXML Projekt erstellen: Maven -> FXML JavaFX Maven Archetype (Gluon)
 

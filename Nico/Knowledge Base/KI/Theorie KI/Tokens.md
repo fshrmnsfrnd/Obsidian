@@ -16,8 +16,8 @@ Diese Variante nimmt jeden Buchstaben einzeln als Token. Dadurch können ebenfal
 
 **Byte Tokens:**
 Bei dieser Variante wird jeder Buchstabe als eine Byte Darstellung, also eine Kombination aus 010010110…. dargestellt. Im Vergleich dazu, ist der Charakter Token eine Ganzzahl „353254“.
-
 # Tokenizer
+---
 - Der **Tokenizer** wandelt **Text in Tokens** um (vor dem Training oder der Eingabe).
 - Beim Ausgeben wandelt er Tokens wieder in **Text** zurück.
 - Er sorgt dafür, dass das Modell mit Zahlen statt Text arbeiten kann.

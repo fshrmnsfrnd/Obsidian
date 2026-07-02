@@ -1,25 +1,16 @@
 ---
-tags:
-Fach:
 Thema:
   - "[[HTML]]"
   - "[[Webentwicklung]]"
 ---
 ## Anfangstag
 ``` <tagname attribut1="wert1" ... >```
-
 ## Endtag
-
 ```</tagname>```
-
 ## Selbstschließend
-
 ```<br />``` 
-
 # Kommentar
-
 ```<!--- Kommentar (auch mehrzeilig)-->```
-
 # Head
 
 | Element      | Beschreibung                                                                 |
@@ -32,8 +23,6 @@ Thema:
 | link         | Erzeugt einen Link zwischen dem aktuellen und einem verwandten Dokument, z.B. für eine CSS-Datei |
 | meta         | Informationen, die nicht im Browserfenster dargestellt werden               |
 | style        | Globale CSS-Stile, die innerhalb des Dokuments gelten                       |
-
-
 # Inhalt
 
 | Element                | Beschreibung                                                              |
@@ -47,7 +36,6 @@ Thema:
 | header                 | Einleitung des Dokuments                                                  |
 | footer                 | Informationen im Fuß eines Artikels oder Beitrags                         |
 | address                | Kontaktinformationen für den Autor bzw. Inhaber der Seite                 |
-
 # Struktur
 
 | Element        | Beschreibung                                                                                 |
@@ -67,8 +55,6 @@ Thema:
 | dd             | Erklärung in einer Definitionsliste                                                        |
 | figure         | Container für Bilder, Grafiken und Abbildungen                                              |
 | figcaption     | Bildunterschrift, Marginale, Erklärungen zum Inhalt des figure-Elements                     |
-
-
 # Text
 
 | Element                            | Beschreibung                                                                                             |

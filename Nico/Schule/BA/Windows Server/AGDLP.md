@@ -1,13 +1,15 @@
 ---
 Thema:
   - "[[Windows Client]]"
+  - "[[Schule/BA/Windows Server/Windows Server|Windows Server]]"
 ---
 - **A**ccounts 
 - **G**lobal Groups 
 - **D**omain **L**ocal Groups 
 - **P**ermissions
 
->Die AGDLP-Regel ist ein Best-Practice-Konzept für die Rechtevergabe in Microsoft Active Directory-Umgebungen. Sie wird für die Role-Based Access Control ([[RBAC]]) verwendet
+>Die AGDLP-Regel ist ein Best-Practice-Konzept für die Rechtevergabe in Microsoft Active Directory
+>Umgebungen. Sie wird für die Role-Based Access Control ([[RBAC]]) verwendet
 # Vorteile
 ---
 - **Zentrale Verwaltung**: Berechtigungen werden nur an einer Stelle vergeben.

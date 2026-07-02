@@ -1,7 +1,7 @@
 ---
 Thema:
   - "[[Programmieren]]"
-Fach: "[[Programmieren]]"
+  - "[[Tests]]"
 ---
 # Regeln
 ---

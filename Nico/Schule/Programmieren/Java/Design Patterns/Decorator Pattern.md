@@ -1,5 +1,4 @@
 ---
-Fach: "[[Programmieren]]"
 Thema:
   - "[[Design Patterns]]"
   - "[[Java]]"

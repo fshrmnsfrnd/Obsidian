@@ -1,6 +1,4 @@
 ---
-Fach:
-tags:
 Thema:
   - "[[PHP]]"
   - "[[Webentwicklung]]"

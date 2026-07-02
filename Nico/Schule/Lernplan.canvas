@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"8ce16797c2bdbf5c","type":"group","x":-1920,"y":6520,"width":3120,"height":2000,"label":"Datenbanken"},
-		{"id":"aa5d7c9c6d2421be","type":"group","x":-1920,"y":2240,"width":3120,"height":1480,"label":"Programmierung"},
+		{"id":"aa5d7c9c6d2421be","type":"group","x":-1920,"y":8640,"width":3120,"height":1480,"label":"Programmierung"},
 		{"id":"d13794253c41359f","type":"group","x":-1920,"y":3880,"width":3120,"height":1360,"label":"BA"},
 		{"id":"930a7d9318eb0f20","type":"group","x":-1920,"y":5400,"width":3120,"height":1000,"label":"INTL"},
 		{
@@ -16,54 +16,11 @@
 			"color":"4"
 		},
 		{
-			"id":"4665c4192d522a15",
-			"type":"text",
-			"text":"# RBAC",
-			"styleAttributes":{},
-			"x":-380,
-			"y":4240,
-			"width":460,
-			"height":280,
-			"color":"4"
-		},
-		{
-			"id":"f4b156291ac971de",
-			"type":"text",
-			"text":"# Container Virtualisierung\n- [ ] SA Stoff\n- [ ] Run Befehl\n- [ ] Dockerfile verstehen\n- [ ] Docker Netzwerke grob verstehen\n- [ ] Kein Dockerfile / compose file schreiben",
-			"styleAttributes":{},
-			"x":-380,
-			"y":4560,
-			"width":460,
-			"height":280
-		},
-		{
-			"id":"fd1ee72c900628a5",
-			"type":"text",
-			"text":"# RAID\n- [x] 0\n- [x] 1\n- [x] (3)\n- [x] 5\n- [x] (6)",
-			"styleAttributes":{},
-			"x":-380,
-			"y":4880,
-			"width":460,
-			"height":320,
-			"color":"4"
-		},
-		{
 			"id":"118b3c28241c49b2",
 			"type":"text",
 			"text":"# CSS Floating Boxes\n- [x] Zusammenfassung checken (evtl. neu)\n- [x] Üben\n- [x] Snippets",
 			"styleAttributes":{},
 			"x":-880,
-			"y":6060,
-			"width":460,
-			"height":280,
-			"color":"4"
-		},
-		{
-			"id":"5d894eeb83c0e37e",
-			"type":"text",
-			"text":"# JS Ajax/Fetch\n- [x] Ajax arten dokumentieren\n- [x] Dokumentieren was AJAX überhaupt ist\n- [x] Code snippets für XMLHTTPRequest und Fetch schreiben",
-			"styleAttributes":{},
-			"x":-380,
 			"y":6060,
 			"width":460,
 			"height":280,
@@ -114,76 +71,11 @@
 			"color":"4"
 		},
 		{
-			"id":"269e4dd14d5d8ca4",
-			"type":"text",
-			"text":"# JS Funktionen und Events\n- [x] Zusammenfassung checken\n- [x] Snippets",
-			"styleAttributes":{},
-			"x":-380,
-			"y":5740,
-			"width":460,
-			"height":280,
-			"color":"4"
-		},
-		{
-			"id":"7f47e0854d92c0d6",
-			"type":"text",
-			"text":"# Active Directory\n- [x] AGDLP Regel\n- [ ] Probleme und Lösungen kennen\n- [x] Lokale und Domain Lokal Gruppen\n- [ ] Basicly alles von der SA",
-			"styleAttributes":{},
-			"x":120,
-			"y":4240,
-			"width":460,
-			"height":280,
-			"color":"5"
-		},
-		{
-			"id":"df85b77c9cadc209",
-			"type":"text",
-			"text":"# Zugangssicherheit\n- [x] Diceware\n- [x] Salt Pepper\n- [ ] Basicly alles aus KA\n- [x] 2FA\n- [x] Passkeys",
-			"styleAttributes":{},
-			"x":120,
-			"y":4560,
-			"width":460,
-			"height":280,
-			"color":"5"
-		},
-		{
-			"id":"b316ac3ce55393f1",
-			"type":"text",
-			"text":"# Git\n- [x] Git init\n- [x] git add\n- [x] git commit (mit anständiger nachricht)\n- [ ] git ignore\n- [x] git remote add\n- [x] git push\n- [x] git clone\n- [x] fetch\n- [x] merge\n- [x] rebase",
-			"styleAttributes":{},
-			"x":-380,
-			"y":3920,
-			"width":460,
-			"height":280,
-			"color":"4"
-		},
-		{
-			"id":"957154a7914f643f",
-			"type":"text",
-			"text":"# Linux Basics\n- [x] Globbing / Wildcards\n- [ ] Network Config lesen\n- [x] Wie ein Command aufgebaut ist\n- [ ] Unterschied GPT und MBR\n- [x] Command History\n- [x] Variablen\n- [x] Man page rudimentär\n- [ ] Textdateien\n- [ ] mit echo in ne datei pipen\n- [ ] I/O Redirection\n- [x] Cronjob wissen was das ist\n- [x] prozessverwaltung\n\t- [x] ps\n\t- [x] ps -e\n\t- [x] Zombie Prozess\n- [ ] /proc Directory kennen\n- [x] Berechtigungen",
-			"styleAttributes":{},
-			"x":-1000,
-			"y":3920,
-			"width":460,
-			"height":1240
-		},
-		{
 			"id":"166b3f138986a0e6",
 			"type":"text",
 			"text":"# CSS Box Positioning\n- [x] Zusammenfassung checken (evtl. neu)\n- [x] Üben\n- [x] Snippets\n- [x] Absolute Positionierung",
 			"styleAttributes":{},
 			"x":-880,
-			"y":5420,
-			"width":460,
-			"height":280,
-			"color":"4"
-		},
-		{
-			"id":"50c218cdb4ecd122",
-			"type":"text",
-			"text":"# CSS Grid\n- [x] Zusammenfassung checken (evtl. neu)\n- [x] Üben\n- [x] Snippets",
-			"styleAttributes":{},
-			"x":-380,
 			"y":5420,
 			"width":460,
 			"height":280,
@@ -207,6 +99,116 @@
 			"styleAttributes":{},
 			"x":-1380,
 			"y":5420,
+			"width":460,
+			"height":280,
+			"color":"4"
+		},
+		{
+			"id":"4665c4192d522a15",
+			"type":"text",
+			"text":"# RBAC",
+			"styleAttributes":{},
+			"x":-380,
+			"y":4240,
+			"width":460,
+			"height":280,
+			"color":"4"
+		},
+		{
+			"id":"f4b156291ac971de",
+			"type":"text",
+			"text":"# Container Virtualisierung\n- [x] SA Stoff\n- [x] Run Befehl\n- [x] Dockerfile verstehen\n- [x] Docker Netzwerke grob verstehen\n- [x] Kein Dockerfile / compose file schreiben",
+			"styleAttributes":{},
+			"x":-380,
+			"y":4560,
+			"width":460,
+			"height":280,
+			"color":"4"
+		},
+		{
+			"id":"fd1ee72c900628a5",
+			"type":"text",
+			"text":"# RAID\n- [x] 0\n- [x] 1\n- [x] (3)\n- [x] 5\n- [x] (6)",
+			"styleAttributes":{},
+			"x":-380,
+			"y":4880,
+			"width":460,
+			"height":320,
+			"color":"4"
+		},
+		{
+			"id":"5d894eeb83c0e37e",
+			"type":"text",
+			"text":"# JS Ajax/Fetch\n- [x] Ajax arten dokumentieren\n- [x] Dokumentieren was AJAX überhaupt ist\n- [x] Code snippets für XMLHTTPRequest und Fetch schreiben",
+			"styleAttributes":{},
+			"x":-380,
+			"y":6060,
+			"width":460,
+			"height":280,
+			"color":"4"
+		},
+		{
+			"id":"269e4dd14d5d8ca4",
+			"type":"text",
+			"text":"# JS Funktionen und Events\n- [x] Zusammenfassung checken\n- [x] Snippets",
+			"styleAttributes":{},
+			"x":-380,
+			"y":5740,
+			"width":460,
+			"height":280,
+			"color":"4"
+		},
+		{
+			"id":"7f47e0854d92c0d6",
+			"type":"text",
+			"text":"# Active Directory\n- [x] AGDLP Regel\n- [x] Probleme und Lösungen kennen\n- [x] Lokale und Domain Lokal Gruppen\n- [x] Basicly alles von der SA",
+			"styleAttributes":{},
+			"x":120,
+			"y":4240,
+			"width":460,
+			"height":280,
+			"color":"4"
+		},
+		{
+			"id":"b316ac3ce55393f1",
+			"type":"text",
+			"text":"# Git\n- [x] Git init\n- [x] git add\n- [x] git commit (mit anständiger nachricht)\n- [x] .gitignore\n- [x] git remote add\n- [x] git push\n- [x] git clone\n- [x] fetch\n- [x] merge\n- [x] rebase",
+			"styleAttributes":{},
+			"x":-380,
+			"y":3920,
+			"width":460,
+			"height":280,
+			"color":"4"
+		},
+		{
+			"id":"957154a7914f643f",
+			"type":"text",
+			"text":"# Linux Basics\n- [x] Globbing / Wildcards\n- [x] Network Config lesen\n- [x] Wie ein Command aufgebaut ist\n- [x] Unterschied GPT und MBR\n- [x] Command History\n- [x] Variablen\n- [x] Man page rudimentär\n- [x] Textdateien\n- [x] mit echo in ne datei pipen\n- [x] I/O Redirection\n- [x] Cronjob wissen was das ist\n- [x] prozessverwaltung\n\t- [x] ps\n\t- [x] ps -e\n\t- [x] Zombie Prozess\n- [x] /proc Directory kennen\n- [x] Berechtigungen",
+			"styleAttributes":{},
+			"x":-1000,
+			"y":3920,
+			"width":460,
+			"height":1240,
+			"color":"4"
+		},
+		{
+			"id":"50c218cdb4ecd122",
+			"type":"text",
+			"text":"# CSS Grid\n- [x] Zusammenfassung checken (evtl. neu)\n- [x] Üben\n- [x] Snippets",
+			"styleAttributes":{},
+			"x":-380,
+			"y":5420,
+			"width":460,
+			"height":280,
+			"color":"4"
+		},
+		{
+			"id":"df85b77c9cadc209",
+			"type":"text",
+			"text":"# Zugangssicherheit\n- [x] Diceware\n- [x] Salt Pepper\n- [x] Basicly alles aus KA\n- [x] 2FA\n- [x] Passkeys",
+			"styleAttributes":{},
+			"x":120,
+			"y":4560,
 			"width":460,
 			"height":280,
 			"color":"4"
@@ -278,17 +280,6 @@
 			"color":"4"
 		},
 		{
-			"id":"a501cb6421fb7e26",
-			"type":"text",
-			"text":"# Subqueries\n- [x] Zusammenfassung checken\n- [x] Üben\n- [x] Snippets",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":7500,
-			"width":460,
-			"height":280,
-			"color":"4"
-		},
-		{
 			"id":"dfa43caa3b92bbab",
 			"type":"text",
 			"text":"# Transaktionen\n- [x] Zusammenfassung checken\n- [x] Üben\n- [x] Snippets",
@@ -310,7 +301,17 @@
 			"height":280,
 			"color":"4"
 		},
-		{"id":"8f8de0fc6656ace0","type":"text","text":"# Woche 0\n15.6 - 19.6\n- 16.6 **DB**\n- 17.6 **Prog**\n- 18.6 **BA**","x":640,"y":1880,"width":460,"height":217,"color":"3"},
+		{
+			"id":"a501cb6421fb7e26",
+			"type":"text",
+			"text":"# Subqueries\n- [x] Zusammenfassung checken\n- [x] Üben\n- [x] Snippets",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":7500,
+			"width":460,
+			"height":280,
+			"color":"4"
+		},
 		{
 			"id":"3d00952e9b7ae01f",
 			"type":"text",
@@ -356,17 +357,6 @@
 			"color":"4"
 		},
 		{
-			"id":"f41ddd742f83465b",
-			"type":"text",
-			"text":"# Variablen, Operatoren, Expressions / Blöcke\n- [x] Zusammenfassung checken\n- [x] Üben",
-			"styleAttributes":{},
-			"x":-880,
-			"y":6540,
-			"width":460,
-			"height":280,
-			"color":"4"
-		},
-		{
 			"id":"b1b604bc04d4e282",
 			"type":"text",
 			"text":"# Trigger (Fallen weg!!!)\nKeine Trigger in der Prüfung",
@@ -390,23 +380,34 @@
 		},
 		{"id":"bde7dec0b6a44857","type":"text","text":"# Mongo DB\n\n- [x] Zusammenfassung checken\n- [x] Üben\n- [x] Snippets","x":120,"y":6860,"width":460,"height":280,"color":"4"},
 		{
-			"id":"7345c783f73ed59e",
-			"type":"text",
-			"text":"# Indizes\n\n- [x] Zusammenfassung checken\n- [x] Üben\n- [x] Snippets",
-			"styleAttributes":{},
-			"x":-880,
-			"y":6860,
-			"width":460,
-			"height":280,
-			"color":"4"
-		},
-		{
 			"id":"30eac6e2e55cc48f",
 			"type":"text",
 			"text":"# Views\n- [x] Dokumentieren der Anwendungsfälle von Views\n- [x] Dokumentieren wie man views nutzen kann\n- [x] Zusammenfassung checken\n- [x] Üben\n- [x] Snippets machen",
 			"styleAttributes":{},
 			"x":-1380,
 			"y":6540,
+			"width":460,
+			"height":280,
+			"color":"4"
+		},
+		{
+			"id":"f41ddd742f83465b",
+			"type":"text",
+			"text":"# Variablen, Operatoren, Expressions / Blöcke\n- [x] Zusammenfassung checken\n- [x] Üben",
+			"styleAttributes":{},
+			"x":-880,
+			"y":6540,
+			"width":460,
+			"height":280,
+			"color":"4"
+		},
+		{
+			"id":"7345c783f73ed59e",
+			"type":"text",
+			"text":"# Indizes\n\n- [x] Zusammenfassung checken\n- [x] Üben\n- [x] Snippets",
+			"styleAttributes":{},
+			"x":-880,
+			"y":6860,
 			"width":460,
 			"height":280,
 			"color":"4"
@@ -446,24 +447,15 @@
 		},
 		{"id":"61c3900cabbcd8df","type":"text","text":"# Redis\n\n- [x] Zusammenfassung checken\n- [x] Üben\n- [x] Snippets","x":120,"y":7180,"width":460,"height":280,"color":"4"},
 		{
-			"id":"2b961ae7adadbd40",
+			"id":"e86139d155c84406",
 			"type":"text",
-			"text":"# Zeitkomplexität\n- [ ] ",
+			"text":"# Assoziationen\n- [x] Verstehen von allen Assoziationsarten\n- [x] Dokumentieren der Assoziationen\n- [x] Beispiele anfertigen und dokumentieren",
 			"styleAttributes":{},
-			"x":-1380,
-			"y":2260,
+			"x":-1880,
+			"y":8980,
 			"width":460,
-			"height":280
-		},
-		{
-			"id":"e51da3609ef603ab",
-			"type":"text",
-			"text":"# JavaFX\n- [ ] Eventhandler nochmal anschauen\n- [ ] Zusammenfassung checken\n- [ ] üben\n- [ ] Snippets\n- [ ] Setup von Netbeans\n- [ ] Scenebuilder",
-			"styleAttributes":{},
-			"x":-880,
-			"y":2260,
-			"width":460,
-			"height":280
+			"height":280,
+			"color":"4"
 		},
 		{
 			"id":"9fcab368d72caf1e",
@@ -471,7 +463,7 @@
 			"text":"# Datenstrukturen\n- [x] Doku checken\n- [x] Listen\n- [x] Mengen\n- [x] Assotiativspeicher\n- [x] Queues",
 			"styleAttributes":{},
 			"x":-1380,
-			"y":2580,
+			"y":8980,
 			"width":460,
 			"height":280,
 			"color":"4"
@@ -482,40 +474,7 @@
 			"text":"# Fehlerbehandlung\n\n- [x] Zusammenfassung checken\n- [x] Snippets",
 			"styleAttributes":{},
 			"x":-880,
-			"y":2580,
-			"width":460,
-			"height":280,
-			"color":"4"
-		},
-		{
-			"id":"b6b7740189cdcda4",
-			"type":"text",
-			"text":"#  Wrapperklassen\n- [x] Zusammenfassung\n- [x] snippets wenn nötig",
-			"styleAttributes":{},
-			"x":-1380,
-			"y":2900,
-			"width":460,
-			"height":280,
-			"color":"4"
-		},
-		{
-			"id":"ed398f465cb7cdee",
-			"type":"text",
-			"text":"# UML Klassendiagramm\n- [x] Üben des Zeichnens von Klassendiagrammen\n- [x] Übersicht über alle Komponenten erstellen\n- [x] Übungen durcharbeiten\n- [x] Zeichnen\n- [x] Zusammenfassung checken",
-			"styleAttributes":{},
-			"x":-1880,
-			"y":2260,
-			"width":460,
-			"height":280,
-			"color":"4"
-		},
-		{
-			"id":"e86139d155c84406",
-			"type":"text",
-			"text":"# Assoziationen\n- [x] Verstehen von allen Assoziationsarten\n- [x] Dokumentieren der Assoziationen\n- [x] Beispiele anfertigen und dokumentieren",
-			"styleAttributes":{},
-			"x":-1880,
-			"y":2580,
+			"y":8980,
 			"width":460,
 			"height":280,
 			"color":"4"
@@ -526,7 +485,18 @@
 			"text":"# Klassen und Objekte\n- [x] Vererbung\n- [x] Schnittstellen\n- [x] Interfaces\n- [x] Abstrakte Klassen",
 			"styleAttributes":{},
 			"x":-1880,
-			"y":2900,
+			"y":9300,
+			"width":460,
+			"height":280,
+			"color":"4"
+		},
+		{
+			"id":"b6b7740189cdcda4",
+			"type":"text",
+			"text":"#  Wrapperklassen\n- [x] Zusammenfassung\n- [x] snippets wenn nötig",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":9300,
 			"width":460,
 			"height":280,
 			"color":"4"
@@ -537,29 +507,7 @@
 			"text":"# Design Patterns\n- [x] Alle Dokus checken\n- [x] Schauen dass alle relevanten dokumentiert sind\n- [x] Alle mit übersicht und code beispiel",
 			"styleAttributes":{},
 			"x":-380,
-			"y":2260,
-			"width":460,
-			"height":280,
-			"color":"4"
-		},
-		{
-			"id":"da3a7e432ae34afd",
-			"type":"text",
-			"text":"# Textdateien\n- [x] I/O Operations\n- [x] Cursor\n- [x] Üben\n- [x] Zusammenfassung",
-			"styleAttributes":{},
-			"x":-380,
-			"y":2580,
-			"width":460,
-			"height":280,
-			"color":"4"
-		},
-		{
-			"id":"1f67bb645180c521",
-			"type":"text",
-			"text":"# Junit Testing\n- [x] Assert Methoden\n- [x] Zusammenfassen\n- [x] ausprobieren\n- [x] Testbare Methoden\n- [x] Überdeckungstests",
-			"styleAttributes":{},
-			"x":-380,
-			"y":2900,
+			"y":8660,
 			"width":460,
 			"height":280,
 			"color":"4"
@@ -570,9 +518,21 @@
 			"text":"# Spezielles\n\n- [ ] Sorting Algorithmen\n\t- [ ] Snippets!!\n- [ ] Sieb des Eratosthenes\n- [ ] ",
 			"styleAttributes":{},
 			"x":120,
-			"y":2260,
+			"y":8660,
 			"width":460,
-			"height":280
+			"height":280,
+			"color":"4"
+		},
+		{
+			"id":"da3a7e432ae34afd",
+			"type":"text",
+			"text":"# Textdateien\n- [x] I/O Operations\n- [x] Cursor\n- [x] Üben\n- [x] Zusammenfassung",
+			"styleAttributes":{},
+			"x":-380,
+			"y":8980,
+			"width":460,
+			"height":280,
+			"color":"4"
 		},
 		{
 			"id":"ff78a5488e7638ee",
@@ -580,16 +540,61 @@
 			"text":"# StringBuilder\n- [ ] Zusammenfassung\n- [ ] Üben",
 			"styleAttributes":{},
 			"x":120,
-			"y":2580,
+			"y":8980,
 			"width":460,
-			"height":280
+			"height":280,
+			"color":"4"
 		},
-		{"id":"2f7d189554ac87ea","type":"text","text":"# Woche -5\n11.5. - 17.5.","x":-1880,"y":1880,"width":460,"height":217,"color":"1"},
-		{"id":"649636c176336513","type":"text","text":"# Woche -4\n18.5. - 24.5.\n- 20.5. **Mathe**","x":-1380,"y":1880,"width":460,"height":217,"color":"1"},
-		{"id":"e625c2db6f6c92fa","type":"text","text":"# Woche -3\n25.5 - 31.5\nPfingstferien","x":-880,"y":1880,"width":460,"height":217,"color":"1"},
-		{"id":"de0f6d352d628157","type":"text","text":"# Woche -2\n1.6. - 7.6\nPfingstferien","x":-380,"y":1880,"width":460,"height":217,"color":"1"},
-		{"id":"a2f31a208243f129","type":"text","text":"# Woche -1\n8.6 - 14.6\n- 10.6. **INTL**","x":120,"y":1880,"width":460,"height":217,"color":"1"},
-		{"id":"a476033a5ae99cf7","x":-2475,"y":2264,"width":375,"height":236,"type":"text","text":"# WICHTIG NETBEANS\n## Code Completion\nTools -> Options -> Editor, Code Completion ->\nLanguage: Java -> Auto Popup on Ant"}
+		{
+			"id":"1f67bb645180c521",
+			"type":"text",
+			"text":"# Junit Testing\n- [x] Assert Methoden\n- [x] Zusammenfassen\n- [x] ausprobieren\n- [x] Testbare Methoden\n- [x] Überdeckungstests",
+			"styleAttributes":{},
+			"x":-380,
+			"y":9300,
+			"width":460,
+			"height":280,
+			"color":"4"
+		},
+		{
+			"id":"2b961ae7adadbd40",
+			"type":"text",
+			"text":"# Zeitkomplexität\n- [ ] ",
+			"styleAttributes":{},
+			"x":-1380,
+			"y":8660,
+			"width":460,
+			"height":280,
+			"color":"4"
+		},
+		{
+			"id":"ed398f465cb7cdee",
+			"type":"text",
+			"text":"# UML Klassendiagramm\n- [x] Üben des Zeichnens von Klassendiagrammen\n- [x] Übersicht über alle Komponenten erstellen\n- [x] Übungen durcharbeiten\n- [x] Zeichnen\n- [x] Zusammenfassung checken",
+			"styleAttributes":{},
+			"x":-1880,
+			"y":8660,
+			"width":460,
+			"height":280,
+			"color":"4"
+		},
+		{
+			"id":"e51da3609ef603ab",
+			"type":"text",
+			"text":"# JavaFX\n- [ ] Eventhandler nochmal anschauen\n- [ ] Zusammenfassung checken\n- [ ] üben\n- [ ] Snippets\n- [ ] Setup von Netbeans\n- [ ] Scenebuilder",
+			"styleAttributes":{},
+			"x":-880,
+			"y":8660,
+			"width":460,
+			"height":280,
+			"color":"4"
+		},
+		{"id":"2f7d189554ac87ea","type":"text","text":"# Woche -5\n11.5. - 17.5.","x":-1880,"y":3600,"width":460,"height":217,"color":"1"},
+		{"id":"649636c176336513","type":"text","text":"# Woche -4\n18.5. - 24.5.\n- 20.5. **Mathe**","x":-1380,"y":3600,"width":460,"height":217,"color":"1"},
+		{"id":"e625c2db6f6c92fa","type":"text","text":"# Woche -3\n25.5 - 31.5\nPfingstferien","x":-880,"y":3600,"width":460,"height":217,"color":"1"},
+		{"id":"de0f6d352d628157","type":"text","text":"# Woche -2\n1.6. - 7.6\nPfingstferien","x":-380,"y":3600,"width":460,"height":217,"color":"1"},
+		{"id":"a2f31a208243f129","type":"text","text":"# Woche -1\n8.6 - 14.6\n- 10.6. **INTL**","x":120,"y":3600,"width":460,"height":217,"color":"1"},
+		{"id":"8f8de0fc6656ace0","type":"text","text":"# Woche 0\n15.6 - 19.6\n- 16.6 **DB**\n- 17.6 **Prog**\n- 18.6 **BA**","x":640,"y":3600,"width":460,"height":217,"color":"3"}
 	],
 	"edges":[],
 	"metadata":{

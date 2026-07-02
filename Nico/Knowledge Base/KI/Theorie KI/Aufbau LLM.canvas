@@ -11,10 +11,10 @@
 		{"id":"76432f5ead7dccf9","type":"text","text":"[[Transformer#Self-Attention Layer|Self-Attention Layer]]","x":80,"y":555,"width":340,"height":50},
 		{"id":"1a5be66079a45773","type":"text","text":"[[Transformer#Feedforward Layer|Feedforward Layer]] ","x":80,"y":620,"width":340,"height":50},
 		{"id":"c6cd9199a135c618","type":"text","text":"## [[LM Head]]","x":60,"y":700,"width":380,"height":50},
-		{"id":"30d4acec8c88a885","x":-1,"y":-120,"width":501,"height":50,"type":"text","text":"# Prompt"},
-		{"id":"eefc7da4a6389141","x":560,"y":906,"width":250,"height":50,"type":"text","text":"# Ausgabe"},
-		{"id":"f36b9bf7a10a9d20","x":-3,"y":906,"width":252,"height":84,"type":"text","text":"max. Token \noder\nEnde der Antwort erreicht?"},
-		{"id":"45a41e45234d0eb9","x":125,"y":1080,"width":250,"height":60,"type":"text","text":"Ende"}
+		{"id":"30d4acec8c88a885","type":"text","text":"# Prompt","x":-1,"y":-120,"width":501,"height":50},
+		{"id":"eefc7da4a6389141","type":"text","text":"# Ausgabe","x":560,"y":906,"width":250,"height":50},
+		{"id":"f36b9bf7a10a9d20","type":"text","text":"max. Token \noder\nEnde der Antwort erreicht?","x":-3,"y":906,"width":252,"height":84},
+		{"id":"45a41e45234d0eb9","type":"text","text":"Ende","x":125,"y":1080,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"97ddea0aa629937f","fromNode":"30d4acec8c88a885","fromSide":"bottom","toNode":"325347f5927da99f","toSide":"top"},

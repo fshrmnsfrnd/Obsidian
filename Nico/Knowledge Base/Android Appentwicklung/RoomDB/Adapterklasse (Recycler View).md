@@ -1,3 +1,7 @@
+---
+Thema:
+  - "[[Android]]"
+---
 # Adapter (RecyclerView)
 Der **Adapter** und **ViewHolder** liegen in der selben Datei. Diese Klassen arbeiten zusammen um die Daten anzuzeigen. Dabei ist der **ViewHolder** ein Wrapper der das Layout der einzelnen Elemente definiert. Der Adapter befüllt diesen mit Werten und erstellt pro Item ein ViewHolder.  
 Dafür müssen von der Klasse `RecyclerView.Adapter<YourAdapter.YourViewHolder>` folgende Methoden überschrieben werden:  

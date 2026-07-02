@@ -1,6 +1,4 @@
 ---
-tags:
-Fach:
 Thema:
   - "[[HTML]]"
   - "[[Webentwicklung]]"

@@ -1,18 +1,10 @@
 ---
-Fach:
-tags:
 Thema:
   - "[[Webentwicklung]]"
 ---
-### Webserver Beispiele
-- Apache
-- [[NGINX]]
-- Microsoft IIS
-
 # Konfigurationsdateien
 - Kommentarzeichen: # 
-
-## Wichtige Direktiven
+# Wichtige Direktiven
 >Direktive: Schlüsselwort gefolgt von Wert(en)
 
 | Direktive      | Beschreibung                                                                                                                  | Beispiel                                         |

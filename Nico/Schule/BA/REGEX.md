@@ -1,5 +1,5 @@
 ---
-Fach: "[[BA]]"
+Thema:
 ---
 # Metazeichen / Grundzeichen
 ---
@@ -33,12 +33,31 @@ Fach: "[[BA]]"
 # Anchors & Wortgrenzen
 ---
 
-|Ausdruck | Beschreibung |
-|--- | --- |
-|`^` | Zeilen-/Stringanfang |
-|`$` | Zeilen-/Stringende |
-|`\b` | Wortgrenze (whole-word searches). Beispiel: `\babc\b` |
-|`\B` | keine Wortgrenze |
+| Ausdruck | Beschreibung                                          |
+| -------- | ----------------------------------------------------- |
+| `^`      | Zeilen-/Stringanfang                                  |
+| `$`      | Zeilen-/Stringende                                    |
+| `\b`     | Wortgrenze (whole-word searches). Beispiel: `\babc\b` |
+| `\B`     | keine Wortgrenze                                      |
+# Lookahead und Lookbehind
+---
+
+| Syntax     | Name                | Beschreibung                    | Beispiel                               |
+| ---------- | ------------------- | ------------------------------- | -------------------------------------- |
+| `(?=...)`  | Positive Lookahead  | Muss folgen, wird nicht erfasst | `\d(?=€)` findet Ziffern vor €         |
+| `(?!...)`  | Negative Lookahead  | Darf nicht folgen               | `\d(?!€)` findet Ziffern NICHT vor €   |
+| `(?<=...)` | Positive Lookbehind | Muss vorangehen                 | `(?<=€)\d` findet Ziffern nach €       |
+| `(?<!...)` | Negative Lookbehind | Darf nicht vorangehen           | `(?<!€)\d` findet Ziffern NICHT nach € |
+# Gierig vs. Nicht-gierig
+---
+## Gierig (greedy)
+`.*` – matcht so viel wie möglich  
+Text: "a123b456c"  
+`a.*c` findet: "a123b456c"
+## Nicht-gierig (lazy)
+`.*?` – matcht so wenig wie möglich  
+Text: "a123b456c"  
+`a.*?c` findet: "a123b456c" (minimal)
 # Vordefinierte Zeichenklassen
 ---
 
@@ -56,17 +75,17 @@ Fach: "[[BA]]"
 Beispiel aus Text:  
 - `a\db` ⇒ passt: `a0b`, `a1b`, ... `a9b`  
 - `\d{4,8}` ⇒ z. B. `089 5001` (Münchner Telefonnummer, vereinfacht)
-# Eigene Zeichenklassen / Beispiele
+# Eigene Zeichenklassen
 ---
 
-|Ausdruck | Beschreibung |
-|--- | --- |
-|`[0-7]` | Ziffern 0 bis 7 (Oktalbereich) |
-|`[+123]` | `+` oder `1` oder `2` oder `3` (`+` ist hier kein Metazeichen) |
-|`[0-9,a-f,A-F]` | Hexadezimalziffern |
-|`[^\d]` | Alle Zeichen außer Ziffern (wie `\D`) |
-|`\s[^e]+\s` | Wörter ohne `e` (Whitespace, dann mindestens 1 Zeichen ≠ `e`, dann Whitespace) |
-
+| Pattern       | Beschreibung                  | Beispiel                        |
+| ------------- | ----------------------------- | ------------------------------- |
+| `[abc]`       | Eines der Zeichen a, b oder c | `[aeiou]` findet Vokale         |
+| `[a-z]`       | Alle Kleinbuchstaben          | `[a-z]+` findet "hello"         |
+| `[A-Z]`       | Alle Großbuchstaben           | `[A-Z]+` findet "HELLO"         |
+| `[0-9]`       | Alle Ziffern                  | `[0-9]{3}` findet "123"         |
+| `[^abc]`      | NICHT a, b oder c (Negation)  | `[^0-9]` findet Nicht-Ziffern   |
+| `[a-zA-Z0-9]` | Alphanumerisch                | `[a-zA-Z0-9]+` findet "Test123" |
 Hinweis: In Zeichenklassen sind `[]^ -` kontextabhängig normale Zeichen.
 # Beispiele für häufige Muster
 ---
@@ -86,11 +105,11 @@ Hinweis: In Zeichenklassen sind `[]^ -` kontextabhängig normale Zeichen.
 # Gruppen / Alternation
 ---
 
-|Ausdruck | Kurz |
-|--- | --- |
-|`(a|b)` | Capture von `a` oder `b` |
-|`(?:a|b)` | Nicht-capturing Gruppe |
-|`(pattern){n}` | Wiederholung einer Gruppe |
+| Syntax    | Typ              | Beschreibung                                  | Beispiel             |
+| --------- | ---------------- | --------------------------------------------- | -------------------- |
+| `(abc)`   | Erfassungsgruppe | Wird gespeichert und kann referenziert werden | `(\d{3})-(\d{2})`    |
+| `(?:abc)` | Nicht-erfassend  | Nur Gruppierung, kein Speichern               | `(?:http\|https)://` |
+| `(a\|b)`  | Alternative      | a ODER b                                      | `(jpg\|png\|gif)`    |
 # Tools / Flags (Kurz)
 ---
 
@@ -102,7 +121,6 @@ Hinweis: In Zeichenklassen sind `[]^ -` kontextabhängig normale Zeichen.
 |`grep -E` | erweiterte Regex (POSIX‑ERE) |
 |`grep -P` | Perl‑like (PCRE) |
 |`regex101.com` | Testen: Flavor wählen (PCRE, ECMAScript, POSIX) |
-
 # PowerShell: Operatoren
 ---
 
@@ -127,3 +145,63 @@ $woerter = "Das sind Wörter." -split "\s"
 ```
 
 Wichtig: Bei -replace mit Backreferences den Ersetzungsstring in `'...'` setzen (keine Variablen-Interpolation), z. B. `'$1Linux$2'`.
+# Praktische Regex-Patterns
+---
+## Zahl in Text
+`zahl = str.match(/\d+/g)`
+## Email-Adresse (einfach)
+`^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$`
+**Erklärt:**
+- `[a-zA-Z0-9._%+-]+` – Benutzername (Buchstaben, Zahlen, Sonderzeichen)
+- `@` – At-Zeichen (Pflicht)
+- `[a-zA-Z0-9.-]+` – Domain-Name
+- `\.[a-zA-Z]{2,}` – Top-Level-Domain (mindestens 2 Zeichen)
+## URL (HTTP/HTTPS)
+``^https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)$``
+## Datum (DD.MM.YYYY oder DD/MM/YYYY)
+``^(0[1-9]|[12][0-9]|3[01])[./-](0[1-9]|1[012])[./-](19|20)\d\d$``
+**Findet:** 01.01.2024, 31/12/2023, 15-06-1999
+## Telefonnummer (deutsch)
+``^(\+49|0)[1-9]\d{1,14}$``
+**Findet:** +4915112345678, 015112345678
+## Deutsche Postleitzahl
+``^\d{5}$``
+**Findet:** 10115, 80331, 20095
+## IP-Adresse (IPv4)
+``^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$``
+**Findet:** 192.168.1.1, 10.0.0.1, 255.255.255.0
+## Passwort-Validierung
+``^(?=.*[A-Z])(?=.*[a-z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$``
+**Anforderungen:**
+- Mindestens 8 Zeichen
+- Mindestens 1 Großbuchstabe
+- Mindestens 1 Kleinbuchstabe
+- Mindestens 1 Ziffer
+- Mindestens 1 Sonderzeichen
+## UUID
+``^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$``
+**Findet:** 550e8400-e29b-41d4-a716-446655440000
+## HTML-Tags entfernen
+``<[^>]*>``
+**Beispiel:** 
+``<p>Text</p>`` → "Text"
+## Hexadezimal-Farbcode
+``^#?([a-fA-F0-9]{6}|[a-fA-F0-9]{3})$``
+**Findet:** "#FF5733", "#F00", "FF5733"
+## Kreditkartennummer (Visa/Mastercard)
+``^(?:4[0-9]{12}(?:[0-9]{3})?|5[1-5][0-9]{14})$``
+## MAC-Adresse
+``^([0-9A-Fa-f]{2}[:-]){5}([0-9A-Fa-f]{2})$``
+**Findet:** 00:1B:44:11:3A:B7, 00-1B-44-11-3A-B7
+## IBAN (deutsch)
+`^DE\d{20}$`
+## ISBN-10
+`^\d{9}[\dX]$`
+## Zeit (HH:MM)
+`^([01]\d|2[0-3]):([0-5]\d)$`
+## Logfile-Zeitstempel
+`^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}`
+## Dateiname mit Extension
+`^[\w\-. ]+\.(jpg|png|pdf)$`
+## Markdown-Link
+`$$([^$$]+)$$$([^)]+)$`

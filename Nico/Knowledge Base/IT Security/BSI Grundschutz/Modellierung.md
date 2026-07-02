@@ -1,7 +1,6 @@
 ---
 Thema:
   - "[[BSI Grundschutz]]"
-Fach:
 ---
 https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/Zertifizierte-Informationssicherheit/IT-Grundschutzschulung/Online-Kurs-IT-Grundschutz/Lektion_5_Modellierung/Lektion_5_node.html
 

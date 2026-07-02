@@ -2,7 +2,6 @@
 Thema:
   - "[[Java]]"
   - "[[Tests]]"
-Fach: "[[Programmieren]]"
 ---
 >Für JUnit Test braucht man ein Maven Projekt
 # Dependencies

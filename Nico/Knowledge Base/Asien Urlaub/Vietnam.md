@@ -2,4 +2,21 @@
 - In keinster Weise negativ über Regierung äußern
 - Kreditkartenbetrug
 - In den großen Städten viele Betrüger
-- 
+- pu Luong Naturreservat homestays
+- ha giang (Ganz im norden)
+	- Motorradtour
+		- Route
+			- Ha Giang
+			- Nam Dam
+			- Dong Van
+			- Du Gia
+			- Ha Giang
+		- Ma-Pi-Leng Pass
+		- Meo Vac
+		- Dong Van
+- Con Dao Inseln
+	- Ganz im Süden
+	- Geile Strände
+	- con dao prison museum
+	- https://www.booking.com/Share-ECt5n0l
+	- https://www.booking.com/Share-NrPi7o

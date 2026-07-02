@@ -2,7 +2,6 @@
 Thema:
   - "[[Java]]"
   - "[[JUnit]]"
-Fach: "[[Programmieren]]"
 ---
 # True
 ---

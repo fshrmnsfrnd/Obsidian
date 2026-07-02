@@ -1,6 +1,6 @@
 # CLAUDE.md – Regeln für dieses Obsidian-Vault
 
-Dieses Vault enthält Nicos persönliche Notizen (Technikerschule, Wissenssammlung, Rezepte, Feuerwehr, Homelab). Sprache: **Deutsch**. Teile davon werden mit Quartz veröffentlicht (siehe `index.md`).
+Dieses Vault enthält Nicos persönliche Notizen (Wissenssammlung, Rezepte, Homelab). Sprache: **Deutsch**. Teile davon werden mit Quartz veröffentlicht.
 ## Ordnerstruktur
 
 | Ordner | Inhalt |

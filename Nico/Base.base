@@ -6,7 +6,7 @@ views:
     name: Table
     filters:
       or:
-        - Fach == link("ITS")
+        - Thema.contains(link("Programmieren"))
     order:
       - file.name
       - Thema

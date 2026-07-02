@@ -1,6 +1,4 @@
 ---
-tags:
-Fach: "[[Programmieren]]"
 Thema:
   - "[[C++]]"
 ---
@@ -22,7 +20,7 @@ for(auto i: vs){
 }
 ```
 
-Greift auf jedes Element aus `vs` zu. Das Element ist in der Schleife über i aufrufbar. VS kann z.B. ein [[Vectors in C++]], [[Array]] oder [[Strings in C++]] sein.
+Greift auf jedes Element aus `vs` zu. Das Element ist in der Schleife über i aufrufbar. VS kann z.B. ein [[Vectors in C++]], [[Schule/Programmieren/C++/Arrays]] oder [[Strings in C++]] sein.
 
 ## Kopfgesteuert
 

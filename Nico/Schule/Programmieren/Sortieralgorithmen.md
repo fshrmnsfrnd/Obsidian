@@ -1,7 +1,9 @@
 ---
-Fach: "[[Programmieren]]"
+Thema:
+  - "[[Programmieren]]"
 ---
 # [[Zeitkomplexität]]
+---
 ## Vergleichsbasiertes Sortieren
 
 | Sortieralgorithmus | Best-Case           | Average-Case          | Worst-Case          | Stabil | In-Place |

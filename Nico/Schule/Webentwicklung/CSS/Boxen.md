@@ -1,6 +1,4 @@
 ---
-tags:
-Fach:
 Thema:
   - "[[CSS]]"
   - "[[Webentwicklung]]"

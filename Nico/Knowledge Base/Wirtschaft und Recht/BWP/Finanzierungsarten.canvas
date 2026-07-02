@@ -13,7 +13,7 @@
 		{"id":"a0bf6b3cf8144870","type":"text","text":"Bereitstellung von Fremdkapital durch Kreditinstitute, Lieferanten, Kunden\nKauf auf Zahlungsziele","x":248,"y":460,"width":285,"height":140},
 		{"id":"6188efba26011d71","type":"text","text":"<center><h1>Außenfinanzierung</h1></center>\nKreditsubstitute, [[Factoring]], Leasing, [[Avalkredit]]","x":-200,"y":660,"width":733,"height":120},
 		{"id":"2805847e2344a881","type":"text","text":"zurückbehaltene Gewinne\n= Thesaurierung des Gewinns\n$-$ Finanzierung der Abschreibung","x":-492,"y":460,"width":250,"height":111},
-		{"id":"753fc6e69c4db851","type":"text","text":"# [[Innenfinanzierung]]\nBildung [[Innenfinanzierung#Stille Reserven|stiller Reserven]]","x":-509,"y":660,"width":285,"height":100}
+		{"id":"753fc6e69c4db851","type":"text","text":"# [[Innenfinanzierung]]\nBildung [[Innenfinanzierung#Stille Reserven|stiller Reserven]]","x":-520,"y":660,"width":296,"height":100}
 	],
 	"edges":[
 		{"id":"839ab009a04cddf0","fromNode":"41506ea6199226e2","fromSide":"right","toNode":"0714501f526ed143","toSide":"left","label":"verlangt"},

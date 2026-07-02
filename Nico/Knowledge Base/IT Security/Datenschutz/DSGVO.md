@@ -1,5 +1,4 @@
 ---
-Fach: "[[Berufsschule]]"
 Thema:
   - "[[Security]]"
 ---

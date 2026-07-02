@@ -100,7 +100,6 @@ env # Alle Umgebungsvariablen anzeigen
 **`ls --help`** — Kurzreferenz
   
 > `man`-Navigation: Suche `/Suchwort` · weiter `n` · zurück `N` · beenden `q`
-  
 # Verknüpfungen & Umleitungen
 ---
 ```bash

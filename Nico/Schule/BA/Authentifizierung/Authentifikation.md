@@ -10,7 +10,7 @@ Ein IT-System vergibt nach einer erfolgreichen Authentifizierung die **Autorisie
 Der Nachweis über die Echtheit einer Nutzeridentität kann über verschiedene Verfahren realisiert werden: 
 # Wissen 
 Der Nutzer kann nachweisen, dass er ein Geheimnis kennt. 
-z.B: [[Passwort]], PIN, Antwort auf eine Frage, usw. 
+z.B: [[Passwörter]], PIN, Antwort auf eine Frage, usw. 
 # Besitz 
 Der Nutzer besitzt einen Nachweis zur Authentifizierung. 
 z.B: Personalausweis, SIM-Karte im Smartphone, Hardware Sicherheitsmodul (USB-Stick, Smartcard) Nachweis meist mit Hilfe von Challange-Response-Verfahren. 

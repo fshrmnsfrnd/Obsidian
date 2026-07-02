@@ -1,9 +1,11 @@
 ---
-Fach: "[[Programmieren]]"
+Thema:
+  - "[[Programmieren]]"
 ---
->Von einer theoretisch berechneten Laufzeit $4n^7 +3n^3 +5$ ist nur $4n^7$ relevant. 
-Das bedeutet unter anderem, dass nur Schleifen und rekursive Aufrufe betrachtet werden müssen. Aus der exakten Laufzeit $4n^7 +3n^3 + 5$ wird also ungefähr $n^7$ . 
-Dafür gibt es die kurze Schreibweise $O(n^7)$. 
+>Von einer theoretisch berechneten Laufzeit $4n^7 +3n^3 +5$ ist nur $4n^7$ relevant.
+>Das bedeutet unter anderem, dass nur Schleifen und rekursive Aufrufe betrachtet werden 
+>müssen. Aus der exakten Laufzeit $4n^7 +3n^3 + 5$ wird also ungefähr $n^7$ . 
+>Dafür gibt es die kurze Schreibweise $O(n^7)$. 
 
 **Beispiele:**
 - Ein Algorithmus benötigt unabhängig von der Eingabe fünf Operationen: $O(1)$ 

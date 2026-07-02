@@ -1,6 +1,6 @@
 ---
-tags:
-Fach:
+Thema:
+  - "[[Elektrotechnik]]"
 ---
 # 1.Fall
 ---

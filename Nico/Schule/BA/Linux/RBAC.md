@@ -5,7 +5,6 @@ Thema:
 >**R**ole **B**ased **A**ccess **C**ontrol
 >Zugriffsberechtigungen auf Ressourcen werden nicht an einzelne Benutzerkonten, sondern an Rollen (Gruppen) vergeben, die den Benutzerkonten zugewiesen werden.
 
-
 > [!WARNING] Mit "normalen" Linux Berechtigungen nicht möglich
 > Linux kann per default nur eine Gruppe pro Ressource zulassen, es werden aber mehrere benötigt. Dafür gibt es z.B. `getfacl` bzw. `setfacl`
 > Außerdem können Gruppen nicht verschachtelt werden

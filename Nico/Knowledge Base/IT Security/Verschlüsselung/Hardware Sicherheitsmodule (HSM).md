@@ -1,5 +1,4 @@
 ---
-Fach:
 Thema:
   - "[[Security]]"
   - "[[Hardware]]"

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a571375a4e71975a",
+        "id": "edae10da953c28a0",
         "type": "tabs",
         "children": [
           {
-            "id": "a8dcfd1630a6c4fa",
+            "id": "7c4927a0d7afae31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/BA/Linux/Console.md",
+                "file": "Vergleich Techniker THA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Console"
+              "title": "Vergleich Techniker THA"
+            }
+          },
+          {
+            "id": "2ff79f4a24c7bd3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge Base/Databases/SQL/Kategorien der SQL Befehle.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kategorien der SQL Befehle"
             }
           }
         ]
@@ -63,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "History",
+                "query": "acid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,8 +189,8 @@
             "state": {
               "type": "github-copilot-chat-view",
               "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
+              "icon": "lucide-ghost",
+              "title": "github-copilot-chat-view"
             }
           },
           {
@@ -201,57 +225,58 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a8dcfd1630a6c4fa",
+  "active": "7c4927a0d7afae31",
   "lastOpenFiles": [
-    "Schule/Lernplan.canvas",
-    "Schule/BA/Linux/Console.md",
-    "Schule/Programmieren/Java/JavaFX/Elemente.md",
-    "Schule/Programmieren/Java/FXML/Snippets.md",
-    "Schule/Programmieren/Java/FXML/Eventhandler.md",
-    "Schule/Programmieren/Java/FXML/Dynamisches Erstellen der Oberfläche.md",
-    "Schule/Programmieren/Java/FXML/FXML.md",
-    "Schule/Programmieren/Java/Design Patterns/State Pattern.md",
+    "Knowledge Base/Databases/SQL/Kategorien der SQL Befehle.md",
+    "Vergleich Techniker THA.md",
+    "Knowledge Base/Databases/SQL/Data Control Language DCL.md",
+    "Knowledge Base/Databases/SQL/Transact Control Language TCL.md",
+    "Knowledge Base/Databases/SQL/Data Manipulation Language DML.md",
+    "Knowledge Base/Databases/SQL/MySQL.md",
+    "Knowledge Base/Netzwerktechnik/Protokolle/Protokolle.md",
+    "Knowledge Base/Netzwerktechnik/CSMA CD.md",
+    "Knowledge Base/Netzwerktechnik/Switching/Switching.md",
+    "Knowledge Base/Netzwerktechnik/Switching.md",
+    "Knowledge Base/Netzwerktechnik/Netzwerktypen.md",
+    "Knowledge Base/Netzwerktechnik/Netzwerktopologien.md",
+    "Knowledge Base/Netzwerktechnik/Networks.md",
+    "Knowledge Base/Netzwerktechnik/ISO-OSI Modell.md",
+    "Knowledge Base/Netzwerktechnik/IP Adressen.md",
+    "Knowledge Base/Netzwerktechnik/IEEE 802.md",
+    "Knowledge Base/Netzwerktechnik/Ethernet Standards.md",
     "Schule/Programmieren/Java/Design Patterns/Design-Patterns-Explained-With-Java-and-Uml2-2008.pdf",
-    "Schule/Databases/Big Data.md",
-    "Schule/Programmieren/Java/Basics/Textdateien.md",
-    "Schule/Programmieren/Java/Design Patterns/Prototype Pattern.md",
-    "Schule/Programmieren/Java/Design Patterns/Observer Pattern.md",
-    "Schule/Programmieren/Java/Design Patterns/Factory Pattern.md",
-    "Schule/Programmieren/Java/Design Patterns/Design Patterns.md",
-    "Schule/Programmieren/Java/Basics/Fehlerbehandlung.md",
-    "Schule/Databases/NoSQL/NoSQL.md",
-    "Schule/Databases/SQL/Named Conditions (Eigene Fehler).md",
-    "Schule/Databases/SQL/Kategorien der SQL Befehle.md",
-    "Schule/Databases/SQL/Fehlerbehandlung (Handler).md",
-    "Schule/Databases/SQL/Datentypen in SQL.md",
-    "Schule/Databases/SQL/Joins.md",
-    "Schule/Databases/SQL/Transact Control Language TCL.md",
-    "Schule/Databases/SQL/Views in SQL.md",
-    "Schule/Databases/SQL/Subquerys.md",
-    "Schule/Databases/SQL/MySQL.md",
-    "Schule/Databases/SQL/Gruppierung.md",
+    "Knowledge Base/Windsurfen.md",
+    "Knowledge Base/Asien Urlaub/Vietnam.md",
+    "Knowledge Base/Asien Urlaub/Unterkünfte.md",
+    "Schule/BA/REGEX.md",
+    "Schule/BA/Regex 1.md",
+    "Knowledge Base/Android Appentwicklung/RoomDB/Adapterklasse (Recycler View).md",
+    "Knowledge Base/Elektrotechnik/Spannungsteiler.md",
+    "Knowledge Base/Elektrotechnik/Elektrotechnik.md",
+    "Knowledge Base/Elektrotechnik/Die Knotenpunkt- und Maschenregel.md",
+    "Knowledge Base/KI/Theorie KI/Aufbau LLM.canvas",
+    "Feuerwehr/Jugend/BF Tag/Ablauf.canvas",
+    "Knowledge Base/Wirtschaft und Recht/BWP/Finanzierungsarten.canvas",
+    "Schule/Programmieren/C++/Arrays.md.tmp.92010.222ff4663093",
+    "Base.base",
+    "Schule/Databases/SQL/SQL_DQL_Funktionen_KA_SA.pdf",
+    "Schule/Databases/SQL/SQL-Kurzreferenz_mit_SP.pdf",
+    "Schule/Lernplan.canvas",
+    "Motorrad/Handbuch_Honda_CB500FA.pdf",
+    "Motorrad/Honda Motorräder Fehlercodes PDF.pdf",
+    "Motorrad",
     "Schule/Programmieren/Java/Untitled",
     "Schule/Programmieren/Java/JUnit",
-    "Base.base",
-    "Feuerwehr/Jugend/BF Tag/Ablauf.canvas",
-    "Feuerwehr/Verein",
     "src/Anwendungen von Schaltnetzen bzw wichtige Schaltnetze 03-04-25 12.43.50.excalidraw.svg",
     "src/4qRPjA4jxp-700.webp",
     "src/3zryM7i_5y-638.webp",
     "src/index 2026-06-11 21.23.10.excalidraw.png",
-    "Schule/BA/Untitled.base",
     "src/UML Klassendiagramm 2026-06-11 16.03.21.excalidraw.png",
     "src/Pasted image 20260611160010.png",
-    "Knowledge Base/Linux/Pakete unter Kubuntu.md.tmp.90902.9c2c37c7f5fd",
-    "CLAUDE.md.tmp.75897.048d064010a8",
     "src/Pasted image 20260606181835.png",
-    "Schule/INTL/Untitled",
-    "Schule/INTL/CSS/css_flexbox_demo 1.html",
     "src/ER Modell 2024-11-09 14.00.59.excalidraw.png",
     "src/Pasted image 20260523135534.png",
-    "Knowledge Base/KI/Theorie KI/Aufbau LLM.canvas",
     "Test/canvas.canvas",
-    "src/Indonesien-Regionen2-1536x630.webp",
-    "Knowledge Base/Wirtschaft und Recht/BWP/Finanzierungsarten.canvas"
+    "src/Indonesien-Regionen2-1536x630.webp"
   ]
 }

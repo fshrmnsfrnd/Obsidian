@@ -2,7 +2,6 @@
 Thema:
   - "[[Programmieren]]"
   - "[[Tests]]"
-Fach: "[[Programmieren]]"
 ---
 >Kontrollfluss orientierte Tests sind gängige White Box Verfahren
 # C0 – Anweisungsüberdeckung

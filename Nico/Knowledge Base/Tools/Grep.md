@@ -39,13 +39,6 @@ Wildcards are accepted in filename.
 | `-l`   | grep -l 'robot' /var/log/\*               | Print the name of the file(s) of matches             |
 | `-o`   | grep -o search_string filename            | Only show the matching part of the string            |
 | `-n`   | grep -n "go" demo.txt                     | Show the line numbers of the matches                 |
-# Grep regular expressions
-## Refer
-- [Regex syntax](/regex) _(cheatsheets.zip)_
-- [Regex examples](/regex#regex-examples) _(cheatsheets.zip)_
-
-Please refer to the full version of the regex cheat sheet for more complex requirements.
-
 ## Wildcards
 
 | -               | -                                      |

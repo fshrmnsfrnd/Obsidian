@@ -9,6 +9,7 @@ Thema:
 > **Partition:** Physischer aufeinanderfolgender Bereich von Sektoren
 > **Volume:** Logischer Bereich eines Dateisystems
 # Windows
+---
 - Datenträgerverwaltung (GUI)
 - Powershell
 	- Get-Disk
@@ -17,27 +18,25 @@ Thema:
 	- list disk
 	- select disk >Number<
 	- detail disk
-
 # Linux
+---
 - gParted (GUI)
 - parted (Terminal)
 - lsblk (informationen über angeschlossene Platten)
-- blkid (IDs, Labels usw. angeschlossener Platten)
-
+- blkid (IDs, Labels usw. angeschlossener Platten) 
 # Partitionstabelle
+---
 ## MBR (Master Boot Record)
 - max 4 Partitionen
 - max 4TiB Festplatte
 - max 2TiB Partition
 - kann kein UEFI
-
 ## GPT (GUID Partition Table)
 - max 128 Partitionen
 - Kann UEFI
 - Max Größe fast unbegrenzt
-
 # Speicher unter Linux
-
+---
 Jede Festplatte oder Partition hat in `/dev/` eine Datei
 ```
 /dev/sda1

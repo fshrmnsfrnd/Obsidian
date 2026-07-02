@@ -1,6 +1,4 @@
 ---
-Fach: "[[Programmieren]]"
-tags:
 Thema:
   - "[[Python]]"
 ---

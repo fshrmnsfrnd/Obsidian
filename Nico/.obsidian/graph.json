@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Feuerwehr  ",
@@ -93,8 +93,8 @@
   "collapse-forces": true,
   "centerStrength": 0.590413411458333,
   "repelStrength": 13.6328125,
-  "linkStrength": 0.823567708333333,
-  "linkDistance": 213,
-  "scale": 0.07598891284323524,
+  "linkStrength": 0.879370715589091,
+  "linkDistance": 133,
+  "scale": 0.3886530906485815,
   "close": false
 }

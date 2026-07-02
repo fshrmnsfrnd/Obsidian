@@ -1,6 +1,6 @@
 ---
 Thema:
-  - "[[Themen/TypeScript|TypeScript]]"
+  - "[[TypeScript]]"
 ---
 Muss man mal noch aufschreiben:
 

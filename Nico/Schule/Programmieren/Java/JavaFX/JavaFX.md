@@ -1,8 +1,7 @@
 ---
-tags:
-Fach: "[[Programmieren]]"
 Thema:
   - "[[Java]]"
+  - "[[JavaFX]]"
 ---
 # Basisaufbau
 

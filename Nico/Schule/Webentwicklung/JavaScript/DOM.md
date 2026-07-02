@@ -1,11 +1,10 @@
 ---
-tags:
 Thema:
   - "[[HTML]]"
   - "[[JavaScript]]"
   - "[[Webentwicklung]]"
 ---
->Document Object Model
+>**D**ocument **O**bject **M**odel
 
 # Zugriff auf Elemente
 ---
