@@ -1,6 +1,35 @@
+Hier habe ich eine Gegenüberstellung der Inhalte des Modulhandbuchs für Bachelor Informatik an der THA und dem Lehrplan der Technikerschule erstellt. Den ausführlichen Lehrplan der Technikerschule finden Sie im Anhang.
+Der zeitliche Umfang der Fächer ist ebenfalls dem Lehrplan zu entnehmen.
+Belegt habe ich folgende Fächer mit den entsprechenden Noten (Das Zeugnis bekomme ich am 28.07.2026):
+Erstes Schuljahr:
+
+| Fach                               | Note |
+| ---------------------------------- | ---- |
+| Mathe                              | 2    |
+| Betriebssysteme & Administration 1 | 2    |
+| Programmieren 1                    | 1    |
+| Datenbanken 1                      | 1    |
+| Technische Informatik              | 2    |
+| Kommunikations & Netzwerktechnik 1 | 1    |
+| Internetanwendungen                | 1    |
+Zweites Schuljahr:
+
+| Fach                                       | Note    |
+| ------------------------------------------ | ------- |
+| Datenbanken 2                              | **1**   |
+| Mathe                                      | **1**   |
+| Anwendungsentwicklung für Mobile Endgeräte | **1**   |
+| IT Sicherheit                              | **1**   |
+| Kommunikations & Netzwerktechnik 2         | **2**   |
+| Internettechnologien                       | **1**   |
+| Betriebssysteme & Administration 2         | **1**   |
+| Programmieren 2                            | **1/2** |
+| Betriebswirtschaftliche Prozesse           | **2**   |
+| Künstliche Intelligenz                     | **2**   |
+| Betriebspsychologie                        | **2**   |
 # Einführung in die Programmierung
 ---
-Vergleichbares Fach der Technikerschule: Programmierung 1. Schuljahr
+Vergleichbares Fach der Technikerschule: Programmierung 1
 
 | Thema THA                                                   | Vergleichbares Thema Technikerschule            |
 | ----------------------------------------------------------- | ----------------------------------------------- |
@@ -19,7 +48,7 @@ Weitere Themen in der Technikerschule, die hier nicht 1:1 einorderbar sind, aber
 - Dateizugriffe
 # Objektorientierte Programmierung
 ---
-Vergleichbares Fach der Technikerschule: Programmierung 2. Schuljahr
+Vergleichbares Fach der Technikerschule: Programmierung 2
 
 | Thema THA                                         | Vergleichbares Thema Technikerschule |
 | ------------------------------------------------- | ------------------------------------ |
