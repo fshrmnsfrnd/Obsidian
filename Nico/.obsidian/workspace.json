@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "edae10da953c28a0",
+        "id": "f41452f81a5ab2e2",
         "type": "tabs",
         "children": [
           {
-            "id": "2ff79f4a24c7bd3e",
+            "id": "bfa241e7acd00f5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vergleich Techniker THA.md",
+                "file": "Knowledge Base/Asien Urlaub/Plan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vergleich Techniker THA"
+              "title": "Plan"
             }
           },
           {
-            "id": "72487b2173db2a86",
+            "id": "57c1c3a3d5d440b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schule/Noten.md",
+                "file": "Knowledge Base/Asien Urlaub/Vietnam.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Noten"
+              "title": "Vietnam"
+            }
+          },
+          {
+            "id": "5221cc7fa715bbbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown Beispiel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Markdown Beispiel"
             }
           }
         ]
@@ -87,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acid",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,10 +249,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2ff79f4a24c7bd3e",
+  "active": "bfa241e7acd00f5e",
   "lastOpenFiles": [
-    "Schule/Noten.md",
+    "Knowledge Base/Asien Urlaub/Vietnam.md",
+    "Knowledge Base/Asien Urlaub/Plan.md",
+    "Markdown Beispiel.md",
+    "Knowledge Base/Asien Urlaub/Indonesien.md",
+    "Knowledge Base/Asien Urlaub/Unterkünfte.md",
     "Vergleich Techniker THA.md",
+    "Knowledge Base/Windsurfen.md",
+    "Schule/BA/Git.md",
+    "Schule/Noten.md",
     "Knowledge Base/Databases/SQL/Kategorien der SQL Befehle.md",
     "Knowledge Base/Databases/SQL/Data Control Language DCL.md",
     "Knowledge Base/Databases/SQL/Transact Control Language TCL.md",
@@ -246,14 +277,7 @@
     "Knowledge Base/Netzwerktechnik/IEEE 802.md",
     "Knowledge Base/Netzwerktechnik/Ethernet Standards.md",
     "Schule/Programmieren/Java/Design Patterns/Design-Patterns-Explained-With-Java-and-Uml2-2008.pdf",
-    "Knowledge Base/Windsurfen.md",
-    "Knowledge Base/Asien Urlaub/Vietnam.md",
-    "Knowledge Base/Asien Urlaub/Unterkünfte.md",
     "Schule/BA/REGEX.md",
-    "Schule/BA/Regex 1.md",
-    "Knowledge Base/Android Appentwicklung/RoomDB/Adapterklasse (Recycler View).md",
-    "Knowledge Base/Elektrotechnik/Spannungsteiler.md",
-    "Knowledge Base/Elektrotechnik/Elektrotechnik.md",
     "Knowledge Base/KI/Theorie KI/Aufbau LLM.canvas",
     "Feuerwehr/Jugend/BF Tag/Ablauf.canvas",
     "Knowledge Base/Wirtschaft und Recht/BWP/Finanzierungsarten.canvas",

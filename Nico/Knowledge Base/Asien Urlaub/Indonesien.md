@@ -4,6 +4,7 @@
 - Internationaler Führerschein
 	- Beim Landratsamt mit Termin. 20€
 - Gelbfieberimpfung
+- Tollwut
 - Malaria
 - Indonesische Rupiah (IDR) 1 € = 16.600 IDR
 - Roller mieten pro Tag ~4-8€
@@ -35,14 +36,18 @@
 	- Spirituelle Orte suchen
 - Lombok
 	- Südküste Strände
-	- Selong Belanak Beach Surfen
+	- Selong Belanak Beach Surfen (Luna)
 	- Rinjani Vulkan
 	- Tetebatu (Roller Tour)
 		- Wasserfälle
+	- Schiff nach Bali, von da mit flieger heim(20h 500€)
+	- Nusa Tenggara Barratt (Luna)
+	- Nusa Lembongan (Luna)
+	- Gili Inseln (Luna)
 - Flores
 	- Mit Roller quer über die Insel
 	- Einsame Strände
-	- Komodo Tour (Mit Schuff durch Nationalpark)
+	- Komodo Tour (Mit Schuff durch Nationalpark) (Luna)
 - Raja Ampat Regency
 	- Schnorcheln und Tauchen
 - Molukken
@@ -50,3 +55,5 @@
 		- Wenig Touristen
 		- Roller Touren
 		- Einsame Strände
+- Nusa Penida (Luna)
+	- Strand

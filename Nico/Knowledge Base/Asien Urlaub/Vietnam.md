@@ -3,20 +3,28 @@
 - Kreditkartenbetrug
 - In den großen Städten viele Betrüger
 - pu Luong Naturreservat homestays
+- Hanoi (Luna)
+	- Food Tour
 - ha giang (Ganz im norden)
 	- Motorradtour
 		- Route
-			- Ha Giang
-			- Nam Dam
-			- Dong Van
-			- Du Gia
-			- Ha Giang
+			- Von Hanoi mit dem Taxi in die nähe von Ha Giang Pass
+			- Von da mit dem Roller mit einem Zwischenstopp zu den Ban Gioc Wasserfällen
+			- 
 		- Ma-Pi-Leng Pass
 		- Meo Vac
 		- Dong Van
+- Nationalpark Bạch Mã Vườn Quốc Gia Bạch Mã 
+- Zwischenstopp auf der Zugfahrt von hanoi nach ho chi minh da is stadt (hue und ninh bin) und im naturschutzgebiet is geil zu wandern
 - Con Dao Inseln
+- Schiff von Vung Tao aus
+- https://www.urlaubvietnam.de/f%C3%A4hre-zur-insel-con-dao/
+- 30-40€
 	- Ganz im Süden
 	- Geile Strände
 	- con dao prison museum
 	- https://www.booking.com/Share-ECt5n0l
 	- https://www.booking.com/Share-NrPi7o
+- Flug von ho chi minh nach lombok ca. 8 stunden unf 400€
+- Ban Gioc
+- Lan Ha Bay

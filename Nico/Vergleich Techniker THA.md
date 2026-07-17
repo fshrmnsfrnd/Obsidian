@@ -1,6 +1,42 @@
-Hier habe ich eine Gegenüberstellung der Inhalte des Modulhandbuchs für Bachelor Informatik an der THA und dem Lehrplan der Technikerschule erstellt. Den ausführlichen Lehrplan der Technikerschule finden Sie im Anhang.
-Der zeitliche Umfang der Fächer ist ebenfalls dem Lehrplan zu entnehmen.
-Belegt habe ich folgende Fächer mit den entsprechenden Noten (Das Zeugnis bekomme ich am 28.07.2026):
+1. Jahr
+
+| Fach  | Stunden | (Credits) |
+| ----- | ------- | --------- |
+| IAW   | 120     | 4         |
+| TI    | 160     | 5,3       |
+| BA1   | 120     | 4         |
+| KNT1  | 200     | 6,6       |
+| DB1   | 80      | 2,6       |
+| Prog1 | 200     | 6,6       |
+2. Jahr
+
+| Fach  | Stunden | (Credits) |
+| ----- | ------- | --------- |
+| BA2   | 160     | 5,3       |
+| KNT2  | 160     | 5,3       |
+| DB2   | 120     | 4         |
+| Prog2 | 160     | 5,3       |
+| ITS   | 120     | 4         |
+| INTL  | 120     | 4         |
+| AWM   | 120     | 4         |
+
+
+| THA                       | THA Credits | Fach TS | Credits TS |
+| ------------------------- | ----------- | ------- | ---------- |
+| Einführung Prog           | 10          | Prog 1  |            |
+| Theoretische IT           | 5           | KNT1    |            |
+| Rechnerstrukturen         | 5           | TI      |            |
+| Objektorientiert          | 10          | Prog 2  |            |
+| Software Engineering      | 5           | IAW     |            |
+| Algorith + Datenstruk     | 5           | INTL    |            |
+| Rechnerarchitektur        | 5           | BA2     |            |
+| Fortgesch Prog            | 10          | AWM     |            |
+| Softwaremodell            | 5           |         |            |
+| Daten & Informations anal | 5           | DB 1    |            |
+| Computernetzwerke         | 5           | KNT 2   |            |
+| Datenbanksysteme          | 5           | DB 2    |            |
+
+
 Erstes Schuljahr:
 
 | Fach                               | Note |
@@ -14,19 +50,19 @@ Erstes Schuljahr:
 | Internetanwendungen                | 1    |
 Zweites Schuljahr:
 
-| Fach                                       | Note    |
-| ------------------------------------------ | ------- |
-| Datenbanken 2                              | **1**   |
-| Mathe                                      | **1**   |
-| Anwendungsentwicklung für Mobile Endgeräte | **1**   |
-| IT Sicherheit                              | **1**   |
-| Kommunikations & Netzwerktechnik 2         | **2**   |
-| Internettechnologien                       | **1**   |
-| Betriebssysteme & Administration 2         | **1**   |
-| Programmieren 2                            | **1/2** |
-| Betriebswirtschaftliche Prozesse           | **2**   |
-| Künstliche Intelligenz                     | **2**   |
-| Betriebspsychologie                        | **2**   |
+| Fach                                       | Note  |
+| ------------------------------------------ | ----- |
+| Datenbanken 2                              | **1** |
+| Mathe                                      | **1** |
+| Anwendungsentwicklung für Mobile Endgeräte | **1** |
+| IT Sicherheit                              | **1** |
+| Kommunikations & Netzwerktechnik 2         | **2** |
+| Internettechnologien                       | **1** |
+| Betriebssysteme & Administration 2         | **1** |
+| Programmieren 2                            | **1** |
+| Betriebswirtschaftliche Prozesse           | **2** |
+| Künstliche Intelligenz                     | **2** |
+| Betriebspsychologie                        | **2** |
 # Einführung in die Programmierung
 ---
 Vergleichbares Fach der Technikerschule: Programmierung 1
@@ -158,7 +194,7 @@ Weitere Themen in der Technikerschule, die hier nicht 1:1 einorderbar sind, aber
 - Clients
 # Betriebssysteme
 ---
-Vergleichbares Fach der Technikerschule: Betriebssysteme 1 & 2
+Vergleichbares Fach der Technikerschule: Betriebssysteme & Administration 1 & 2
 
 | Thema THA                                              | Vergleichbares Thema Technikerschule                                        |
 | ------------------------------------------------------ | --------------------------------------------------------------------------- |
