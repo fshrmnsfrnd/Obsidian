@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "57c1c3a3d5d440b0",
+            "id": "0c7bf8b394bfe88d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Base/Asien Urlaub/Vietnam.md",
+                "file": "Knowledge Base/Asien Urlaub/Unterkünfte.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vietnam"
-            }
-          },
-          {
-            "id": "5221cc7fa715bbbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown Beispiel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Markdown Beispiel"
+              "title": "Unterkünfte"
             }
           }
         ]
@@ -213,8 +189,8 @@
             "state": {
               "type": "github-copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "github-copilot-chat-view"
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
             }
           },
           {
@@ -228,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -251,11 +227,12 @@
   },
   "active": "bfa241e7acd00f5e",
   "lastOpenFiles": [
-    "Knowledge Base/Asien Urlaub/Vietnam.md",
-    "Knowledge Base/Asien Urlaub/Plan.md",
-    "Markdown Beispiel.md",
-    "Knowledge Base/Asien Urlaub/Indonesien.md",
     "Knowledge Base/Asien Urlaub/Unterkünfte.md",
+    "Knowledge Base/Asien Urlaub/Plan.md",
+    "Knowledge Base/Asien Urlaub/Vietnam.md",
+    "Knowledge Base/Asien Urlaub/Indonesien.md",
+    "Untitled.md",
+    "Markdown Beispiel.md",
     "Vergleich Techniker THA.md",
     "Knowledge Base/Windsurfen.md",
     "Schule/BA/Git.md",
@@ -277,7 +254,6 @@
     "Knowledge Base/Netzwerktechnik/IEEE 802.md",
     "Knowledge Base/Netzwerktechnik/Ethernet Standards.md",
     "Schule/Programmieren/Java/Design Patterns/Design-Patterns-Explained-With-Java-and-Uml2-2008.pdf",
-    "Schule/BA/REGEX.md",
     "Knowledge Base/KI/Theorie KI/Aufbau LLM.canvas",
     "Feuerwehr/Jugend/BF Tag/Ablauf.canvas",
     "Knowledge Base/Wirtschaft und Recht/BWP/Finanzierungsarten.canvas",
