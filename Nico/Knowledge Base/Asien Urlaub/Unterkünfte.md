@@ -13,3 +13,19 @@ Gebucht:
 - [Kleiner aber auch pool](https://www.booking.com/hotel/vn/oceanora.de.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARnIAQzYAQPoAQH4AQGIAgGoAgG4AvSr6tIGwAIB0gIkNDIyMTNhNTctNjJjMS00Njc0LWI1NDMtZTc5MmQyYmVmNTJj2AIB4AIB&sid=09cc7e7bd7d1a3bf54ecfa65604f3003&checkin=2026-08-21&checkout=2026-08-24&dest_id=-3712125&dest_type=city&dist=0&do_availability_check=1&group_adults=2&group_children=0&hp_avform=1&hp_group_set=0&no_rooms=1&origin=hp&sb_price_type=total&src=hotel&type=total&activeTab=photosGallery#availability_target)
 - [Booking 21-24 (3 Nächte)](https://www.booking.com/hotel/vn/sunny-ocean.de.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARnIAQzYAQPoAQH4AQGIAgGoAgG4AvSr6tIGwAIB0gIkNDIyMTNhNTctNjJjMS00Njc0LWI1NDMtZTc5MmQyYmVmNTJj2AIB4AIB&sid=09cc7e7bd7d1a3bf54ecfa65604f3003&checkin=2026-08-21&checkout=2026-08-24&dest_id=-3712125&dest_type=city&dist=0&do_availability_check=1&group_adults=2&group_children=0&hp_avform=1&hp_group_set=0&no_rooms=1&origin=hp&sb_price_type=total&src=hotel&type=total&#availability_target)
 
+# Bali
+- https://www.booking.com/hotel/id/sirya-farm-house.de.html?label=brave_brand_bad71598-a26a-48bf-933e-2bea7b84eff3_001d01&sid=cda12bc5dd19a0775f437a459c8a4fcb&aid=2405329&ucfs=1&checkin=2026-08-31&checkout=2026-09-05&dest_id=835&dest_type=region&group_adults=2&no_rooms=1&group_children=0&srpvid=e013a63915e405a5&srepoch=1784331545&matching_block_id=903087502_361116691_0_42_0_829551&atlas_src=sr_iw_title#map_closed
+
+https://www.booking.com/hotel/id/jungleroom-canggu-canggu.de.html?label=brave_brand_bad71598-a26a-48bf-933e-2bea7b84eff3_001d01&sid=cda12bc5dd19a0775f437a459c8a4fcb&aid=2405329&ucfs=1&checkin=2026-08-31&checkout=2026-09-05&group_adults=2&no_rooms=1&group_children=0&srpvid=bf3ca702dc4502ab&srepoch=1784331926&matching_block_id=1305609908_420120910_2_2_0&atlas_src=hp_iw_title
+
+https://www.booking.com/hotel/id/sedana-yoga-resort-jembrana.de.html?label=brave_brand_bad71598-a26a-48bf-933e-2bea7b84eff3_001d01&sid=cda12bc5dd19a0775f437a459c8a4fcb&aid=2405329&ucfs=1&checkin=2026-08-31&checkout=2026-09-05&group_adults=2&no_rooms=1&group_children=0&srpvid=bf3ca702dc4502ab&srepoch=1784332039&matching_block_id=890432501_359113095_0_2_0&atlas_src=hp_iw_title
+
+Beste Hüttem https://www.booking.com/hotel/id/the-lumbung-tejakula.de.html?label=brave_brand_bad71598-a26a-48bf-933e-2bea7b84eff3_001d01&sid=cda12bc5dd19a0775f437a459c8a4fcb&aid=2405329&ucfs=1&checkin=2026-08-31&checkout=2026-09-05&group_adults=2&no_rooms=1&group_children=0&srpvid=bf3ca702dc4502ab&srepoch=1784332415&matching_block_id=553255403_360141370_2_0_0&atlas_src=hp_iw_title
+
+Beste Hütte https://www.booking.com/hotel/id/kura-kura-beach.de.html?label=brave_brand_bad71598-a26a-48bf-933e-2bea7b84eff3_001d01&sid=cda12bc5dd19a0775f437a459c8a4fcb&aid=2405329&ucfs=1&checkin=2026-08-31&checkout=2026-09-05&group_adults=2&no_rooms=1&group_children=0&srpvid=bf3ca702dc4502ab&srepoch=1784332472&matching_block_id=1116923001_384574088_2_1_0&atlas_src=hp_iw_title
+
+Gebucht (24-30 August):
+https://www.booking.com/hotel/id/angseri-villas.de.html?label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARnIAQzYAQPoAQH4AQGIAgGoAgG4AvSr6tIGwAIB0gIkNDIyMTNhNTctNjJjMS00Njc0LWI1NDMtZTc5MmQyYmVmNTJj2AIB4AIB&aid=304142&ucfs=1&checkin=2026-08-24&checkout=2026-08-30&dest_id=835&dest_type=region&group_adults=2&no_rooms=1&group_children=0&srpvid=a2ff6c6007ed02e4&srepoch=1784563095&matching_block_id=1062992301_378646362_2_41_0&atlas_src=sr_iw_title#map_closed
+
+# Gili
+
