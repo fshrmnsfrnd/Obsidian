@@ -38,7 +38,7 @@
 # 5 Tage Bali
 [Booking 24-30 (6 Nächte)](https://www.booking.com/hotel/id/angseri-villas.de.html?label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARnIAQzYAQPoAQH4AQGIAgGoAgG4AvSr6tIGwAIB0gIkNDIyMTNhNTctNjJjMS00Njc0LWI1NDMtZTc5MmQyYmVmNTJj2AIB4AIB&aid=304142&ucfs=1&checkin=2026-08-24&checkout=2026-08-30&dest_id=835&dest_type=region&group_adults=2&no_rooms=1&group_children=0&srpvid=a2ff6c6007ed02e4&srepoch=1784563095&matching_block_id=1062992301_378646362_2_41_0&atlas_src=sr_iw_title#map_closed) 
 ##### 1 Tag (So. 30.8) übersetzen nach Lombok
-# 6 Tage Gili Inseln 
+# 5 Tage Gili Inseln 
 
 Hütten https://www.airbnb.de/rooms/41170751?check_in=2026-09-01&check_out=2026-09-05&search_mode=regular_search&source_impression_id=p3_1784330188_P3yaA9I6EG9vsQFN&previous_page_section_name=1000&federated_search_id=434bee0a-5ea4-469f-9580-0d318cf90bfd
 
@@ -61,13 +61,14 @@ https://www.booking.com/hotel/id/seven-seas-cottages.de.html?label=gen173nr-10CA
 
 https://www.booking.com/hotel/id/lucky-39-s.de.html?label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARnIAQzYAQPoAQH4AQGIAgGoAgG4AvSr6tIGwAIB0gIkNDIyMTNhNTctNjJjMS00Njc0LWI1NDMtZTc5MmQyYmVmNTJj2AIB4AIB&aid=304142&ucfs=1&checkin=2026-09-01&checkout=2026-09-04&dest_id=900048668&dest_type=city&group_adults=2&no_rooms=1&group_children=0&srpvid=0e96a37e331b0265&srepoch=1784333881&matching_block_id=831015304_419606602_2_41_0&atlas_src=sr_iw_title
 
-##### Wechsel Gili -> Lombok (Sa. 5.9)
+##### 1 Tag Wechsel Gili -> Lombok (Sa. 5.9)
 
-# 2 Tage Tetebatu (Lombok)
-https://www.airbnb.de/rooms/1685443644848446562?check_in=2026-09-05&check_out=2026-09-13&search_mode=regular_search&source_impression_id=p3_1784576762_P3BoO2ZrxTDx6b3t&previous_page_section_name=1000&federated_search_id=596fd034-3616-4c86-932d-7d424c50a503
+# 1 Tag Tetebatu (Lombok)
+[Tetebatu AirBNB 5-7 Sept 2Nächte](https://www.airbnb.de/rooms/1685443644848446562?check_in=2026-09-05&check_out=2026-09-13&search_mode=regular_search&source_impression_id=p3_1784576762_P3BoO2ZrxTDx6b3t&previous_page_section_name=1000&federated_search_id=596fd034-3616-4c86-932d-7d424c50a503)
+##### 1 Tag Wechsel Tetebatu -> Süden Lombok (Mo. 7.9)
 # 5 Tage Lombok Süden
+https://www.booking.com/hotel/id/tunak-cottage.de.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARnIAQzYAQPoAQH4AQGIAgGoAgG4AuXr-dIGwAIB0gIkMjkzMmZmNWYtZDcxMC00ZDMxLWE0NGEtNjMyMjU3ZDI0ZGQz2AIB4AIB&sid=09cc7e7bd7d1a3bf54ecfa65604f3003&checkin=2026-09-07&checkout=2026-09-13&dest_id=839&dest_type=region&dist=0&do_availability_check=1&group_adults=2&group_children=0&hp_avform=1&hp_group_set=0&no_rooms=1&origin=hp&sb_price_type=total&src=hotel&type=total&#tab-main
 
-
-
-##### 2 (So. 13.9) Tage Rückflug
+##### 2 Tage (So. 13.9) Rückflug
 >Ankunft München Mo. 14.9
+

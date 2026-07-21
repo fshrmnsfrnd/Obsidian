@@ -29,3 +29,6 @@ https://www.booking.com/hotel/id/angseri-villas.de.html?label=gen173nr-10CAEoggI
 
 # Gili
 
+# Tetebatu
+[Tetebatu AirBNB 5-7 Sept 2Nächte](https://www.airbnb.de/rooms/1685443644848446562?check_in=2026-09-05&check_out=2026-09-13&search_mode=regular_search&source_impression_id=p3_1784576762_P3BoO2ZrxTDx6b3t&previous_page_section_name=1000&federated_search_id=596fd034-3616-4c86-932d-7d424c50a503)
+
