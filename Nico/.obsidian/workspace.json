@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Knowledge Base/Asien Urlaub/Finanzen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Finanzen"
+            }
+          },
+          {
+            "id": "705c2aac10d7a875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Knowledge Base/Asien Urlaub/Plan.md",
                 "mode": "source",
                 "source": false,
@@ -30,32 +54,9 @@
               "icon": "lucide-file",
               "title": "Plan"
             }
-          },
-          {
-            "id": "0c7bf8b394bfe88d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge Base/Asien Urlaub/Unterkünfte.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Unterkünfte"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,12 +226,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bfa241e7acd00f5e",
+  "active": "705c2aac10d7a875",
   "lastOpenFiles": [
-    "Knowledge Base/Asien Urlaub/Unterkünfte.md",
+    "Knowledge Base/Asien Urlaub/Finanzen.md",
     "Knowledge Base/Asien Urlaub/Plan.md",
-    "Knowledge Base/Asien Urlaub/Vietnam.md",
     "Knowledge Base/Asien Urlaub/Indonesien.md",
+    "Knowledge Base/Asien Urlaub/Vietnam.md",
+    "Knowledge Base/Asien Urlaub/Unterkünfte.md",
+    "Knowledge Base/Linux/SSH Keys.md",
+    "Knowledge Base/Linux/Linux.md",
+    "Knowledge Base/Linux/Linux Festplatten.md",
+    "Knowledge Base/Linux/Pakete.md",
+    "Knowledge Base/Linux/Linux nice to Know.md",
     "Untitled.md",
     "Markdown Beispiel.md",
     "Vergleich Techniker THA.md",
@@ -247,12 +254,6 @@
     "Knowledge Base/Netzwerktechnik/Switching/Switching.md",
     "Knowledge Base/Netzwerktechnik/Switching.md",
     "Knowledge Base/Netzwerktechnik/Netzwerktypen.md",
-    "Knowledge Base/Netzwerktechnik/Netzwerktopologien.md",
-    "Knowledge Base/Netzwerktechnik/Networks.md",
-    "Knowledge Base/Netzwerktechnik/ISO-OSI Modell.md",
-    "Knowledge Base/Netzwerktechnik/IP Adressen.md",
-    "Knowledge Base/Netzwerktechnik/IEEE 802.md",
-    "Knowledge Base/Netzwerktechnik/Ethernet Standards.md",
     "Schule/Programmieren/Java/Design Patterns/Design-Patterns-Explained-With-Java-and-Uml2-2008.pdf",
     "Knowledge Base/KI/Theorie KI/Aufbau LLM.canvas",
     "Feuerwehr/Jugend/BF Tag/Ablauf.canvas",
