@@ -1,8 +1,8 @@
 Unterkunft davor: keine
 Unterkunft danach: [[Dong Van (Ha Giang Loop)]]
 
-Anreise: Flug (Landung 10.8)
-Abreise: Bus (14.8)
+Anreise: [[Hinflug]] (Landung 10.8)
+Abreise: [[Hanoi nach Dong Van]] (14.8)
 Aufenthalt volle Tage: 3
 Aufenthalt Nächte: 4
 # Unterkunft: 

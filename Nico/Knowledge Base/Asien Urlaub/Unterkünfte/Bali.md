@@ -1,8 +1,8 @@
 Unterkunft davor: [[Da Nang]]
 Unterkunft danach: [[Gili Inseln]]
 
-Anreise: Flug (24.8)
-Abreise: Taxi/Fähre (30.8)
+Anreise: [[Zwischenflug]] (24.8)
+Abreise: [[Bali nach Gili|Taxi/Fähre]] (30.8)
 Aufenthalt volle Tage: 5
 Aufenthalt Nächte: 5
 # Unterkunft: 

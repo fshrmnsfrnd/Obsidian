@@ -1,8 +1,8 @@
 Unterkunft davor: [[Dong Van (Ha Giang Loop)]]
 Unterkunft danach: [[Da Nang]]
 
-Anreise: Bus (Mo. 17.08)
-Abreise: Bus/Zug (Fr. 21.08)
+Anreise: [[Dong Van nach Ninh Binh|Bus]] (Mo. 17.08)
+Abreise: [[Ninh Bin nach Da Nang|Bus/Zug]] (Fr. 21.08)
 Aufenthalt volle Tage: 3
 Aufenthalt Nächte: 4
 # Unterkunft: 

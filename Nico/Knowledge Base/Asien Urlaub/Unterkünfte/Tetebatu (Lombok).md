@@ -1,8 +1,8 @@
 Unterkunft davor: [[Gili Inseln]]
 Unterkunft danach: [[Lombok Süden]]
 
-Anreise: Fähre/Taxi (5.9)
-Abreise: Taxi (7.9)
+Anreise: [[Gili nach Tetebatu|Fähre/Taxi]] (5.9)
+Abreise: [[Tetebatu nach Lombok Süden|Taxi]] (7.9)
 Aufenthalt volle Tage: 1
 Aufenthalt Nächte: 2
 # Unterkunft: 
