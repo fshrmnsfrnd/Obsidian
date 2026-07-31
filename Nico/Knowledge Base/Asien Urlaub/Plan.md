@@ -45,30 +45,10 @@
 # 5 Tage Bali
 [Bali Berge | Booking | 24-30 Aug | 6 Nächte | 152,10€](https://www.booking.com/hotel/id/angseri-villas.de.html?label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARnIAQzYAQPoAQH4AQGIAgGoAgG4AvSr6tIGwAIB0gIkNDIyMTNhNTctNjJjMS00Njc0LWI1NDMtZTc5MmQyYmVmNTJj2AIB4AIB&aid=304142&ucfs=1&checkin=2026-08-24&checkout=2026-08-30&dest_id=835&dest_type=region&group_adults=2&no_rooms=1&group_children=0&srpvid=a2ff6c6007ed02e4&srepoch=1784563095&matching_block_id=1062992301_378646362_2_41_0&atlas_src=sr_iw_title#map_closed) 
 ##### 1 Tag (So. 30.8) übersetzen nach Lombok
-# 5 Tage Gili Inseln 
-
-Hütten https://www.airbnb.de/rooms/41170751?check_in=2026-09-01&check_out=2026-09-05&search_mode=regular_search&source_impression_id=p3_1784330188_P3yaA9I6EG9vsQFN&previous_page_section_name=1000&federated_search_id=434bee0a-5ea4-469f-9580-0d318cf90bfd
-
-Hütte https://www.booking.com/hotel/id/beranda-hostel.de.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARnIAQzYAQPoAQH4AQGIAgGoAgG4AvSr6tIGwAIB0gIkNDIyMTNhNTctNjJjMS00Njc0LWI1NDMtZTc5MmQyYmVmNTJj2AIB4AIB&sid=95822c474a900dce8fa0fde328164c96&all_sr_blocks=294265209_396791400_2_1_0_446812&checkin=2026-09-01&checkout=2026-09-04&dest_id=900048668&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=4&highlighted_blocks=294265209_396791400_2_1_0_446812&hpos=4&matching_block_id=294265209_396791400_2_1_0_446812&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=294265209_396791400_2_1_0_446812_137760000&srepoch=1784332959&srpvid=0e96a37e331b0265&type=total&ucfs=1&
-
-Gili Meno (am entspanntesten ruhigsten)
-https://www.booking.com/hotel/id/cha-cha-sunrise-bungalows.de.html?label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARnIAQzYAQPoAQH4AQGIAgGoAgG4AvSr6tIGwAIB0gIkNDIyMTNhNTctNjJjMS00Njc0LWI1NDMtZTc5MmQyYmVmNTJj2AIB4AIB&aid=304142&ucfs=1&checkin=2026-09-01&checkout=2026-09-04&dest_id=900048668&dest_type=city&group_adults=2&no_rooms=1&group_children=0&srpvid=0e96a37e331b0265&srepoch=1784333274&matching_block_id=1444035104_418988838_2_0_0&atlas_src=sr_iw_title
-
-sehr einfache hütte aber billig https://www.booking.com/hotel/id/sasak-island-bungalows.de.html?label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARnIAQzYAQPoAQH4AQGIAgGoAgG4AvSr6tIGwAIB0gIkNDIyMTNhNTctNjJjMS00Njc0LWI1NDMtZTc5MmQyYmVmNTJj2AIB4AIB&aid=304142&ucfs=1&checkin=2026-09-01&checkout=2026-09-04&dest_id=900048668&dest_type=city&group_adults=2&no_rooms=1&group_children=0&srpvid=0e96a37e331b0265&srepoch=1784333394&matching_block_id=142937402_87046499_2_0_0&atlas_src=sr_iw_title
-
-Mittlere Insel (ruhiger)
-
-Hütte direkt am Meer https://www.booking.com/hotel/id/mimpi-bungalow.de.html?label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARnIAQzYAQPoAQH4AQGIAgGoAgG4AvSr6tIGwAIB0gIkNDIyMTNhNTctNjJjMS00Njc0LWI1NDMtZTc5MmQyYmVmNTJj2AIB4AIB&aid=304142&ucfs=1&checkin=2026-09-01&checkout=2026-09-04&dest_id=900048668&dest_type=city&group_adults=2&no_rooms=1&group_children=0&srpvid=0e96a37e331b0265&srepoch=1784333459&matching_block_id=509211904_204738361_2_1_0&atlas_src=sr_iw_title
-
-Hütte direkt am Meer
-https://www.booking.com/hotel/id/bluecoral-bungalows.de.html?label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARnIAQzYAQPoAQH4AQGIAgGoAgG4AvSr6tIGwAIB0gIkNDIyMTNhNTctNjJjMS00Njc0LWI1NDMtZTc5MmQyYmVmNTJj2AIB4AIB&aid=304142&ucfs=1&checkin=2026-09-01&checkout=2026-09-04&dest_id=900048668&dest_type=city&group_adults=2&no_rooms=1&group_children=0&srpvid=0e96a37e331b0265&srepoch=1784333542&matching_block_id=112599402_130961107_2_1_0&atlas_src=sr_iw_title
-
-Rechte Insel (bisschen belebter)
-https://www.booking.com/hotel/id/seven-seas-cottages.de.html?label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARnIAQzYAQPoAQH4AQGIAgGoAgG4AvSr6tIGwAIB0gIkNDIyMTNhNTctNjJjMS00Njc0LWI1NDMtZTc5MmQyYmVmNTJj2AIB4AIB&aid=304142&ucfs=1&checkin=2026-09-01&checkout=2026-09-04&dest_id=900048668&dest_type=city&group_adults=2&no_rooms=1&group_children=0&srpvid=0e96a37e331b0265&srepoch=1784333719&matching_block_id=37787831_117577387_0_2_0_220007&atlas_src=sr_iw_title
-
-https://www.booking.com/hotel/id/lucky-39-s.de.html?label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARnIAQzYAQPoAQH4AQGIAgGoAgG4AvSr6tIGwAIB0gIkNDIyMTNhNTctNjJjMS00Njc0LWI1NDMtZTc5MmQyYmVmNTJj2AIB4AIB&aid=304142&ucfs=1&checkin=2026-09-01&checkout=2026-09-04&dest_id=900048668&dest_type=city&group_adults=2&no_rooms=1&group_children=0&srpvid=0e96a37e331b0265&srepoch=1784333881&matching_block_id=831015304_419606602_2_41_0&atlas_src=sr_iw_title
-##### 1 Tag Wechsel Gili -> Lombok (Sa. 5.9)
-# 1 Tag Tetebatu (Lombok)
+# 4 Tage Gili Inseln 
+[Gili Gede | Booking | 30 Aug - 4 Sept | 5 Nächte | 128,00€](https://www.booking.com/hotel/id/furusato-bungalow-gili-gede.de.html)
+##### 1 Tag Wechsel Gili -> Lombok (S. 4.9)
+# 2 Tage Tetebatu (Lombok)
 [Tetebatu | AirBNB | 5-7 Sept | 2 Nächte | 22,89€](https://www.airbnb.de/rooms/1685443644848446562?check_in=2026-09-05&check_out=2026-09-13&search_mode=regular_search&source_impression_id=p3_1784576762_P3BoO2ZrxTDx6b3t&previous_page_section_name=1000&federated_search_id=596fd034-3616-4c86-932d-7d424c50a503)
 - Angebot von Unterkunft: 12€ p.P. für geführte Tour inkl. Wasserfall Tickets
 - Unterkunft WhatsApp: +62 877-8864-1096

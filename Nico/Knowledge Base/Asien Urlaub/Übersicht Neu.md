@@ -16,12 +16,12 @@
 #### 5 Tage Aufenthalt
 ##### 1 Tag (So. 30.8) [[Bali nach Gili|Übersetzen nach Gili]]
 # [[Gili Inseln]] 
-#### 5 Tage Aufenthalt
-##### 1 Tag Wechsel [[Gili nach Tetebatu|Gili -> Tetebatu (Lombok)]] (Sa. 5.9)
+#### 4 Tage Aufenthalt
+##### 1 Tag Wechsel [[Gili nach Tetebatu|Gili -> Tetebatu (Lombok)]] (So. 4.9)
 # [[Tetebatu (Lombok)]]
-#### 1 Tag Aufenthalt
+#### 2 Tag Aufenthalt
 ##### 1 Tag Wechsel [[Tetebatu nach Lombok Süden|Tetebatu -> Süden Lombok]] (Mo. 7.9)
-# 5 Tage Lombok Süden
+# [[Lombok Süden]]
 #### 5 Tage Aufenthalt
 ##### 2 Tage (So. 13.9) [[Rückflug]] Ankunft München Mo. 14.9
 
