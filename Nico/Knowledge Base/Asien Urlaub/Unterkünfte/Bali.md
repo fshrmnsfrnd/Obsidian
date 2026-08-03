@@ -19,3 +19,4 @@ Aufenthalt Nächte: 5
 - Wasserfälle
 - Städte (Norden)
 - Schildkröten (Norden)
+- Taman Tirta Gangga Tempel

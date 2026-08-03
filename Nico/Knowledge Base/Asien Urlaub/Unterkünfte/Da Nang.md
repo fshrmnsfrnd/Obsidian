@@ -21,4 +21,4 @@ Aufenthalt Nächte: 3
 - My Khe Beach (Schönster Strand)
 - Drachenbrücke (Samstag und Sonntag um 21:00 speit der Drache Feuer)
 - Helio Night Market (Food Markt mit Live Musik)
-
+- https://maps.app.goo.gl/8DEKCEHRYbRcxwxS8?g_st=ic
