@@ -1,4 +1,5 @@
 Unterkunft davor: [[Hanoi]]
+
 Unterkunft danach: [[Ninh Binh (Hoa Lu)]]
 
 Anreise: [[Hanoi nach Dong Van|Bus]] (14.8)
