@@ -1,10 +1,10 @@
-**Unterkunft Start**: Zuhause
-**Unterkunft Ziel**: [[Hanoi]]
+**Unterkunft Start**: Zuhause  
+**Unterkunft Ziel**: [[Hanoi]]  
 
-**Abflug**: Sun 9 Aug 12:10 Munich International Airport (MUC) 
-**Ankunft**: Mon 10 Aug 11:00 Hanoi (HAN) 
+**Abflug**: Sun 9 Aug 12:10 Munich International Airport (MUC)   
+**Ankunft**: Mon 10 Aug 11:00 Hanoi (HAN)   
 
-**Buchungsnummer:** MX54ZG
+**Buchungsnummer:** MX54ZG  
 
 | München -> Shanghai                                          |                                                                     |                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------------- | ---------------------------------- |

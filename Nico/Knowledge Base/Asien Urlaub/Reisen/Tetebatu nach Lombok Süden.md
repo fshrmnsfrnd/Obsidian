@@ -1,9 +1,9 @@
-**Unterkunft Start**: [[Tetebatu (Lombok)]]
-**Unterkunft Ziel**: [[Lombok Süden]]
+**Unterkunft Start**: [[Tetebatu (Lombok)]]  
+**Unterkunft Ziel**: [[Lombok Süden]]  
 
-**Abflug**:
-**Ankunft**:
+**Abflug**:  
+**Ankunft**:  
 
-**Transportmittel**:
-**Link**:
-**Tickets**:
+**Transportmittel**:  
+**Link**:  
+**Tickets**:  

@@ -1,9 +1,9 @@
-**Unterkunft Start**: [[Bali]]
-**Unterkunft Ziel**: [[Gili Inseln]]
+**Unterkunft Start**: [[Bali]]  
+**Unterkunft Ziel**: [[Gili Inseln]]  
 
-**Abfahrt:
-**Ankunft**:
+**Abfahrt:  
+**Ankunft**:  
 
-**Transportmittel**:
-**Link**:
-**Tickets**:
+**Transportmittel**:  
+**Link**:  
+**Tickets**:  

@@ -1,10 +1,10 @@
-**Unterkunft Start**: [[Da Nang]]
-**Unterkunft Ziel**: [[Bali]]
+**Unterkunft Start**: [[Da Nang]]  
+**Unterkunft Ziel**: [[Bali]]  
 
-**Abflug**: Mon 24 Aug 23:00 Da Nang (DAD) 
-**Ankunft**: Tue 25 Aug 12:55 Denpasar Bali (DPS)
+**Abflug**: Mon 24 Aug 23:00 Da Nang (DAD)   
+**Ankunft**: Tue 25 Aug 12:55 Denpasar Bali (DPS)  
 
-**Buchungsnummer:** NJPAQN
+**Buchungsnummer:** NJPAQN  
 
 | Da Nang -> Ho Chi Minh City                                  |                                                              |                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------- |

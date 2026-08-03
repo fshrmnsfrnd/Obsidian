@@ -1,11 +1,11 @@
-**Unterkunft Start**: [[Lombok Süden]]
-**Unterkunft Ziel**: Zuhause
+**Unterkunft Start**: [[Lombok Süden]]  
+**Unterkunft Ziel**: Zuhause  
 
-**Abflug**: Sun 13 Sept 22:15 Denpasar Bali (DPS)
-**Ankunft**: Mon 14 Sept 18:40 Munich International Airport (MUC)
-
-**Buchungsnummer:** HC6EKM (Air Asia bis Kuala Lumpur)
-7TRAA2 (Etihad Airways ab Kuala Lumpur)
+**Abflug**: Sun 13 Sept 22:15 Denpasar Bali (DPS)  
+**Ankunft**: Mon 14 Sept 18:40 Munich International Airport (MUC)  
+  
+**Buchungsnummer:** HC6EKM (Air Asia bis Kuala Lumpur)  
+7TRAA2 (Etihad Airways ab Kuala Lumpur)  
 
 | Denpasar Bali - Kuala Lumpur                                 |                                                              |                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------- |

@@ -1,9 +1,9 @@
-**Unterkunft Start**: [[Gili Inseln]]
-**Unterkunft Ziel**: [[Tetebatu (Lombok)]]
+**Unterkunft Start**: [[Gili Inseln]]  
+**Unterkunft Ziel**: [[Tetebatu (Lombok)]]  
 
-**Abflug**:
-**Ankunft**:
+**Abflug**:  
+**Ankunft**:  
 
-**Transportmittel**:
-**Link**:
-**Tickets**:
+**Transportmittel**:  
+**Link**:  
+**Tickets**:  
