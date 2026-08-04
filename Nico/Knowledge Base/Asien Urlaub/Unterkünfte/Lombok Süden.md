@@ -14,6 +14,5 @@ Aufenthalt Nächte: 6
 # Sonstiges:
 - 
 # Unternehmungen
-- 
-
-[Süden Lombok | Booking | 7-13 Sept | 6 Nächte | 158,73€](https://www.booking.com/hotel/id/tunak-cottage.de.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARnIAQzYAQPoAQH4AQGIAgGoAgG4AuXr-dIGwAIB0gIkMjkzMmZmNWYtZDcxMC00ZDMxLWE0NGEtNjMyMjU3ZDI0ZGQz2AIB4AIB&sid=09cc7e7bd7d1a3bf54ecfa65604f3003&checkin=2026-09-07&checkout=2026-09-13&dest_id=839&dest_type=region&dist=0&do_availability_check=1&group_adults=2&group_children=0&hp_avform=1&hp_group_set=0&no_rooms=1&origin=hp&sb_price_type=total&src=hotel&type=total&#tab-main)
+- Nusa Tenggara Barratt
+- Nusa Lembongan
