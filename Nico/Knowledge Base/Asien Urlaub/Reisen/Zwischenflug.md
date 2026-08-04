@@ -1,3 +1,5 @@
+>Mo. 24.8
+
 **Unterkunft Start**: [[Da Nang]]  
 **Unterkunft Ziel**: [[Bali]]  
 

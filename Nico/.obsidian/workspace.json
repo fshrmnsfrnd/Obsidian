@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1aedacc7adb5cf5",
+            "id": "7f85f6c2b16bb121",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge Base/Asien Urlaub/Packliste.md",
+                "file": "Knowledge Base/Asien Urlaub/Übersicht.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Packliste"
+              "title": "Übersicht"
+            }
+          },
+          {
+            "id": "a0c29a3ca756f61f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge Base/Asien Urlaub/Reisen/Bali nach Gili.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bali nach Gili"
             }
           }
         ]
@@ -203,14 +227,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a1aedacc7adb5cf5",
+  "active": "7f85f6c2b16bb121",
   "lastOpenFiles": [
-    "Knowledge Base/Asien Urlaub/Unterkünfte/Lombok Süden.md",
+    "Knowledge Base/Asien Urlaub/Reisen/Bali nach Gili.md",
     "Knowledge Base/Asien Urlaub/Übersicht.md",
-    "Knowledge Base/Asien Urlaub/Plan.md",
-    "Knowledge Base/Asien Urlaub/Packliste.md",
-    "Knowledge Base/Asien Urlaub/Finanzen.md",
+    "Knowledge Base/Asien Urlaub/Reisen/Ninh Bin nach Da Nang.md",
+    "Knowledge Base/Asien Urlaub/Reisen/Zwischenflug.md",
+    "Knowledge Base/Asien Urlaub/Reisen/Dong Van nach Ninh Binh.md",
+    "Knowledge Base/Asien Urlaub/Reisen/Hanoi nach Dong Van.md",
+    "Knowledge Base/Asien Urlaub/Reisen/Gili nach Tetebatu.md",
+    "Knowledge Base/Asien Urlaub/Reisen/Tetebatu nach Lombok Süden.md",
     "Knowledge Base/Asien Urlaub/Reisen/Rückflug.md",
+    "Knowledge Base/Asien Urlaub/Packliste.md",
+    "Knowledge Base/Asien Urlaub/Unterkünfte/Lombok Süden.md",
+    "Knowledge Base/Asien Urlaub/Plan.md",
+    "Knowledge Base/Asien Urlaub/Finanzen.md",
     "Knowledge Base/Asien Urlaub/Indonesien.md",
     "Knowledge Base/Asien Urlaub/Unterkünfte/Da Nang.md",
     "Knowledge Base/Asien Urlaub/Vietnam.md",
@@ -221,15 +252,8 @@
     "Knowledge Base/Asien Urlaub/Unterkünfte/Gili Inseln.md",
     "Knowledge Base/Asien Urlaub/Unterkünfte/Dong Van (Ha Giang Loop).md",
     "Knowledge Base/Asien Urlaub/Unterkünfte/Bali.md",
-    "Knowledge Base/Asien Urlaub/Reisen/Zwischenflug.md",
-    "Knowledge Base/Asien Urlaub/Reisen/Tetebatu nach Lombok Süden.md",
-    "Knowledge Base/Asien Urlaub/Reisen/Ninh Bin nach Da Nang.md",
     "Knowledge Base/Asien Urlaub/Reisen/Lombok Süden zum Flughafen.md",
     "Knowledge Base/Asien Urlaub/Reisen/Hinflug.md",
-    "Knowledge Base/Asien Urlaub/Reisen/Hanoi nach Dong Van.md",
-    "Knowledge Base/Asien Urlaub/Reisen/Gili nach Tetebatu.md",
-    "Knowledge Base/Asien Urlaub/Reisen/Dong Van nach Ninh Binh.md",
-    "Knowledge Base/Asien Urlaub/Reisen/Bali nach Gili.md",
     "Knowledge Base/Asien Urlaub/Reisen",
     "Knowledge Base/Asien Urlaub/Reisen.md",
     "Knowledge Base/Asien Urlaub/Unterkünfte",

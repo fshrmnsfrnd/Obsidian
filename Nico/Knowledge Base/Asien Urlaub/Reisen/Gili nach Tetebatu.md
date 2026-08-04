@@ -1,3 +1,5 @@
+>So. 4.9
+
 **Unterkunft Start**: [[Gili Inseln]]  
 **Unterkunft Ziel**: [[Tetebatu (Lombok)]]  
 
