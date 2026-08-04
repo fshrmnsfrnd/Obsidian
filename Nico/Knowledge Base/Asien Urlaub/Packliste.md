@@ -1,7 +1,7 @@
 **Gesamtgewichte:**
-Rucksack normal gepackt: 7540g
-Alles alles zusammen: 9265g
-Wenn [[#Auspacken für Flug]] : 5900g
+Rucksack normal gepackt: 7540g  
+Alles alles zusammen: 9265g  
+Wenn [[#Auspacken für Flug]] : 5900g  
 # Klamotten
 ## Mitnehmen
 
