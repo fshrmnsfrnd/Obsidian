@@ -16,3 +16,4 @@ Aufenthalt Nächte: 4
 # Unternehmungen
 - Food Tour
 - Stadt anschauen
+- Central Sector of the Imperial Citadel of Thang Long Weltkulturerbe

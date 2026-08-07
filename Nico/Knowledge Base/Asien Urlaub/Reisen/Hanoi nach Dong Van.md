@@ -17,7 +17,7 @@ https://www.bookaway.com/de/routes/vietnam/hanoi-to-dong-van/sleeping-bus-by-cau
 15h dafür nur 16€ pro Person  
 
 https://12go.asia/de/checkout/7dbbe9be  
-40€ pro Person, dafür nur 10:30h  
+35€ pro Person, dafür nur 10:30h  
 6:45 bis 16:55  
 7:15 bis 17:25  
 7:45 bis 18:15  

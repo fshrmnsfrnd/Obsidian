@@ -7,7 +7,7 @@
 ##### 1 Tag (Mo. 17.8) [[Dong Van nach Ninh Binh]]
 # [[Ninh Binh (Hoa Lu)]]
 #### 3 Tage Aufenthalt
-##### 1 Tag (Do. 21.8) [[Ninh Bin nach Da Nang]]
+##### 1 Tag (Fr. 21.8) [[Ninh Bin nach Da Nang]]
 # [[Da Nang]]
 #### 2 Tage Aufenthalt
 ##### 1 Tag (Mo. 24.8) [[Zwischenflug|Flug nach Bali]] 

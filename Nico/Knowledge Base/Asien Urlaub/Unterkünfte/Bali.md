@@ -20,3 +20,4 @@ Aufenthalt Nächte: 5
 - Städte (Norden)
 - Schildkröten (Norden)
 - Taman Tirta Gangga Tempel
+- https://whc.unesco.org/en/list/1194/maps/

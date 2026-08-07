@@ -4,7 +4,8 @@
 **Abflug**: Sun 9 Aug 12:10 Munich International Airport (MUC)   
 **Ankunft**: Mon 10 Aug 11:00 Hanoi (HAN)   
 
-**Buchungsnummer:** MX54ZG  
+**Buchungsnummer:** 1149-141-524 (Flightnetwork)  
+**Check in:** https://m.airchina.com.cn/ac/c/invoke/SeatcheckIn/qrySeatCheckIns@pg?comeFlag=showSeatCheckInsFlights&entryFlag=3&type=selectPerson  
 
 | München -> Shanghai                                          |                                                                     |                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------------- | ---------------------------------- |
@@ -15,7 +16,7 @@
 | Arrival                                                      | Mon 10 Aug 05:10                                                    | Pudong International Airport (PVG) |
 | Name des Passagiers                                          | Freigepäckgrenze                                                    | E-Ticket-Beleg(e)                  |
 | Nico Natzer, _Adult_                                         | 1 Gepäckstück(e) erlaubt x 23kg.  <br>1 Handgepäck 5kg (55x40x20cm) | 999-4817378749                     |
-| Luna-Elsbeth Dambacher, _Adult_                              | 1 Gepäckstück(e) erlaubt x 23kg.  <br>1 Handgepäck 5kg (55x40x20cm) |                                    |
+| Luna-Elsbeth Dambacher, _Adult_                              | 1 Gepäckstück(e) erlaubt x 23kg.  <br>1 Handgepäck 5kg (55x40x20cm) | 999-4817378748                     |
 
 ---
 

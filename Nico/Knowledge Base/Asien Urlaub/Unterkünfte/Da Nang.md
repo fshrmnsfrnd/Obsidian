@@ -15,6 +15,8 @@ Aufenthalt Nächte: 3
 - 
 # Unternehmungen
 - Nationalpark Bạch Mã Vườn Quốc Gia Bạch Mã  
+- Complex of Hué Monuments Weltkulturerbe  
+- Hoi An Ancient Town Weltkulturerbe
 - Ninh Bin anschauen  
 - Hue anschauen  
 - Hoi An (Schneider)  
