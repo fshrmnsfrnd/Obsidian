@@ -1,7 +1,7 @@
 ##### 2 Tage [[Hinflug]] Ankunft Mo. 10.8
 # [[Hanoi]]
 #### 3 Tage Aufenthalt
-##### 1 Tag (Sa. 14.8) [[Hanoi nach Dong Van]]
+##### 1 Tag (Fr. 14.8) [[Hanoi nach Dong Van]]
 # [[Dong Van (Ha Giang Loop)]]
 #### 2 Tage Aufenthalt
 ##### 1 Tag (Mo. 17.8) [[Dong Van nach Ninh Binh]]

@@ -1,8 +1,8 @@
 Unterkunft davor: [[Tetebatu (Lombok)]]  
 Unterkunft danach: keine  
 
-Anreise: [[Tetebatu nach Lombok Süden|Taxi]] (7.9)  
-Abreise: [[Rückflug|Fähre/Flug]] (13.9)  
+Anreise: [[Tetebatu nach Lombok Süden|Taxi]] (Mo. 7.9)  
+Abreise: [[Rückflug|Fähre/Flug]] (So. 13.9)  
 Aufenthalt volle Tage: 5  
 Aufenthalt Nächte: 6  
 # Unterkunft: 

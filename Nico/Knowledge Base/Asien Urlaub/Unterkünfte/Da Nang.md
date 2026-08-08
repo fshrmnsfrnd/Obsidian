@@ -1,8 +1,8 @@
 Unterkunft davor: [[Ninh Binh (Hoa Lu)]]  
 Unterkunft danach: [[Bali]]  
 
-Anreise: [[Ninh Bin nach Da Nang|Bus/Zug]] (21.8)  
-Abreise: [[Zwischenflug]] (24.8)  
+Anreise: [[Ninh Bin nach Da Nang|Bus/Zug]] (Fr. 21.8)  
+Abreise: [[Zwischenflug]] (Mo. 24.8)  
 Aufenthalt volle Tage: 2  
 Aufenthalt Nächte: 3  
 # Unterkunft:   

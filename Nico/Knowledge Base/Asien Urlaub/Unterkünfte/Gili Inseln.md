@@ -1,8 +1,8 @@
 Unterkunft davor: [[Bali]]  
 Unterkunft danach: [[Tetebatu (Lombok)]]  
 
-Anreise: [[Bali nach Gili|Fähre]] (30.8)  
-Abreise: [[Gili nach Tetebatu]] 4.9  
+Anreise: [[Bali nach Gili|Fähre]] (So. 30.8)  
+Abreise: [[Gili nach Tetebatu]] (Fr. 4.9)  
 Aufenthalt volle Tage: 4  
 Aufenthalt Nächte: 5  
 # Unterkunft: 

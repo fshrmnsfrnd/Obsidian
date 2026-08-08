@@ -14,3 +14,5 @@ https://ssl.directferries.com/ferry/secure/booking_redirect_df.aspx?stdc=DF10G&g
 Fähre von nähe Denpasar direkt nach Gili Gede (50,00€ pro Person)
 
 Fähre von Padang Bai (Bali) nach Bangsal (Lombok). Dann evtl Bus und dann rüber auf die Insel
+
+Flug von Bali nach Lombok ca. 35 - 45€ pro Person.

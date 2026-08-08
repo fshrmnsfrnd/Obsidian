@@ -1,4 +1,4 @@
->Sa. 14.8
+>Fr. 14.8
 
 **Unterkunft Start**: [[Hanoi]]  
 **Unterkunft Ziel**: [[Dong Van (Ha Giang Loop)]]  

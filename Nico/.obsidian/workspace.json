@@ -30,57 +30,8 @@
               "icon": "lucide-file",
               "title": "Übersicht"
             }
-          },
-          {
-            "id": "e205390d714d61d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge Base/Asien Urlaub/Reisen/Ninh Bin nach Da Nang.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ninh Bin nach Da Nang"
-            }
-          },
-          {
-            "id": "f49375aab5099c43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge Base/Asien Urlaub/Packliste.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Packliste"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,33 +203,33 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f49375aab5099c43",
+  "active": "12dbaf73465bc90e",
   "lastOpenFiles": [
-    "Knowledge Base/Asien Urlaub/Reisen/Ninh Bin nach Da Nang.md",
-    "index.md",
-    "Knowledge Base/Asien Urlaub/Übersicht.md",
-    "Knowledge Base/Asien Urlaub/Reisen/Dong Van nach Ninh Binh.md",
-    "Knowledge Base/Asien Urlaub/Unterkünfte/Ninh Binh (Hoa Lu).md",
-    "Knowledge Base/Asien Urlaub/Reisen/Hanoi nach Dong Van.md",
-    "Knowledge Base/Asien Urlaub/Reisen/Hinflug.md",
-    "Knowledge Base/Asien Urlaub/Reisen/Rückflug.md",
-    "Knowledge Base/Asien Urlaub/Reisen/Zwischenflug.md",
-    "Knowledge Base/Asien Urlaub/Unterkünfte/Bali.md",
-    "Knowledge Base/Asien Urlaub/Unterkünfte/Hanoi.md",
-    "Knowledge Base/Asien Urlaub/Unterkünfte/Da Nang.md",
-    "Knowledge Base/Asien Urlaub/Reisen/Bali nach Gili.md",
-    "Knowledge Base/Asien Urlaub/Reisen/Gili nach Tetebatu.md",
-    "Knowledge Base/Asien Urlaub/Reisen/Tetebatu nach Lombok Süden.md",
-    "Knowledge Base/Asien Urlaub/Packliste.md",
     "Knowledge Base/Asien Urlaub/Unterkünfte/Lombok Süden.md",
+    "Knowledge Base/Asien Urlaub/Übersicht.md",
+    "Knowledge Base/Asien Urlaub/Unterkünfte/Tetebatu (Lombok).md",
+    "Knowledge Base/Asien Urlaub/Unterkünfte/Gili Inseln.md",
+    "Knowledge Base/Asien Urlaub/Unterkünfte/Bali.md",
+    "Knowledge Base/Asien Urlaub/Unterkünfte/Da Nang.md",
+    "Knowledge Base/Asien Urlaub/Unterkünfte/Ninh Binh (Hoa Lu).md",
+    "Knowledge Base/Asien Urlaub/Reisen/Dong Van nach Ninh Binh.md",
+    "Knowledge Base/Asien Urlaub/Unterkünfte/Dong Van (Ha Giang Loop).md",
+    "Knowledge Base/Asien Urlaub/Reisen/Hanoi nach Dong Van.md",
+    "Knowledge Base/Asien Urlaub/Unterkünfte/Hanoi.md",
+    "Knowledge Base/Asien Urlaub/Reisen/Tetebatu nach Lombok Süden.md",
+    "Knowledge Base/Asien Urlaub/Reisen/Gili nach Tetebatu.md",
+    "Knowledge Base/Asien Urlaub/Reisen/Bali nach Gili.md",
+    "Knowledge Base/Asien Urlaub/Reisen/Zwischenflug.md",
+    "Knowledge Base/Asien Urlaub/Reisen/Ninh Bin nach Da Nang.md",
+    "Knowledge Base/Asien Urlaub/Reisen/Hinflug.md",
+    "Knowledge Base/Asien Urlaub/Packliste.md",
+    "index.md",
+    "Knowledge Base/Asien Urlaub/Reisen/Rückflug.md",
     "Knowledge Base/Asien Urlaub/Plan.md",
     "Knowledge Base/Asien Urlaub/Finanzen.md",
     "Knowledge Base/Asien Urlaub/Indonesien.md",
     "Knowledge Base/Asien Urlaub/Vietnam.md",
-    "Knowledge Base/Asien Urlaub/Unterkünfte/Tetebatu (Lombok).md",
     "Knowledge Base/Asien Urlaub/Unterkünfte.md",
-    "Knowledge Base/Asien Urlaub/Unterkünfte/Gili Inseln.md",
-    "Knowledge Base/Asien Urlaub/Unterkünfte/Dong Van (Ha Giang Loop).md",
     "Knowledge Base/Asien Urlaub/Reisen/Lombok Süden zum Flughafen.md",
     "Knowledge Base/Asien Urlaub/Reisen",
     "Knowledge Base/Asien Urlaub/Unterkünfte",

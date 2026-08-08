@@ -1,8 +1,8 @@
 Unterkunft davor: [[Hanoi]]    
 Unterkunft danach: [[Ninh Binh (Hoa Lu)]]  
 
-Anreise: [[Hanoi nach Dong Van|Bus]] (14.8)   
-Abreise: [[Dong Van nach Ninh Binh|Bus]] (17.8)  
+Anreise: [[Hanoi nach Dong Van|Bus]] (Fr. 14.8)   
+Abreise: [[Dong Van nach Ninh Binh|Bus]] (Mo. 17.8)  
 Aufenthalt volle Tage: 2   
 Aufenthalt Nächte: 3  
 # Unterkunft: 
